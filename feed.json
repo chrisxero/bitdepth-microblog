@@ -7,6 +7,113 @@
 	"items": [
 		
 			{
+				"id": "http://bitdepth.micro.blog/2021/03/14/made-some-apple.html",
+				
+				"content_html": "<p>Made some apple cake for Pi Day.</p>\n\n<p><img src=\"uploads/2021/42f580991e.jpg\" width=\"600\" height=\"450\" alt=\"Apple cake\" /></p>\n",
+				"content_text": "Made some apple cake for Pi Day.\n\n<img src=\"uploads/2021/42f580991e.jpg\" width=\"600\" height=\"450\" alt=\"Apple cake\" />\n",
+				"date_published": "2021-03-14T19:01:46-04:00",
+				"url": "https://micro.bitdepth.org/2021/03/14/made-some-apple.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2021/03/13/my-next-march.html",
+				
+				"content_html": "<p>My next March Around the World film is from France, directed by Nelly Kaplan in 1969 – <a href=\"https://letterboxd.com/film/a-very-curious-girl/\">A VERY CURIOUS GIRL </a>on The Criterion Channel. 🎥🇫🇷</p>\n",
+				"content_text": "My next March Around the World film is from France, directed by Nelly Kaplan in 1969 – [A VERY CURIOUS GIRL ](https://letterboxd.com/film/a-very-curious-girl/)on The Criterion Channel. 🎥🇫🇷\n",
+				"date_published": "2021-03-13T19:49:44-04:00",
+				"url": "https://micro.bitdepth.org/2021/03/13/my-next-march.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2021/03/13/continuing-to-march.html",
+				
+				"content_html": "<p>Continuing to March Around the World by stopping in Ireland to watch the 2020 film ‎<a href=\"https://letterboxd.com/film/film:650403/\">TO THE MOON</a> directed by Tadhg O&rsquo;Sullivan as part of Montréal&rsquo;s Festival du nouveau cinéma&rsquo;s Nuit Blanche celebration. 🎥🇮🇪🌕</p>\n",
+				"content_text": "Continuing to March Around the World by stopping in Ireland to watch the 2020 film ‎[TO THE MOON](https://letterboxd.com/film/film:650403/) directed by Tadhg O'Sullivan as part of Montréal's Festival du nouveau cinéma's Nuit Blanche celebration. 🎥🇮🇪🌕\n",
+				"date_published": "2021-03-13T18:20:19-04:00",
+				"url": "https://micro.bitdepth.org/2021/03/13/continuing-to-march.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2021/03/13/zojirushi-bread-machine.html",
+				"title": "Zojirushi Bread Machine",
+				"content_html": "<p>One of the most useful things I have is my <a href=\"https://www.zojirushi.com/app/product/bbpdc\">Zojirushi Virtuoso Plus Breadmaker.</a> I&rsquo;ve had it for more than a year now and I use it a few times a week. I still make sourdough bread and I knead the dough in the bread machine which saves a lot of time.</p>\n\n<p>When I&rsquo;m pressed for time I can make a loaf of bread in the machine in a few hours without having to do much after everything gets put into the machine. It&rsquo;s also great for making pasta dough or any other stuff that needs to be kneaded. Using the recipes from <a href=\"https://www.kingarthurbaking.com\">King Arthur Baking</a> has made a big difference and I even occasionally make some tomato soup using the &ldquo;Jam&rdquo; setting on the bread machine.</p>\n\n<p>It&rsquo;s large enough to make a full-sized 2 pound loaf of bread. Following the guidance of King Arthur Baking, when I make bread in the machine I take the dough out just before the final rise and remove the paddles, and form the loaf before putting it back into the machine. This reduces the dents in the bread the paddles will cause, and it also makes the bread slip more easily out of the bucket when the bread finishes baking.</p>\n\n<p>Lately, my favourite bread machine bread is the <a href=\"https://www.kingarthurbaking.com/recipes/back-of-the-bag-oatmeal-bread-recipe\">Back-of-the-Bag Oatmeal Bread</a> and my other regular recipe is the <a href=\"https://www.kingarthurbaking.com/recipes/bread-machine-bread-easy-as-can-be-recipe\">Bread Machine Bread - Easy As Can Be</a> recipe. One of the benefits of working from home during the pandemic is that there now is always fresh, homemade bread in the house. It&rsquo;s great to be able to get up in the morning and put the ingredients into the machine and then have a fresh loaf of bread ready at lunchtime.</p>\n",
+				"content_text": "One of the most useful things I have is my [Zojirushi Virtuoso Plus Breadmaker.](https://www.zojirushi.com/app/product/bbpdc) I've had it for more than a year now and I use it a few times a week. I still make sourdough bread and I knead the dough in the bread machine which saves a lot of time.\n\nWhen I'm pressed for time I can make a loaf of bread in the machine in a few hours without having to do much after everything gets put into the machine. It's also great for making pasta dough or any other stuff that needs to be kneaded. Using the recipes from [King Arthur Baking](https://www.kingarthurbaking.com) has made a big difference and I even occasionally make some tomato soup using the \"Jam\" setting on the bread machine.\n\nIt's large enough to make a full-sized 2 pound loaf of bread. Following the guidance of King Arthur Baking, when I make bread in the machine I take the dough out just before the final rise and remove the paddles, and form the loaf before putting it back into the machine. This reduces the dents in the bread the paddles will cause, and it also makes the bread slip more easily out of the bucket when the bread finishes baking. \n\nLately, my favourite bread machine bread is the [Back-of-the-Bag Oatmeal Bread](https://www.kingarthurbaking.com/recipes/back-of-the-bag-oatmeal-bread-recipe) and my other regular recipe is the [Bread Machine Bread - Easy As Can Be](https://www.kingarthurbaking.com/recipes/bread-machine-bread-easy-as-can-be-recipe) recipe. One of the benefits of working from home during the pandemic is that there now is always fresh, homemade bread in the house. It's great to be able to get up in the morning and put the ingredients into the machine and then have a fresh loaf of bread ready at lunchtime.\n\n",
+				"date_published": "2021-03-13T10:00:51-04:00",
+				"url": "https://micro.bitdepth.org/2021/03/13/zojirushi-bread-machine.html",
+				"tags": ["cooking"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2021/03/12/watching-death-of.html",
+				
+				"content_html": "<p>Watching ‎<a href=\"https://letterboxd.com/film/death-of-a-ladies-man/\">DEATH OF A LADIES&rsquo; MAN</a> directed by Matt Bissonnette because of Leonard Cohen music, Gabriel Byrne, and a bunch of Québécois actors. 🎥</p>\n",
+				"content_text": "Watching ‎[DEATH OF A LADIES' MAN](https://letterboxd.com/film/death-of-a-ladies-man/) directed by Matt Bissonnette because of Leonard Cohen music, Gabriel Byrne, and a bunch of Québécois actors. 🎥\n",
+				"date_published": "2021-03-12T18:51:25-04:00",
+				"url": "https://micro.bitdepth.org/2021/03/12/watching-death-of.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2021/03/12/sipping-a-delicious.html",
+				
+				"content_html": "<p>Sipping a delicious Double Orange Ale from Unfiltered and thinking that my last day at the school before everything changed was exactly a year ago.</p>\n\n<p><img src=\"uploads/2021/761dec570c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Sipping a delicious Double Orange Ale from Unfiltered and thinking that my last day at the school before everything changed was exactly a year ago.\n\n<img src=\"uploads/2021/761dec570c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-03-12T17:29:53-04:00",
+				"url": "https://micro.bitdepth.org/2021/03/12/sipping-a-delicious.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2021/03/11/watching-the-sublime.html",
+				
+				"content_html": "<p>Watching ‎the sublime and beautiful <a href=\"https://letterboxd.com/film/the-grand-budapest-hotel/\">THE GRAND BUDAPEST HOTEL</a> yet again. 🎥</p>\n",
+				"content_text": "Watching ‎the sublime and beautiful [THE GRAND BUDAPEST HOTEL](https://letterboxd.com/film/the-grand-budapest-hotel/) yet again. 🎥\n",
+				"date_published": "2021-03-11T18:25:40-04:00",
+				"url": "https://micro.bitdepth.org/2021/03/11/watching-the-sublime.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2021/03/10/watching-a-film.html",
+				
+				"content_html": "<p>Watching ‎a film from Japan in my March Around The World with Naomi Kawase&rsquo;s 2020 film <a href=\"https://boxd.it/ozs2\">TRUE MOTHERS</a>. 🎥 🇯🇵</p>\n",
+				"content_text": "Watching ‎a film from Japan in my March Around The World with Naomi Kawase's 2020 film [TRUE MOTHERS](https://boxd.it/ozs2). 🎥 🇯🇵\n",
+				"date_published": "2021-03-10T17:02:02-04:00",
+				"url": "https://micro.bitdepth.org/2021/03/10/watching-a-film.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2021/03/09/watching-a-film.html",
+				
+				"content_html": "<p>Watching ‎a 1953 film from Spain for my next stop in my March Around World – <a href=\"https://letterboxd.com/film/segundo-lopez-urban-adventurer/\">SEGUNDO LÓPEZ, URBAN ADVENTURER</a> directed by Ana Mariscal thanks to the Instituto Cervantes. 🎥 🇪🇸</p>\n",
+				"content_text": "Watching ‎a 1953 film from Spain for my next stop in my March Around World – [SEGUNDO LÓPEZ, URBAN ADVENTURER](https://letterboxd.com/film/segundo-lopez-urban-adventurer/) directed by Ana Mariscal thanks to the Instituto Cervantes. 🎥 🇪🇸\n",
+				"date_published": "2021-03-09T19:08:06-04:00",
+				"url": "https://micro.bitdepth.org/2021/03/09/watching-a-film.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2021/03/09/film-in-my.html",
+				
+				"content_html": "<p>Film #12 in my March Around the World is from Poland – the 2019 film ‎<a href=\"https://letterboxd.com/film/corpus-christi-2019/\">CORPUS CHRISTI</a> directed by Jan Komasa on the Criterion Channel. 🎥 🇵🇱</p>\n",
+				"content_text": "Film #12 in my March Around the World is from Poland – the 2019 film ‎[CORPUS CHRISTI](https://letterboxd.com/film/corpus-christi-2019/) directed by Jan Komasa on the Criterion Channel. 🎥 🇵🇱\n",
+				"date_published": "2021-03-09T17:46:42-04:00",
+				"url": "https://micro.bitdepth.org/2021/03/09/film-in-my.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2021/03/08/watching-film-in.html",
+				
+				"content_html": "<p>Watching ‎film #11 in my March Around the World with a 2020 film from Georgia – <a href=\"https://letterboxd.com/film/beginning-2020/\">BEGINNING</a> directed by Dea Kulumbegashvili on MUBI. 🎥🇬🇪</p>\n",
+				"content_text": "Watching ‎film #11 in my March Around the World with a 2020 film from Georgia – [BEGINNING](https://letterboxd.com/film/beginning-2020/) directed by Dea Kulumbegashvili on MUBI. 🎥🇬🇪\n",
+				"date_published": "2021-03-08T17:19:34-04:00",
+				"url": "https://micro.bitdepth.org/2021/03/08/watching-film-in.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2021/03/08/for-those-in.html",
+				
+				"content_html": "<p>For those in the US and Canada, Mark Cousins’ <a href=\"https://www.criterionchannel.com/women-make-film\">WOMEN MAKE FILM</a> is on The Criterion Channel along with a great selection of films directed by women.</p>\n",
+				"content_text": "For those in the US and Canada, Mark Cousins’ [WOMEN MAKE FILM](https://www.criterionchannel.com/women-make-film) is on The Criterion Channel along with a great selection of films directed by women.\n",
+				"date_published": "2021-03-08T11:41:37-04:00",
+				"url": "https://micro.bitdepth.org/2021/03/08/for-those-in.html"
+			},
+			{
 				"id": "http://bitdepth.micro.blog/2021/03/07/today-in-march.html",
 				
 				"content_html": "<p>Today in March Around the World I&rsquo;m watching a film from Armenia from 2006 – ‎<a href=\"https://letterboxd.com/film/the-lighthouse-2006/\">THE LIGHTHOUSE</a> directed by Mariya Saakyan on MUBI. 🎥🇦🇲</p>\n",
