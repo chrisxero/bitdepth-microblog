@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://bitdepth.micro.blog/2021/06/21/butterfly.html",
+				
+				"content_html": "<p>Butterfly</p>\n\n<p><img src=\"uploads/2021/985b394199.jpg\" width=\"600\" height=\"600\" alt=\"Butterfly on leaf\" /></p>\n",
+				"content_text": "Butterfly \n\n<img src=\"uploads/2021/985b394199.jpg\" width=\"600\" height=\"600\" alt=\"Butterfly on leaf\" />\n",
+				"date_published": "2021-06-21T19:20:08-03:00",
+				"url": "https://micro.bitdepth.org/2021/06/21/butterfly.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2021/06/19/making-some-strawberry.html",
+				
+				"content_html": "<p>Making some strawberry jam in the bread machine with strawberries my sister and her family picked earlier today. 🍓</p>\n",
+				"content_text": "Making some strawberry jam in the bread machine with strawberries my sister and her family picked earlier today. 🍓\n",
+				"date_published": "2021-06-19T18:09:28-03:00",
+				"url": "https://micro.bitdepth.org/2021/06/19/making-some-strawberry.html"
+			},
+			{
 				"id": "http://bitdepth.micro.blog/2021/06/13/currently-reading-the.html",
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780525555216\">The Anthropocene Reviewed</a> by John Green 📚</p>\n",
