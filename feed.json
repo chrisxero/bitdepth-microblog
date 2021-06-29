@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://bitdepth.micro.blog/2021/06/28/finished-reading-agency.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780451490988\">Agency</a> by William Gibson 📚</p>\n",
+				"content_text": "Finished reading: [Agency](https://micro.blog/books/9780451490988) by William Gibson 📚\n",
+				"date_published": "2021-06-28T21:02:30-03:00",
+				"url": "https://micro.bitdepth.org/2021/06/28/finished-reading-agency.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2021/06/24/kicking-off-hiff.html",
+				
+				"content_html": "<p>Kicking off HIFF (Halifax Independent Filmmakers Festival) 2021 at home by watching ‎<a href=\"https://letterboxd.com/film/the-cloud-in-her-room/\">THE CLOUD IN HER ROOM</a> directed by Zheng Lu Xinyuan. 🎥 #HIFF2021</p>\n",
+				"content_text": "Kicking off HIFF (Halifax Independent Filmmakers Festival) 2021 at home by watching ‎[THE CLOUD IN HER ROOM](https://letterboxd.com/film/the-cloud-in-her-room/) directed by Zheng Lu Xinyuan. 🎥 #HIFF2021\n",
+				"date_published": "2021-06-24T17:52:16-03:00",
+				"url": "https://micro.bitdepth.org/2021/06/24/kicking-off-hiff.html",
+				"tags": ["Film"]
+			},
+			{
 				"id": "http://bitdepth.micro.blog/2021/06/21/butterfly.html",
 				
 				"content_html": "<p>Butterfly</p>\n\n<p><img src=\"uploads/2021/985b394199.jpg\" width=\"600\" height=\"600\" alt=\"Butterfly on leaf\" /></p>\n",
@@ -34,8 +51,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2021/06/12/breakfast-pizza-with.html",
 				
-				"content_html": "<p>Breakfast pizza with eggs, cheese, onions, garlic, tzatziki, and tomato sauce.</p>\n\n<p><img src=\"uploads/2021/d2bc5fceeb.jpg\" width=\"600\" height=\"600\" alt=\"Breakfast pizza cooling on metal rack.\" /></p>\n",
-				"content_text": "Breakfast pizza with eggs, cheese, onions, garlic, tzatziki, and tomato sauce.\n\n<img src=\"uploads/2021/d2bc5fceeb.jpg\" width=\"600\" height=\"600\" alt=\"Breakfast pizza cooling on metal rack.\" />\n",
+				"content_html": "<p>Breakfast pizza with eggs, cheese, onions, garlic, tzatziki, and tomato sauce.</p>\n\n<p><img src=\"https://micro.bitdepth.org/uploads/2021/d2bc5fceeb.jpg\" width=\"600\" height=\"600\" alt=\"Breakfast pizza cooling on metal rack.\" /></p>\n",
+				"content_text": "Breakfast pizza with eggs, cheese, onions, garlic, tzatziki, and tomato sauce.\n\n<img src=\"https://micro.bitdepth.org/uploads/2021/d2bc5fceeb.jpg\" width=\"600\" height=\"600\" alt=\"Breakfast pizza cooling on metal rack.\" />\n",
 				"date_published": "2021-06-12T08:40:12-03:00",
 				"url": "https://micro.bitdepth.org/2021/06/12/breakfast-pizza-with.html",
 				"tags": ["Photos"]
