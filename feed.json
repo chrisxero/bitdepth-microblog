@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://bitdepth.micro.blog/2021/08/10/watching-the-film.html",
+				
+				"content_html": "<p>Watching ‎the 2006 film <a href=\"https://letterboxd.com/film/game-6/\">GAME 6</a> written by Don DeLillo and directed by Michael Hoffman in iTunes. 🎥</p>\n",
+				"content_text": "Watching ‎the 2006 film [GAME 6](https://letterboxd.com/film/game-6/) written by Don DeLillo and directed by Michael Hoffman in iTunes. 🎥\n",
+				"date_published": "2021-08-10T17:55:44-03:00",
+				"url": "https://micro.bitdepth.org/2021/08/10/watching-the-film.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2021/08/03/watching-the-documentary.html",
+				
+				"content_html": "<p>Watching ‎the 1970 documentary <a href=\"https://letterboxd.com/film/langlois/\">LANGLOIS</a> directed by Eila Hershon and Roberto Guerra on The Criterion Channel. 🎥</p>\n",
+				"content_text": "Watching ‎the 1970 documentary [LANGLOIS](https://letterboxd.com/film/langlois/) directed by Eila Hershon and Roberto Guerra on The Criterion Channel. 🎥\n",
+				"date_published": "2021-08-03T18:01:52-03:00",
+				"url": "https://micro.bitdepth.org/2021/08/03/watching-the-documentary.html",
+				"tags": ["Film"]
+			},
+			{
 				"id": "http://bitdepth.micro.blog/2021/08/01/watching-lynn-hershmanleesons.html",
 				
 				"content_html": "<p>Watching ‎Lynn Hershman-Leeson&rsquo;s 1997 film <a href=\"https://letterboxd.com/film/conceiving-ada/\">CONCEIVING ADA</a> on the Criterion Channel. 🎥</p>\n",
