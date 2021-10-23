@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://bitdepth.micro.blog/2021/10/23/watching-the-film.html",
+				
+				"content_html": "<p>Watching ‎the 1948 film <a href=\"https://letterboxd.com/film/brighton-rock/\">BRIGHTON ROCK</a> directed by John Boulting on TCM in Noir Alley on TCM. 🎥</p>\n",
+				"content_text": "Watching ‎the 1948 film [BRIGHTON ROCK](https://letterboxd.com/film/brighton-rock/) directed by John Boulting on TCM in Noir Alley on TCM. 🎥\n",
+				"date_published": "2021-10-23T18:18:28-03:00",
+				"url": "https://micro.bitdepth.org/2021/10/23/watching-the-film.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2021/10/20/leaf-of-basil.html",
+				
+				"content_html": "<p>Leaf of basil on pan pizza.</p>\n\n<p><img src=\"uploads/2021/3897f14a1b.jpg\" width=\"600\" height=\"400\" alt=\"\" /></p>\n",
+				"content_text": "Leaf of basil on pan pizza.\n\n<img src=\"uploads/2021/3897f14a1b.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
+				"date_published": "2021-10-20T21:01:42-03:00",
+				"url": "https://micro.bitdepth.org/2021/10/20/leaf-of-basil.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2021/10/20/watching-the-german.html",
+				
+				"content_html": "<p>Watching ‎the 2021 German film <a href=\"https://letterboxd.com/film/im-your-man-2021/\">I&rsquo;M YOUR MAN</a> directed by Maria Schrader in iTunes. 🎥</p>\n",
+				"content_text": "Watching ‎the 2021 German film [I'M YOUR MAN](https://letterboxd.com/film/im-your-man-2021/) directed by Maria Schrader in iTunes. 🎥\n",
+				"date_published": "2021-10-20T17:34:27-03:00",
+				"url": "https://micro.bitdepth.org/2021/10/20/watching-the-german.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2021/10/19/watching-compartment-no.html",
+				
+				"content_html": "<p>Watching ‎<a href=\"https://letterboxd.com/film/compartment-no-6/\">COMPARTMENT NO. 6</a> directed by Juho Kuosmanen as I continue to watch films from the Festival du Nouveau Cinéma streaming selections. #FNC2021 🎥</p>\n",
+				"content_text": "Watching ‎[COMPARTMENT NO. 6](https://letterboxd.com/film/compartment-no-6/) directed by Juho Kuosmanen as I continue to watch films from the Festival du Nouveau Cinéma streaming selections. #FNC2021 🎥\n",
+				"date_published": "2021-10-19T19:35:27-03:00",
+				"url": "https://micro.bitdepth.org/2021/10/19/watching-compartment-no.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2021/10/18/watching-the-ukrainian.html",
+				
+				"content_html": "<p>Watching ‎the 2021 Ukrainian film <a href=\"https://letterboxd.com/film/film:744609/\">REFLECTION</a> directed by Valentyn Vasyanovych as part of the streaming selection of the Festival du Nouveau Cinéma. 🎥 #fnc2021</p>\n",
+				"content_text": "Watching ‎the 2021 Ukrainian film [REFLECTION](https://letterboxd.com/film/film:744609/) directed by Valentyn Vasyanovych as part of the streaming selection of the Festival du Nouveau Cinéma. 🎥 #fnc2021\n",
+				"date_published": "2021-10-18T18:22:23-03:00",
+				"url": "https://micro.bitdepth.org/2021/10/18/watching-the-ukrainian.html",
+				"tags": ["Film"]
+			},
+			{
 				"id": "http://bitdepth.micro.blog/2021/10/15/watching-todd-haynes.html",
 				
 				"content_html": "<p>Watching ‎Todd Haynes&rsquo; 2021 music documentary <a href=\"https://letterboxd.com/film/the-velvet-underground-2021/\">THE VELVET UNDERGROUND</a> on AppleTV+. 🎥🎵</p>\n",
@@ -18,8 +63,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2021/10/11/veggie-shepherds-pie.html",
 				
-				"content_html": "<p>Veggie shepherds pie.</p>\n\n<p><img src=\"uploads/2021/d11b4076a4.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Veggie shepherds pie.\n\n<img src=\"uploads/2021/d11b4076a4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Veggie shepherds pie.</p>\n\n<p><img src=\"https://micro.bitdepth.org/uploads/2021/d11b4076a4.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Veggie shepherds pie.\n\n<img src=\"https://micro.bitdepth.org/uploads/2021/d11b4076a4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-11T18:25:01-03:00",
 				"url": "https://micro.bitdepth.org/2021/10/11/veggie-shepherds-pie.html",
 				"tags": ["Photos"]
@@ -27,8 +72,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2021/10/11/apple-crisp-cooling.html",
 				
-				"content_html": "<p>Apple crisp cooling.</p>\n\n<p><img src=\"uploads/2021/7ae7e99a39.jpg\" width=\"600\" height=\"412\" alt=\"\" /></p>\n",
-				"content_text": "Apple crisp cooling.\n\n<img src=\"uploads/2021/7ae7e99a39.jpg\" width=\"600\" height=\"412\" alt=\"\" />\n",
+				"content_html": "<p>Apple crisp cooling.</p>\n\n<p><img src=\"https://micro.bitdepth.org/uploads/2021/7ae7e99a39.jpg\" width=\"600\" height=\"412\" alt=\"\" /></p>\n",
+				"content_text": "Apple crisp cooling.\n\n<img src=\"https://micro.bitdepth.org/uploads/2021/7ae7e99a39.jpg\" width=\"600\" height=\"412\" alt=\"\" />\n",
 				"date_published": "2021-10-11T17:43:19-03:00",
 				"url": "https://micro.bitdepth.org/2021/10/11/apple-crisp-cooling.html",
 				"tags": ["Photos"]
@@ -36,8 +81,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2021/10/11/buttery-sourdough-buns.html",
 				
-				"content_html": "<p>Buttery sourdough buns cooling.</p>\n\n<p><img src=\"uploads/2021/e6888b06f7.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Buttery sourdough buns cooling. \n\n<img src=\"uploads/2021/e6888b06f7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Buttery sourdough buns cooling.</p>\n\n<p><img src=\"https://micro.bitdepth.org/uploads/2021/e6888b06f7.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Buttery sourdough buns cooling. \n\n<img src=\"https://micro.bitdepth.org/uploads/2021/e6888b06f7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-11T16:45:56-03:00",
 				"url": "https://micro.bitdepth.org/2021/10/11/buttery-sourdough-buns.html",
 				"tags": ["Photos"]
@@ -45,8 +90,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2021/10/09/japanese-chocolate-milk.html",
 				
-				"content_html": "<p>Japanese Chocolate Milk Bread</p>\n\n<p><img src=\"uploads/2021/2298b889ab.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Japanese Chocolate Milk Bread\n\n<img src=\"uploads/2021/2298b889ab.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Japanese Chocolate Milk Bread</p>\n\n<p><img src=\"https://micro.bitdepth.org/uploads/2021/2298b889ab.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Japanese Chocolate Milk Bread\n\n<img src=\"https://micro.bitdepth.org/uploads/2021/2298b889ab.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-09T20:02:08-03:00",
 				"url": "https://micro.bitdepth.org/2021/10/09/japanese-chocolate-milk.html",
 				"tags": ["Photos"]
