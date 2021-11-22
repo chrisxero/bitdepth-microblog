@@ -7,6 +7,123 @@
 	"items": [
 		
 			{
+				"id": "http://bitdepth.micro.blog/2021/11/22/time-for-some.html",
+				
+				"content_html": "<p>Time for some colourful Japanese noir for #Noirvember viewing with Seijun Suzuki&rsquo;s 1963 film Youth of the Beast on The Criterion Channel. 🎥</p>\n",
+				"content_text": "Time for some colourful Japanese noir for #Noirvember viewing with Seijun Suzuki's 1963 film Youth of the Beast on The Criterion Channel. 🎥\n",
+				"date_published": "2021-11-22T18:03:15-03:00",
+				"url": "https://micro.bitdepth.org/2021/11/22/time-for-some.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2021/11/21/a-bit-of.html",
+				
+				"content_html": "<p>A bit of Noir Alley viewing on Sunday night for #Noirvember with the 1947 film ‎<a href=\"https://letterboxd.com/film/johnny-oclock/\">JOHNNY O&rsquo;CLOCK</a> directed by Robert Rossen. 🎥</p>\n",
+				"content_text": "A bit of Noir Alley viewing on Sunday night for #Noirvember with the 1947 film ‎[JOHNNY O'CLOCK](https://letterboxd.com/film/johnny-oclock/) directed by Robert Rossen. 🎥\n",
+				"date_published": "2021-11-21T18:55:14-03:00",
+				"url": "https://micro.bitdepth.org/2021/11/21/a-bit-of.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2021/11/21/fresh-sourdough-loaf.html",
+				
+				"content_html": "<p>Fresh sourdough loaf cooling.</p>\n\n<p><img src=\"uploads/2021/c01fc4d14d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Fresh sourdough loaf cooling.\n\n<img src=\"uploads/2021/c01fc4d14d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-11-21T17:52:31-03:00",
+				"url": "https://micro.bitdepth.org/2021/11/21/fresh-sourdough-loaf.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2021/11/20/some-more-newtome.html",
+				
+				"content_html": "<p>Some more new-to-me noir tonight with the 1950 film ‎<a href=\"https://letterboxd.com/film/no-way-out/\">NO WAY OUT</a> directed by Joseph L. Mankiewicz and starring Sidney Poitier and Richard Widmark. 🎥</p>\n",
+				"content_text": "Some more new-to-me noir tonight with the 1950 film ‎[NO WAY OUT](https://letterboxd.com/film/no-way-out/) directed by Joseph L. Mankiewicz and starring Sidney Poitier and Richard Widmark. 🎥\n",
+				"date_published": "2021-11-20T19:43:14-03:00",
+				"url": "https://micro.bitdepth.org/2021/11/20/some-more-newtome.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2021/11/20/skillet-cornbread.html",
+				
+				"content_html": "<p>Skillet cornbread.</p>\n\n<p><img src=\"uploads/2021/7a3b504562.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Skillet cornbread.\n\n<img src=\"uploads/2021/7a3b504562.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-11-20T19:12:31-03:00",
+				"url": "https://micro.bitdepth.org/2021/11/20/skillet-cornbread.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2021/11/19/afternoon-walk.html",
+				
+				"content_html": "<p>Afternoon walk.</p>\n\n<p><img src=\"https://micro.bitdepth.org/uploads/2021/551a421107.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Afternoon walk. \n\n<img src=\"https://micro.bitdepth.org/uploads/2021/551a421107.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-11-19T23:51:32-03:00",
+				"url": "https://micro.bitdepth.org/2021/11/19/afternoon-walk.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2021/11/19/watching-chantal-akermans.html",
+				
+				"content_html": "<p>Watching ‎Chantal Akerman&rsquo;s 1986 musical <a href=\"https://letterboxd.com/film/golden-eighties/\">GOLDEN EIGHTIES</a> again on The Criterion Channel. One of the few musicals that feature people singing about Labrador. 🎥</p>\n",
+				"content_text": "Watching ‎Chantal Akerman's 1986 musical [GOLDEN EIGHTIES](https://letterboxd.com/film/golden-eighties/) again on The Criterion Channel. One of the few musicals that feature people singing about Labrador. 🎥\n",
+				"date_published": "2021-11-19T19:52:09-03:00",
+				"url": "https://micro.bitdepth.org/2021/11/19/watching-chantal-akermans.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2021/11/18/some-newtome-noirvember.html",
+				
+				"content_html": "<p>Some new-to-me #Noirvember viewing with the 1947 film ‎<a href=\"https://letterboxd.com/film/odd-man-out/\">ODD MAN OUT</a> directed by Carol Reed. 🎥</p>\n",
+				"content_text": "Some new-to-me #Noirvember viewing with the 1947 film ‎[ODD MAN OUT](https://letterboxd.com/film/odd-man-out/) directed by Carol Reed. 🎥\n",
+				"date_published": "2021-11-18T19:54:35-03:00",
+				"url": "https://micro.bitdepth.org/2021/11/18/some-newtome-noirvember.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2021/11/17/celebrating-a-great.html",
+				
+				"content_html": "<p>Celebrating a great director&rsquo;s birthday by watching ‎the delightful 2011 film <a href=\"https://letterboxd.com/film/hugo/\">HUGO</a> directed by Martin Scorsese. 🎥</p>\n",
+				"content_text": "Celebrating a great director's birthday by watching ‎the delightful 2011 film [HUGO](https://letterboxd.com/film/hugo/) directed by Martin Scorsese. 🎥\n",
+				"date_published": "2021-11-17T19:49:56-03:00",
+				"url": "https://micro.bitdepth.org/2021/11/17/celebrating-a-great.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2021/11/17/another-noirvember-film.html",
+				
+				"content_html": "<p>Another #Noirvember film tonight from the Fox Noir collection on The Criterion Channel, the 1947 film ‎<a href=\"https://letterboxd.com/film/nightmare-alley/\">NIGHTMARE ALLEY</a> directed by Edmund Goulding. 🎥</p>\n",
+				"content_text": "Another #Noirvember film tonight from the Fox Noir collection on The Criterion Channel, the 1947 film ‎[NIGHTMARE ALLEY](https://letterboxd.com/film/nightmare-alley/) directed by Edmund Goulding. 🎥\n",
+				"date_published": "2021-11-17T17:13:51-03:00",
+				"url": "https://micro.bitdepth.org/2021/11/17/another-noirvember-film.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2021/11/16/finally-watching-julia.html",
+				
+				"content_html": "<p>Finally watching ‎Julia Ducournau&rsquo;s 2021 film <a href=\"https://letterboxd.com/film/titane/\">TITANE</a>. Counting it as a #Noirvember watch based on my vague knowledge about the film. 🎥</p>\n",
+				"content_text": "Finally watching ‎Julia Ducournau's 2021 film [TITANE](https://letterboxd.com/film/titane/). Counting it as a #Noirvember watch based on my vague knowledge about the film. 🎥\n",
+				"date_published": "2021-11-16T18:26:33-03:00",
+				"url": "https://micro.bitdepth.org/2021/11/16/finally-watching-julia.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2021/11/15/japanese-noir-tonight.html",
+				
+				"content_html": "<p>Japanese noir tonight for #Noirvember with the 1957 film ‎<a href=\"https://letterboxd.com/film/i-am-waiting/\">I AM WAITING</a> directed by Koreyoshi Kurahara on The Criterion Channel. 🎥</p>\n",
+				"content_text": "Japanese noir tonight for #Noirvember with the 1957 film ‎[I AM WAITING](https://letterboxd.com/film/i-am-waiting/) directed by Koreyoshi Kurahara on The Criterion Channel. 🎥\n",
+				"date_published": "2021-11-15T19:24:04-03:00",
+				"url": "https://micro.bitdepth.org/2021/11/15/japanese-noir-tonight.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2021/11/14/sunday-night-noirvember.html",
+				
+				"content_html": "<p>Sunday night #Noirvember viewing from Noir Alley with the 1958 film ‎<a href=\"https://letterboxd.com/film/the-lineup/\">THE LINEUP</a> directed by Don Siegel. 🎥</p>\n",
+				"content_text": "Sunday night #Noirvember viewing from Noir Alley with the 1958 film ‎[THE LINEUP](https://letterboxd.com/film/the-lineup/) directed by Don Siegel. 🎥\n",
+				"date_published": "2021-11-14T21:13:42-03:00",
+				"url": "https://micro.bitdepth.org/2021/11/14/sunday-night-noirvember.html",
+				"tags": ["Film"]
+			},
+			{
 				"id": "http://bitdepth.micro.blog/2021/11/14/watching-rebecca-halls.html",
 				
 				"content_html": "<p>Watching ‎Rebecca Hall&rsquo;s 2021 film <a href=\"https://letterboxd.com/film/passing-2021/\">PASSING</a> on Netflix. 🎥</p>\n",
