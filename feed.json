@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://bitdepth.micro.blog/2021/12/07/watching-andreas-fontanas.html",
+				
+				"content_html": "<p>Watching Andreas Fontana&rsquo;s 2021 film <a href=\"https://mubi.com/films/azor\">AZOR</a> on MUBI. 🎥</p>\n",
+				"content_text": "Watching Andreas Fontana's 2021 film [AZOR](https://mubi.com/films/azor) on MUBI. 🎥\n",
+				"date_published": "2021-12-07T19:02:58-03:00",
+				"url": "https://micro.bitdepth.org/2021/12/07/watching-andreas-fontanas.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2021/12/04/watching-mlanie-laurents.html",
+				
+				"content_html": "<p>Watching ‎Mélanie Laurent&rsquo;s 2021 film <a href=\"https://letterboxd.com/film/the-mad-womens-ball/\">THE MAD WOMEN&rsquo;S BALL</a>. 🎥</p>\n",
+				"content_text": "Watching ‎Mélanie Laurent's 2021 film [THE MAD WOMEN'S BALL](https://letterboxd.com/film/the-mad-womens-ball/). 🎥\n",
+				"date_published": "2021-12-04T19:45:46-03:00",
+				"url": "https://micro.bitdepth.org/2021/12/04/watching-mlanie-laurents.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2021/12/01/excited-to-have.html",
+				
+				"content_html": "<p>Excited to have the chance to finally watch Jane Campion&rsquo;s latest film <a href=\"https://letterboxd.com/film/the-power-of-the-dog/\">THE POWER OF THE DOG</a> on Netflix. 🎥</p>\n",
+				"content_text": "Excited to have the chance to finally watch Jane Campion's latest film [THE POWER OF THE DOG](https://letterboxd.com/film/the-power-of-the-dog/) on Netflix. 🎥\n",
+				"date_published": "2021-12-01T19:54:48-03:00",
+				"url": "https://micro.bitdepth.org/2021/12/01/excited-to-have.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2021/12/01/best-newtome-films.html",
+				
+				"content_html": "<p>Best new-to-me films watched in November 2021:\nDevil in a Blue Dress,\nZero Focus,\nThe Electrical Life of Louis Wain,\nPassing,\nTitane,\nNightmare Alley,\nNo Way Out,\nDrunken Angel,\nQuai des Orfevres,\nThe Big Risk.</p>\n",
+				"content_text": "Best new-to-me films watched in November 2021:\nDevil in a Blue Dress, \nZero Focus, \nThe Electrical Life of Louis Wain, \nPassing, \nTitane, \nNightmare Alley, \nNo Way Out, \nDrunken Angel, \nQuai des Orfevres, \nThe Big Risk.\n",
+				"date_published": "2021-12-01T15:12:49-03:00",
+				"url": "https://micro.bitdepth.org/2021/12/01/best-newtome-films.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2021/11/30/wrapping-up-noirvember.html",
+				
+				"content_html": "<p>Wrapping up #Noirvember with the new-to-me French noir ‎<a href=\"https://letterboxd.com/film/the-big-risk/\">THE BIG RISK</a> from 1960 directed by Claude Sautet on The Criterion Channel. 🎥</p>\n",
+				"content_text": "Wrapping up #Noirvember with the new-to-me French noir ‎[THE BIG RISK](https://letterboxd.com/film/the-big-risk/) from 1960 directed by Claude Sautet on The Criterion Channel. 🎥\n",
+				"date_published": "2021-11-30T19:48:53-03:00",
+				"url": "https://micro.bitdepth.org/2021/11/30/wrapping-up-noirvember.html",
+				"tags": ["Film"]
+			},
+			{
 				"id": "http://bitdepth.micro.blog/2021/11/29/completing-my-viewing.html",
 				
 				"content_html": "<p>Completing my viewing of the Fox Noir collection for #Noirvember tonight by watching ‎the 1950 film <a href=\"https://letterboxd.com/film/where-the-sidewalk-ends/\">WHERE THE SIDEWALK ENDS</a> directed by Otto Preminger. 🎥</p>\n",
@@ -36,8 +81,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2021/11/27/view-of-the.html",
 				
-				"content_html": "<p>View of the sky as the week ended.</p>\n\n<p><img src=\"uploads/2021/bde8c09028.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "View of the sky as the week ended. \n\n<img src=\"uploads/2021/bde8c09028.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>View of the sky as the week ended.</p>\n\n<p><img src=\"https://micro.bitdepth.org/uploads/2021/bde8c09028.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "View of the sky as the week ended. \n\n<img src=\"https://micro.bitdepth.org/uploads/2021/bde8c09028.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-11-27T23:38:36-03:00",
 				"url": "https://micro.bitdepth.org/2021/11/27/view-of-the.html",
 				"tags": ["Photos"]
