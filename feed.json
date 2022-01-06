@@ -7,6 +7,105 @@
 	"items": [
 		
 			{
+				"id": "http://bitdepth.micro.blog/2022/01/06/watching-the-film.html",
+				
+				"content_html": "<p>Watching the 2000 film <a href=\"https://letterboxd.com/film/the-gleaners-and-i/\">THE GLEANERS AND I </a>directed by Agnès Varda again on The Criterion Channel. 🎥</p>\n",
+				"content_text": "Watching the 2000 film [THE GLEANERS AND I ](https://letterboxd.com/film/the-gleaners-and-i/)directed by Agnès Varda again on The Criterion Channel. 🎥\n",
+				"date_published": "2022-01-06T19:10:40-03:00",
+				"url": "https://micro.bitdepth.org/2022/01/06/watching-the-film.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/01/04/focaccia-cooling.html",
+				
+				"content_html": "<p>Focaccia cooling.</p>\n\n<p><img src=\"uploads/2022/2403111b08.jpg\" width=\"600\" height=\"399\" alt=\"\" /></p>\n",
+				"content_text": "Focaccia cooling. \n\n<img src=\"uploads/2022/2403111b08.jpg\" width=\"600\" height=\"399\" alt=\"\" />\n",
+				"date_published": "2022-01-04T12:35:35-03:00",
+				"url": "https://micro.bitdepth.org/2022/01/04/focaccia-cooling.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/01/02/watching-the-film.html",
+				
+				"content_html": "<p>Watching ‎the 1947 film <a href=\"https://letterboxd.com/film/the-ghost-and-mrs-muir/\">THE GHOST AND MRS. MUIR</a> directed by Joseph L. Mankiewicz on The Criterion Channel. 🎥</p>\n",
+				"content_text": "Watching ‎the 1947 film [THE GHOST AND MRS. MUIR](https://letterboxd.com/film/the-ghost-and-mrs-muir/) directed by Joseph L. Mankiewicz on The Criterion Channel. 🎥\n",
+				"date_published": "2022-01-02T20:43:14-03:00",
+				"url": "https://micro.bitdepth.org/2022/01/02/watching-the-film.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/01/02/watching-claire-denis.html",
+				
+				"content_html": "<p>Watching ‎Claire Denis&rsquo; startlingly beautiful 1999 masterpiece <a href=\"https://letterboxd.com/film/beau-travail/\">BEAU TRAVAIL</a> on The Criterion Channel. 🎥</p>\n",
+				"content_text": "Watching ‎Claire Denis' startlingly beautiful 1999 masterpiece [BEAU TRAVAIL](https://letterboxd.com/film/beau-travail/) on The Criterion Channel. 🎥\n",
+				"date_published": "2022-01-02T16:27:25-03:00",
+				"url": "https://micro.bitdepth.org/2022/01/02/watching-claire-denis.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/01/01/watching-rachel-amodeos.html",
+				
+				"content_html": "<p>Watching ‎Rachel Amodeo&rsquo;s 1993 film <a href=\"https://letterboxd.com/film/what-about-me/\">WHAT ABOUT ME?</a> on The Criterion Channel. 🎥</p>\n",
+				"content_text": "Watching ‎Rachel Amodeo's 1993 film [WHAT ABOUT ME?](https://letterboxd.com/film/what-about-me/) on The Criterion Channel. 🎥\n",
+				"date_published": "2022-01-01T20:34:41-03:00",
+				"url": "https://micro.bitdepth.org/2022/01/01/watching-rachel-amodeos.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/01/01/my-favourite-films.html",
+				
+				"content_html": "<p><a href=\"https://boxd.it/c9qJ4\">My Favourite 25 Films of 2021</a> list arranged in the order that I viewed the films and added them during the year. 🎥</p>\n",
+				"content_text": "[My Favourite 25 Films of 2021](https://boxd.it/c9qJ4) list arranged in the order that I viewed the films and added them during the year. 🎥\n",
+				"date_published": "2022-01-01T16:46:21-03:00",
+				"url": "https://micro.bitdepth.org/2022/01/01/my-favourite-films.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2021/12/31/final-film-of.html",
+				
+				"content_html": "<p>Final film of the year is ‎<a href=\"https://letterboxd.com/film/the-lost-daughter-2021/\">THE LOST DAUGHTER DIRECTED BY MAGGIE GYLLENHAAL ON NETFLIX. </a>🎥</p>\n",
+				"content_text": "Final film of the year is ‎[THE LOST DAUGHTER DIRECTED BY MAGGIE GYLLENHAAL ON NETFLIX. ](https://letterboxd.com/film/the-lost-daughter-2021/)🎥\n",
+				"date_published": "2021-12-31T22:37:51-03:00",
+				"url": "https://micro.bitdepth.org/2021/12/31/final-film-of.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2021/12/31/watching-the-underseen.html",
+				
+				"content_html": "<p>Watching ‎the underseen gem <a href=\"https://letterboxd.com/film/esther-kahn/\">ESTHER KAHN</a> from 2000 directed by Arnaud Desplechin on MUBI. 🎥</p>\n",
+				"content_text": "Watching ‎the underseen gem [ESTHER KAHN](https://letterboxd.com/film/esther-kahn/) from 2000 directed by Arnaud Desplechin on MUBI. 🎥\n",
+				"date_published": "2021-12-31T20:04:12-03:00",
+				"url": "https://micro.bitdepth.org/2021/12/31/watching-the-underseen.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2021/12/31/best-newtome-films.html",
+				
+				"content_html": "<p>Best new-to-me films for December 2021:\nTHE POWER OF THE DOG,\nTHE MAD WOMAN&rsquo;S BALL,\nC&rsquo;MON C&rsquo;MON,\nAZOR,\nLYDIA LUNCH: THE WAR IS NEVER OVER,\nLISTENING TO KENNY G,\nWEST SIDE STORY,\nA DOG BARKING AT THE MOON.</p>\n",
+				"content_text": "Best new-to-me films for December 2021:\nTHE POWER OF THE DOG,\nTHE MAD WOMAN'S BALL,\nC'MON C'MON,\nAZOR,\nLYDIA LUNCH: THE WAR IS NEVER OVER,\nLISTENING TO KENNY G,\nWEST SIDE STORY,\nA DOG BARKING AT THE MOON.\n",
+				"date_published": "2021-12-31T15:57:57-03:00",
+				"url": "https://micro.bitdepth.org/2021/12/31/best-newtome-films.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2021/12/31/just-received-the.html",
+				
+				"content_html": "<p>Just received the beautiful issue 0 of the @MUBI Notebook along with a nice tote bag too.</p>\n\n<p><img src=\"https://micro.bitdepth.org/uploads/2021/c032a27986.jpg\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
+				"content_text": "Just received the beautiful issue 0 of the @MUBI Notebook along with a nice tote bag too.\n\n<img src=\"https://micro.bitdepth.org/uploads/2021/c032a27986.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"date_published": "2021-12-31T12:11:37-03:00",
+				"url": "https://micro.bitdepth.org/2021/12/31/just-received-the.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2021/12/29/watching-mike-mills.html",
+				
+				"content_html": "<p>Watching ‎Mike Mills&rsquo; transcendent and beautiful <a href=\"https://letterboxd.com/film/cmon-cmon/\">C&rsquo;MON C&rsquo;MON</a> again. 🎥</p>\n",
+				"content_text": "Watching ‎Mike Mills' transcendent and beautiful [C'MON C'MON](https://letterboxd.com/film/cmon-cmon/) again. 🎥\n",
+				"date_published": "2021-12-29T19:13:53-03:00",
+				"url": "https://micro.bitdepth.org/2021/12/29/watching-mike-mills.html",
+				"tags": ["Film"]
+			},
+			{
 				"id": "http://bitdepth.micro.blog/2021/12/28/just-finished-watching.html",
 				
 				"content_html": "<p>Just finished watching LANDSCAPERS and it&rsquo;s great. Ed Sinclair and Will Sharpe have crafted something remarkably sad and beautiful.</p>\n",
@@ -27,8 +126,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2021/12/23/baking-some-japanese.html",
 				
-				"content_html": "<p>Baking some Japanese Milk Bread rolls on a sunny Thursday afternoon.</p>\n\n<p><img src=\"uploads/2021/3fdeb0342d.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
-				"content_text": "Baking some Japanese Milk Bread rolls on a sunny Thursday afternoon.\n\n<img src=\"uploads/2021/3fdeb0342d.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_html": "<p>Baking some Japanese Milk Bread rolls on a sunny Thursday afternoon.</p>\n\n<p><img src=\"https://micro.bitdepth.org/uploads/2021/3fdeb0342d.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
+				"content_text": "Baking some Japanese Milk Bread rolls on a sunny Thursday afternoon.\n\n<img src=\"https://micro.bitdepth.org/uploads/2021/3fdeb0342d.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2021-12-23T16:28:15-03:00",
 				"url": "https://micro.bitdepth.org/2021/12/23/baking-some-japanese.html",
 				"tags": ["Photos"]
