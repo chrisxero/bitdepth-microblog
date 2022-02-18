@@ -7,6 +7,47 @@
 	"items": [
 		
 			{
+				"id": "http://bitdepth.micro.blog/2022/02/18/so-much-new.html",
+				
+				"content_html": "<p>So much new stuff to watch and listen to today: new Fishing With John, new Marvellous Mrs. Maisel, the new show Severance, and a new Beach House album.</p>\n",
+				"content_text": "So much new stuff to watch and listen to today: new Fishing With John, new Marvellous Mrs. Maisel, the new show Severance, and a new Beach House album.\n",
+				"date_published": "2022-02-18T09:47:40-04:00",
+				"url": "https://micro.bitdepth.org/2022/02/18/so-much-new.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/02/10/thoroughly-enjoyed-kimi.html",
+				
+				"content_html": "<p>Thoroughly enjoyed KIMI. Soderbergh working within genre constraints is so much fun.</p>\n",
+				"content_text": "Thoroughly enjoyed KIMI. Soderbergh working within genre constraints is so much fun. \n",
+				"date_published": "2022-02-10T21:11:34-04:00",
+				"url": "https://micro.bitdepth.org/2022/02/10/thoroughly-enjoyed-kimi.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/02/10/watching-steven-soderberghs.html",
+				
+				"content_html": "<p>Watching ‎Steven Soderbergh&rsquo;s latest film <a href=\"https://letterboxd.com/film/kimi/\">KIMI</a> on Crave. 🎥</p>\n",
+				"content_text": "Watching ‎Steven Soderbergh's latest film [KIMI](https://letterboxd.com/film/kimi/) on Crave. 🎥\n",
+				"date_published": "2022-02-10T19:34:58-04:00",
+				"url": "https://micro.bitdepth.org/2022/02/10/watching-steven-soderberghs.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/02/10/looking-forward-to.html",
+				
+				"content_html": "<p>Looking forward to reading <a href=\"https://micro.blog/books/9780399180521\">Comedy Comedy Comedy Drama</a> by Bob Odenkirk which I’ve pre-ordered. 📚</p>\n",
+				"content_text": "Looking forward to reading [Comedy Comedy Comedy Drama](https://micro.blog/books/9780399180521) by Bob Odenkirk which I’ve pre-ordered. 📚\n",
+				"date_published": "2022-02-10T17:04:47-04:00",
+				"url": "https://micro.bitdepth.org/2022/02/10/looking-forward-to.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/02/05/found-out-that.html",
+				
+				"content_html": "<p>Found out that <strong>Murderville</strong> on Netflix is based on a BBC series called <strong>Murder in Successville</strong> which I’m now working my way through.</p>\n",
+				"content_text": "Found out that **Murderville** on Netflix is based on a BBC series called **Murder in Successville** which I’m now working my way through.\n",
+				"date_published": "2022-02-05T23:25:48-04:00",
+				"url": "https://micro.bitdepth.org/2022/02/05/found-out-that.html"
+			},
+			{
 				"id": "http://bitdepth.micro.blog/2022/02/04/pleasantly-surprised-at.html",
 				
 				"content_html": "<p>Pleasantly surprised at how much I’m enjoying MURDERVILLE on Netflix.</p>\n",
