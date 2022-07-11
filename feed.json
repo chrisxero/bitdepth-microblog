@@ -7,6 +7,60 @@
 	"items": [
 		
 			{
+				"id": "http://bitdepth.micro.blog/2022/07/11/ferry-pulling-in.html",
+				
+				"content_html": "<p>Ferry pulling in to Saint John yesterday.</p>\n\n<p><img src=\"uploads/2022/0d70f64476.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Ferry pulling in to Saint John yesterday. \n\n<img src=\"uploads/2022/0d70f64476.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-07-11T15:51:00-03:00",
+				"url": "https://micro.bitdepth.org/2022/07/11/ferry-pulling-in.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/07/06/watching-the-noir.html",
+				
+				"content_html": "<p>Watching the noir in colour 1945 film ‎<a href=\"https://letterboxd.com/film/leave-her-to-heaven/\">LEAVE HER TO HEAVEN</a> directed by John M. Stahl on The Criterion Channel. 🎥</p>\n",
+				"content_text": "Watching the noir in colour 1945 film ‎[LEAVE HER TO HEAVEN](https://letterboxd.com/film/leave-her-to-heaven/) directed by John M. Stahl on The Criterion Channel. 🎥\n",
+				"date_published": "2022-07-06T18:47:29-03:00",
+				"url": "https://micro.bitdepth.org/2022/07/06/watching-the-noir.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/07/05/watching-alex-coxs.html",
+				
+				"content_html": "<p>Watching ‎Alex Cox&rsquo;s 1984 film <a href=\"https://letterboxd.com/film/repo-man/\">REPO MAN</a> again for the first time in a long time. 🎥</p>\n",
+				"content_text": "Watching ‎Alex Cox's 1984 film [REPO MAN](https://letterboxd.com/film/repo-man/) again for the first time in a long time. 🎥\n",
+				"date_published": "2022-07-05T18:58:27-03:00",
+				"url": "https://micro.bitdepth.org/2022/07/05/watching-alex-coxs.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/07/03/watching-samuel-fullers.html",
+				
+				"content_html": "<p>Watching ‎Samuel Fuller&rsquo;s 1955 film noir <a href=\"https://letterboxd.com/film/house-of-bamboo/\">HOUSE OF BAMBOO</a> in the Criterion Channel&rsquo;s &ldquo;Noir in Color&rdquo; series. 🎥</p>\n",
+				"content_text": "Watching ‎Samuel Fuller's 1955 film noir [HOUSE OF BAMBOO](https://letterboxd.com/film/house-of-bamboo/) in the Criterion Channel's \"Noir in Color\" series. 🎥\n",
+				"date_published": "2022-07-03T18:55:31-03:00",
+				"url": "https://micro.bitdepth.org/2022/07/03/watching-samuel-fullers.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/07/02/watching-the-musical.html",
+				
+				"content_html": "<p>Watching ‎the 1953 musical <a href=\"https://letterboxd.com/film/gentlemen-prefer-blondes/\">GENTLEMEN PREFER BLONDES</a> directed by Howard Hawks on The Criterion Channel. 🎥</p>\n",
+				"content_text": "Watching ‎the 1953 musical [GENTLEMEN PREFER BLONDES](https://letterboxd.com/film/gentlemen-prefer-blondes/) directed by Howard Hawks on The Criterion Channel. 🎥\n",
+				"date_published": "2022-07-02T20:01:50-03:00",
+				"url": "https://micro.bitdepth.org/2022/07/02/watching-the-musical.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/07/02/watching-the-film.html",
+				
+				"content_html": "<p>Watching ‎the 1958 film <a href=\"https://letterboxd.com/film/the-horses-mouth/\">THE HORSE&rsquo;S MOUTH</a> directed by Ronald Neame on The Criterion Channel. 🎥</p>\n",
+				"content_text": "Watching ‎the 1958 film [THE HORSE'S MOUTH](https://letterboxd.com/film/the-horses-mouth/) directed by Ronald Neame on The Criterion Channel. 🎥\n",
+				"date_published": "2022-07-02T18:40:18-03:00",
+				"url": "https://micro.bitdepth.org/2022/07/02/watching-the-film.html",
+				"tags": ["Film"]
+			},
+			{
 				"id": "http://bitdepth.micro.blog/2022/07/02/basil-on-a.html",
 				
 				"content_html": "<p>Basil on a cheese pizza.</p>\n\n<p><img src=\"uploads/2022/44cb76c308.jpg\" width=\"600\" height=\"400\" alt=\"\" /></p>\n",
