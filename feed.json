@@ -7,6 +7,66 @@
 	"items": [
 		
 			{
+				"id": "http://bitdepth.micro.blog/2022/07/27/making-soe-hamburger.html",
+				
+				"content_html": "<p>Making some hamburger buns for some tofu burgers I’ll be making tomorrow which gives me a chance to use my new tofu press.</p>\n",
+				"content_text": "Making some hamburger buns for some tofu burgers I’ll be making tomorrow which gives me a chance to use my new tofu press.\n",
+				"date_published": "2022-07-27T14:38:12-03:00",
+				"url": "https://micro.bitdepth.org/2022/07/27/making-soe-hamburger.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/07/25/watching-charlotte-gainsbourgs.html",
+				
+				"content_html": "<p>Watching ‎Charlotte Gainsbourg&rsquo;s 2021 documentary <a href=\"https://letterboxd.com/film/jane-by-charlotte/\">JANE BY CHARLOTTE</a>. 🎥</p>\n",
+				"content_text": "Watching ‎Charlotte Gainsbourg's 2021 documentary [JANE BY CHARLOTTE](https://letterboxd.com/film/jane-by-charlotte/). 🎥\n",
+				"date_published": "2022-07-25T14:44:12-03:00",
+				"url": "https://micro.bitdepth.org/2022/07/25/watching-charlotte-gainsbourgs.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/07/23/watching-the-neonoir.html",
+				
+				"content_html": "<p>Watching ‎the 1981 neo-noir <a href=\"https://letterboxd.com/film/body-heat/\">BODY HEAT</a> directed by Lawrence Kasdan on The Criterion Channel. 🎥</p>\n",
+				"content_text": "Watching ‎the 1981 neo-noir [BODY HEAT](https://letterboxd.com/film/body-heat/) directed by Lawrence Kasdan on The Criterion Channel. 🎥\n",
+				"date_published": "2022-07-23T20:36:05-03:00",
+				"url": "https://micro.bitdepth.org/2022/07/23/watching-the-neonoir.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/07/22/nope-was-a.html",
+				
+				"content_html": "<p>NOPE was a lot of fun with an interesting story that had some surprises and not a wasted moment with just the right amount of ambiguity. A great summer movie.</p>\n",
+				"content_text": "NOPE was a lot of fun with an interesting story that had some surprises and not a wasted moment with just the right amount of ambiguity. A great summer movie. \n",
+				"date_published": "2022-07-22T16:57:02-03:00",
+				"url": "https://micro.bitdepth.org/2022/07/22/nope-was-a.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/07/22/looking-forward-to.html",
+				
+				"content_html": "<p>Looking forward to seeing Jordan Peele’s latest film <a href=\"https://boxd.it/sDCe\">NOPE</a> in the theatre this afternoon. 🎥</p>\n",
+				"content_text": "Looking forward to seeing Jordan Peele’s latest film [NOPE](https://boxd.it/sDCe) in the theatre this afternoon. 🎥\n",
+				"date_published": "2022-07-22T11:49:00-03:00",
+				"url": "https://micro.bitdepth.org/2022/07/22/looking-forward-to.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/07/20/watching-almodvars-film.html",
+				
+				"content_html": "<p>Watching Almodóvar&rsquo;s 1988 film ‎<a href=\"https://letterboxd.com/film/women-on-the-verge-of-a-nervous-breakdown/\">WOMEN ON THE VERGE OF A NERVOUS BREAKDOWN</a> again for the first time in decades. 🎥</p>\n",
+				"content_text": "Watching Almodóvar's 1988 film ‎[WOMEN ON THE VERGE OF A NERVOUS BREAKDOWN](https://letterboxd.com/film/women-on-the-verge-of-a-nervous-breakdown/) again for the first time in decades. 🎥\n",
+				"date_published": "2022-07-20T20:09:49-03:00",
+				"url": "https://micro.bitdepth.org/2022/07/20/watching-almodvars-film.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/07/20/flower-in-the.html",
+				
+				"content_html": "<p>Flower In the sun.</p>\n\n<p><img src=\"https://micro.bitdepth.org/uploads/2022/dc2b08f0dc.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Flower In the sun.\n\n<img src=\"https://micro.bitdepth.org/uploads/2022/dc2b08f0dc.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-07-20T17:53:58-03:00",
+				"url": "https://micro.bitdepth.org/2022/07/20/flower-in-the.html",
+				"tags": ["Photos"]
+			},
+			{
 				"id": "http://bitdepth.micro.blog/2022/07/18/watching-the-german.html",
 				
 				"content_html": "<p>Watching ‎the 1933 German film <a href=\"https://letterboxd.com/film/victor-and-victoria/\">VICTOR AND VICTORIA</a> directed by Reinhold Schünzel on The Criterion Channel. 🎥</p>\n",
@@ -35,8 +95,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2022/07/14/pan-pizza-with.html",
 				
-				"content_html": "<p>Pan pizza with pesto, fresh basil, and marjoram.</p>\n\n<p><img src=\"uploads/2022/81ec94c469.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Pan pizza with pesto, fresh basil, and marjoram.\n\n<img src=\"uploads/2022/81ec94c469.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Pan pizza with pesto, fresh basil, and marjoram.</p>\n\n<p><img src=\"https://micro.bitdepth.org/uploads/2022/81ec94c469.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Pan pizza with pesto, fresh basil, and marjoram.\n\n<img src=\"https://micro.bitdepth.org/uploads/2022/81ec94c469.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-07-14T18:17:03-03:00",
 				"url": "https://micro.bitdepth.org/2022/07/14/pan-pizza-with.html",
 				"tags": ["Photos"]
@@ -44,8 +104,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2022/07/14/bigeared-sourdough-loaves.html",
 				
-				"content_html": "<p>Big-eared sourdough loaves fresh from the oven.</p>\n\n<p><img src=\"uploads/2022/8828bdcf2d.jpg\" width=\"600\" height=\"400\" alt=\"\" /></p>\n",
-				"content_text": "Big-eared sourdough loaves fresh from the oven. \n\n<img src=\"uploads/2022/8828bdcf2d.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
+				"content_html": "<p>Big-eared sourdough loaves fresh from the oven.</p>\n\n<p><img src=\"https://micro.bitdepth.org/uploads/2022/8828bdcf2d.jpg\" width=\"600\" height=\"400\" alt=\"\" /></p>\n",
+				"content_text": "Big-eared sourdough loaves fresh from the oven. \n\n<img src=\"https://micro.bitdepth.org/uploads/2022/8828bdcf2d.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
 				"date_published": "2022-07-14T14:14:41-03:00",
 				"url": "https://micro.bitdepth.org/2022/07/14/bigeared-sourdough-loaves.html",
 				"tags": ["Photos"]
@@ -620,8 +680,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2022/05/09/bloom-day-of.html",
 				
-				"content_html": "<p>Bloom - Day 9 of the May 2022 Photoblogging Challenge - blooms in early evening light.</p>\n\n<p><img src=\"uploads/2022/0355810703.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Bloom - Day 9 of the May 2022 Photoblogging Challenge - blooms in early evening light.\n\n<img src=\"uploads/2022/0355810703.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Bloom - Day 9 of the May 2022 Photoblogging Challenge - blooms in early evening light.</p>\n\n<p><img src=\"https://micro.bitdepth.org/uploads/2022/0355810703.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Bloom - Day 9 of the May 2022 Photoblogging Challenge - blooms in early evening light.\n\n<img src=\"https://micro.bitdepth.org/uploads/2022/0355810703.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-09T13:00:18-03:00",
 				"url": "https://micro.bitdepth.org/2022/05/09/bloom-day-of.html",
 				"tags": ["Photos"]
