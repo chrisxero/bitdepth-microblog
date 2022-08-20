@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://bitdepth.micro.blog/2022/08/19/watched-the-first.html",
+				
+				"content_html": "<p>Watched the first episode of <em>Bad Sisters</em> on AppleTV+ and it was fantastic.</p>\n",
+				"content_text": "Watched the first episode of _Bad Sisters_ on AppleTV+ and it was fantastic.\n",
+				"date_published": "2022-08-19T23:19:06-03:00",
+				"url": "https://micro.bitdepth.org/2022/08/19/watched-the-first.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/08/15/the-conclusion-of.html",
+				
+				"content_html": "<p>The conclusion of <em>Better Call Saul</em> was absolutely perfect. Such a great series from the first episode to the last.</p>\n",
+				"content_text": "The conclusion of _Better Call Saul_ was absolutely perfect. Such a great series from the first episode to the last. \n",
+				"date_published": "2022-08-15T23:42:28-03:00",
+				"url": "https://micro.bitdepth.org/2022/08/15/the-conclusion-of.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/08/13/watching-the-film.html",
+				
+				"content_html": "<p>Watching the 1938 film ‎<a href=\"https://letterboxd.com/film/test-pilot/\">TEST PILOT</a> directed by Victor Fleming in the Myrna Loy program on the Criterion Channel. 🎥</p>\n",
+				"content_text": "Watching the 1938 film ‎[TEST PILOT](https://letterboxd.com/film/test-pilot/) directed by Victor Fleming in the Myrna Loy program on the Criterion Channel. 🎥\n",
+				"date_published": "2022-08-13T20:12:00-03:00",
+				"url": "https://micro.bitdepth.org/2022/08/13/watching-the-film.html",
+				"tags": ["Film"]
+			},
+			{
 				"id": "http://bitdepth.micro.blog/2022/08/12/watching-the-film.html",
 				
 				"content_html": "<p>Watching ‎the 1941 film <a href=\"https://letterboxd.com/film/love-crazy/\">LOVE CRAZY</a> directed by Jack Conway on The Criterion Channel. 🎥</p>\n",
