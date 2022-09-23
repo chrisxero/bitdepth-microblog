@@ -7,6 +7,40 @@
 	"items": [
 		
 			{
+				"id": "http://bitdepth.micro.blog/2022/09/23/have-a-loaf.html",
+				
+				"content_html": "<p>Have a loaf of bread baking in the bread machine now in case Fiona knocks out the power later.</p>\n",
+				"content_text": "Have a loaf of bread baking in the bread machine now in case Fiona knocks out the power later. \n",
+				"date_published": "2022-09-23T13:16:34-03:00",
+				"url": "https://micro.bitdepth.org/2022/09/23/have-a-loaf.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/09/16/my-second-film.html",
+				
+				"content_html": "<p>My second film of the Atlantic International Film Festival for 2022 is Hirokazu Kore-eda’s BROKER. I saw AFTER LIFE and loved the gentle and precise approach in all his films as they slowly assemble the pieces in beautiful ways. #AIFF22 🎥</p>\n",
+				"content_text": "My second film of the Atlantic International Film Festival for 2022 is Hirokazu Kore-eda’s BROKER. I saw AFTER LIFE and loved the gentle and precise approach in all his films as they slowly assemble the pieces in beautiful ways. #AIFF22 🎥\n",
+				"date_published": "2022-09-16T18:03:45-03:00",
+				"url": "https://micro.bitdepth.org/2022/09/16/my-second-film.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/09/16/a-small-cone.html",
+				
+				"content_html": "<p>A “small” cone of graham cracker soft serve from Dairy Bar. ❤️ 🍦</p>\n\n<p><img src=\"uploads/2022/f42b1478f8.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "A “small” cone of graham cracker soft serve from Dairy Bar. ❤️ 🍦 \n\n<img src=\"uploads/2022/f42b1478f8.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-09-16T17:54:51-03:00",
+				"url": "https://micro.bitdepth.org/2022/09/16/a-small-cone.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/09/12/my-play-date.html",
+				
+				"content_html": "<p>My Play Date arrived!</p>\n\n<p><img src=\"uploads/2022/144e4105dd.jpg\" width=\"600\" height=\"491\" alt=\"\" /></p>\n",
+				"content_text": "My Play Date arrived!\n\n<img src=\"uploads/2022/144e4105dd.jpg\" width=\"600\" height=\"491\" alt=\"\" />\n",
+				"date_published": "2022-09-12T17:54:56-03:00",
+				"url": "https://micro.bitdepth.org/2022/09/12/my-play-date.html",
+				"tags": ["Photos"]
+			},
+			{
 				"id": "http://bitdepth.micro.blog/2022/09/10/watching-more-british.html",
 				
 				"content_html": "<p>Watching ‎more British New Wave on The Criterion Channel with the 1960 film <a href=\"https://letterboxd.com/film/the-entertainer/\">THE ENTERTAINER</a> directed by Tony Richardson. 🎥</p>\n",
@@ -36,8 +70,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2022/09/03/rocks-at-burntcoat.html",
 				
-				"content_html": "<p>Rocks at Burntcoat Head.</p>\n\n<p><img src=\"uploads/2022/06206f6342.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Rocks at Burntcoat Head.\n\n<img src=\"uploads/2022/06206f6342.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Rocks at Burntcoat Head.</p>\n\n<p><img src=\"https://micro.bitdepth.org/uploads/2022/06206f6342.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Rocks at Burntcoat Head.\n\n<img src=\"https://micro.bitdepth.org/uploads/2022/06206f6342.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-09-03T15:36:03-03:00",
 				"url": "https://micro.bitdepth.org/2022/09/03/rocks-at-burntcoat.html",
 				"tags": ["Photos"]
