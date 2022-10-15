@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://bitdepth.micro.blog/2022/10/15/ice-cream-in.html",
+				
+				"content_html": "<p>Ice cream in Halifax, Nova Scotia in <a href=\"https://micro.welltempered.net/2022/10/11/a-day-in.html\">A day in the life of micro.blog</a>.</p>\n\n<p><img src=\"uploads/2022/132acb4fc6.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Ice cream in Halifax, Nova Scotia in [A day in the life of micro.blog](https://micro.welltempered.net/2022/10/11/a-day-in.html).\n\n<img src=\"uploads/2022/132acb4fc6.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-10-15T00:40:32-03:00",
+				"url": "https://micro.bitdepth.org/2022/10/15/ice-cream-in.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/10/08/making-some-pizza.html",
+				
+				"content_html": "<p>Making some pizza with a new recipe while listening to the latest Sharon Van Etten album and then watching the final films streaming as part of the Podernone Silent Film Festival.</p>\n",
+				"content_text": "Making some pizza with a new recipe while listening to the latest Sharon Van Etten album and then watching the final films streaming as part of the Podernone Silent Film Festival. \n",
+				"date_published": "2022-10-08T17:29:34-03:00",
+				"url": "https://micro.bitdepth.org/2022/10/08/making-some-pizza.html"
+			},
+			{
 				"id": "http://bitdepth.micro.blog/2022/10/06/watching-the-silent.html",
 				
 				"content_html": "<p>Watching ‎the 1929 silent film The Runaway Princess directed by Anthony Asquith as part of the streaming program of the Pordenone Silent Film Festival. #GCN41 #PordernoneSilent 🎥</p>\n",
