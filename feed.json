@@ -7,10 +7,59 @@
 	"items": [
 		
 			{
+				"id": "http://bitdepth.micro.blog/2022/10/21/enjoyed-the-first.html",
+				
+				"content_html": "<p>Enjoyed the first two episodes of the adaptation of THE PERIPHERAL which is recognizable but different from the novel. Looking forward to seeing how it all turns out.</p>\n",
+				"content_text": "Enjoyed the first two episodes of the adaptation of THE PERIPHERAL which is recognizable but different from the novel. Looking forward to seeing how it all turns out. \n",
+				"date_published": "2022-10-21T21:49:28-03:00",
+				"url": "https://micro.bitdepth.org/2022/10/21/enjoyed-the-first.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/10/19/getting-an-early.html",
+				
+				"content_html": "<p>Getting an early start on the Criterion Movie Club tonight and watching ‎<a href=\"https://letterboxd.com/film/the-hidden/\">THE HIDDEN</a> again for the second time since I watched it on VHS in the 80s. 🎥</p>\n",
+				"content_text": "Getting an early start on the Criterion Movie Club tonight and watching ‎[THE HIDDEN](https://letterboxd.com/film/the-hidden/) again for the second time since I watched it on VHS in the 80s. 🎥\n",
+				"date_published": "2022-10-19T19:36:21-03:00",
+				"url": "https://micro.bitdepth.org/2022/10/19/getting-an-early.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/10/17/with-both-sides.html",
+				
+				"content_html": "<p>With BOTH SIDES OF THE BLADE and STARS AT NOON, this is a great year for fans of Claire Denis.</p>\n",
+				"content_text": "With BOTH SIDES OF THE BLADE and STARS AT NOON, this is a great year for fans of Claire Denis.\n",
+				"date_published": "2022-10-17T19:01:12-03:00",
+				"url": "https://micro.bitdepth.org/2022/10/17/with-both-sides.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/10/17/what-a-strange.html",
+				
+				"content_html": "<p>What a strange film distribution environment we are in. Films are quietly added to services and taken away. Sometimes I randomly discover a film has been released. While searching for Claire Denis films I discovered that STARS AT NOON is available to rent in iTunes in Canada.</p>\n",
+				"content_text": "What a strange film distribution environment we are in. Films are quietly added to services and taken away. Sometimes I randomly discover a film has been released. While searching for Claire Denis films I discovered that STARS AT NOON is available to rent in iTunes in Canada.\n",
+				"date_published": "2022-10-17T16:03:43-03:00",
+				"url": "https://micro.bitdepth.org/2022/10/17/what-a-strange.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/10/16/baking-bread-and.html",
+				
+				"content_html": "<p>Baking bread and making a big batch of veggie burgers on a rainy Sunday afternoon.</p>\n",
+				"content_text": "Baking bread and making a big batch of veggie burgers on a rainy Sunday afternoon. \n",
+				"date_published": "2022-10-16T12:34:16-03:00",
+				"url": "https://micro.bitdepth.org/2022/10/16/baking-bread-and.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/10/15/bad-sisters-was.html",
+				
+				"content_html": "<p>BAD SISTERS was perfect.\nSharon Horgan is so great in how she writes and constructs fantastic shows.</p>\n",
+				"content_text": "BAD SISTERS was perfect.\nSharon Horgan is so great in how she writes and constructs fantastic shows. \n",
+				"date_published": "2022-10-15T21:20:26-03:00",
+				"url": "https://micro.bitdepth.org/2022/10/15/bad-sisters-was.html"
+			},
+			{
 				"id": "http://bitdepth.micro.blog/2022/10/15/ice-cream-in.html",
 				
-				"content_html": "<p>Ice cream in Halifax, Nova Scotia in <a href=\"https://micro.welltempered.net/2022/10/11/a-day-in.html\">A day in the life of micro.blog</a>.</p>\n\n<p><img src=\"uploads/2022/132acb4fc6.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "Ice cream in Halifax, Nova Scotia in [A day in the life of micro.blog](https://micro.welltempered.net/2022/10/11/a-day-in.html).\n\n<img src=\"uploads/2022/132acb4fc6.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Ice cream in Halifax, Nova Scotia in <a href=\"https://micro.welltempered.net/2022/10/11/a-day-in.html\">A day in the life of micro.blog</a> at 3:28 pm on October 14, 2022.</p>\n\n<p><img src=\"uploads/2022/132acb4fc6.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Ice cream in Halifax, Nova Scotia in [A day in the life of micro.blog](https://micro.welltempered.net/2022/10/11/a-day-in.html) at 3:28 pm on October 14, 2022.\n\n<img src=\"uploads/2022/132acb4fc6.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-15T00:40:32-03:00",
 				"url": "https://micro.bitdepth.org/2022/10/15/ice-cream-in.html",
 				"tags": ["Photos"]
