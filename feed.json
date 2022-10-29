@@ -7,6 +7,50 @@
 	"items": [
 		
 			{
+				"id": "http://bitdepth.micro.blog/2022/10/29/autumn-leaves.html",
+				
+				"content_html": "<p>Autumn leaves</p>\n\n<p><img src=\"uploads/2022/e4a9f96b08.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Autumn leaves\n\n<img src=\"uploads/2022/e4a9f96b08.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-10-29T11:33:07-03:00",
+				"url": "https://micro.bitdepth.org/2022/10/29/autumn-leaves.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/10/26/watching-the-film.html",
+				
+				"content_html": "<p>Watching the 2022 film ‎<a href=\"https://letterboxd.com/film/confess-fletch/\">CONFESS, FLETCH</a> directed by Greg Mottola and it&rsquo;s quite delightful. 🎥</p>\n",
+				"content_text": "Watching the 2022 film ‎[CONFESS, FLETCH](https://letterboxd.com/film/confess-fletch/) directed by Greg Mottola and it's quite delightful. 🎥\n",
+				"date_published": "2022-10-26T20:39:06-03:00",
+				"url": "https://micro.bitdepth.org/2022/10/26/watching-the-film.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/10/24/watching-the-greek.html",
+				
+				"content_html": "<p>Watching ‎the 2020 Greek film <a href=\"https://letterboxd.com/film/apples/\">APPLES</a> directed by Christos Nikou. 🎥</p>\n",
+				"content_text": "Watching ‎the 2020 Greek film [APPLES](https://letterboxd.com/film/apples/) directed by Christos Nikou. 🎥\n",
+				"date_published": "2022-10-24T18:24:36-03:00",
+				"url": "https://micro.bitdepth.org/2022/10/24/watching-the-greek.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/10/23/listening-to-music.html",
+				
+				"content_html": "<p>Listening to music and making some cornbread muffins and a big pot of chill.</p>\n",
+				"content_text": "Listening to music and making some cornbread muffins and a big pot of chill.\n",
+				"date_published": "2022-10-23T15:50:51-03:00",
+				"url": "https://micro.bitdepth.org/2022/10/23/listening-to-music.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/10/22/view-at-the.html",
+				
+				"content_html": "<p>View at the end of the trail at Cape Split.</p>\n\n<p><img src=\"uploads/2022/f4052eef72.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "View at the end of the trail at Cape Split. \n\n<img src=\"uploads/2022/f4052eef72.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2022-10-22T16:30:30-03:00",
+				"url": "https://micro.bitdepth.org/2022/10/22/view-at-the.html",
+				"tags": ["Photos"]
+			},
+			{
 				"id": "http://bitdepth.micro.blog/2022/10/21/enjoyed-the-first.html",
 				
 				"content_html": "<p>Enjoyed the first two episodes of the adaptation of THE PERIPHERAL which is recognizable but different from the novel. Looking forward to seeing how it all turns out.</p>\n",
