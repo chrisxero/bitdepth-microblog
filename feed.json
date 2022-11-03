@@ -7,6 +7,94 @@
 	"items": [
 		
 			{
+				"id": "http://bitdepth.micro.blog/2022/11/03/my-fourth-film.html",
+				
+				"content_html": "<p>My fourth film for #Noirvember is the 1946 film ‎<a href=\"https://letterboxd.com/film/the-dark-corner/\">THE DARK CORNER</a> directed by Henry Hathaway and starring Lucille Ball. 🎥</p>\n",
+				"content_text": "My fourth film for #Noirvember is the 1946 film ‎[THE DARK CORNER](https://letterboxd.com/film/the-dark-corner/) directed by Henry Hathaway and starring Lucille Ball. 🎥\n",
+				"date_published": "2022-11-03T19:27:35-03:00",
+				"url": "https://micro.bitdepth.org/2022/11/03/my-fourth-film.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/11/02/noir-number-for.html",
+				
+				"content_html": "<p>Noir number 3 for #Noirvember is the 1942 film ‎<a href=\"https://letterboxd.com/film/this-gun-for-hire/\">THIS GUN FOR HIRE</a> directed by Frank Tuttle. 🎥</p>\n",
+				"content_text": "Noir number 3 for #Noirvember is the 1942 film ‎[THIS GUN FOR HIRE](https://letterboxd.com/film/this-gun-for-hire/) directed by Frank Tuttle. 🎥\n",
+				"date_published": "2022-11-02T18:53:39-03:00",
+				"url": "https://micro.bitdepth.org/2022/11/02/noir-number-for.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/11/02/on-day-of.html",
+				
+				"content_html": "<p>On day 2 of <a href=\"https://challenges.micro.blog/2022/10/31/microblogvember-heres-how.html\">Microblogvember</a> I’m thinking about how cinematically there is always a great <strong>feast</strong> of films after the festival season as we go into autumn.</p>\n",
+				"content_text": "On day 2 of [Microblogvember](https://challenges.micro.blog/2022/10/31/microblogvember-heres-how.html) I’m thinking about how cinematically there is always a great **feast** of films after the festival season as we go into autumn. \n",
+				"date_published": "2022-11-02T11:39:39-03:00",
+				"url": "https://micro.bitdepth.org/2022/11/02/on-day-of.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/11/02/while-i-remembered.html",
+				
+				"content_html": "<p>While I remembered that it was Noirvember I forgot that it also was <a href=\"https://challenges.micro.blog/2022/10/31/microblogvember-heres-how.html\">Microblogvember</a> but one day late I was able to <strong>figure</strong> it out. Hopefully I haven’t fallen out of the challenge before I started.</p>\n",
+				"content_text": "While I remembered that it was Noirvember I forgot that it also was [Microblogvember](https://challenges.micro.blog/2022/10/31/microblogvember-heres-how.html) but one day late I was able to **figure** it out. Hopefully I haven’t fallen out of the challenge before I started. \n",
+				"date_published": "2022-11-02T11:32:33-03:00",
+				"url": "https://micro.bitdepth.org/2022/11/02/while-i-remembered.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/11/01/second-noirvember-film.html",
+				
+				"content_html": "<p>Second #Noirvember film is the 1941 film ‎<a href=\"https://letterboxd.com/film/out-of-the-fog/\">OUT OF THE FOG</a> directed by Anatole Litvak and shot by James Wong Hong. 🎥</p>\n",
+				"content_text": "Second #Noirvember film is the 1941 film ‎[OUT OF THE FOG](https://letterboxd.com/film/out-of-the-fog/) directed by Anatole Litvak and shot by James Wong Hong. 🎥\n",
+				"date_published": "2022-11-01T20:05:25-03:00",
+				"url": "https://micro.bitdepth.org/2022/11/01/second-noirvember-film.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/11/01/best-newtome-films.html",
+				
+				"content_html": "<p>Best new-to-me films watched in October 2022:\nTHE LADY,\nNOTHING COMPARES,\nTHIS SPORTING LIFE,\nSTARS AT NOON,\nAPPLES,\nSWEET CHARITY,\nCONFESS, FLETCH,\nGOD&rsquo;S CREATURES,\nMISSISSIPPI TRIANGLE,\nLA NAVIRE NUIT.</p>\n",
+				"content_text": "Best new-to-me films watched in October 2022:\nTHE LADY, \nNOTHING COMPARES, \nTHIS SPORTING LIFE,\nSTARS AT NOON,\nAPPLES, \nSWEET CHARITY,\nCONFESS, FLETCH, \nGOD'S CREATURES, \nMISSISSIPPI TRIANGLE,\nLA NAVIRE NUIT.\n",
+				"date_published": "2022-11-01T18:31:30-03:00",
+				"url": "https://micro.bitdepth.org/2022/11/01/best-newtome-films.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/11/01/the-first-film.html",
+				
+				"content_html": "<p>The first film for me in #Noirvember is the 1951 noir ‎<a href=\"https://letterboxd.com/film/he-ran-all-the-way/\">HE RAN ALL THE WAY</a> directed by John Berry. 🎥</p>\n",
+				"content_text": "The first film for me in #Noirvember is the 1951 noir ‎[HE RAN ALL THE WAY](https://letterboxd.com/film/he-ran-all-the-way/) directed by John Berry. 🎥\n",
+				"date_published": "2022-11-01T18:12:27-03:00",
+				"url": "https://micro.bitdepth.org/2022/11/01/the-first-film.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/10/31/watching-the-film.html",
+				
+				"content_html": "<p>Watching ‎the 1988 film <a href=\"https://letterboxd.com/film/vampires-kiss/\">VAMPIRE&rsquo;S KISS</a> directed by Robert Bierman on The Criterion Channel. 🎥</p>\n",
+				"content_text": "Watching ‎the 1988 film [VAMPIRE'S KISS](https://letterboxd.com/film/vampires-kiss/) directed by Robert Bierman on The Criterion Channel. 🎥\n",
+				"date_published": "2022-10-31T20:05:31-03:00",
+				"url": "https://micro.bitdepth.org/2022/10/31/watching-the-film.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/10/30/watching-the-documentary.html",
+				
+				"content_html": "<p>Watching ‎the 1984 documentary <a href=\"https://letterboxd.com/film/mississippi-triangle/\">MISSISSIPPI TRIANGLE</a> directed by Christine Choy, Allan Siegel, and Worth Long on The Criterion Channel. 🎥</p>\n",
+				"content_text": "Watching ‎the 1984 documentary [MISSISSIPPI TRIANGLE](https://letterboxd.com/film/mississippi-triangle/) directed by Christine Choy, Allan Siegel, and Worth Long on The Criterion Channel. 🎥\n",
+				"date_published": "2022-10-30T16:40:01-03:00",
+				"url": "https://micro.bitdepth.org/2022/10/30/watching-the-documentary.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/10/30/carved-a-pumpkin.html",
+				
+				"content_html": "<p>Carved a pumpkin.</p>\n\n<p><img src=\"uploads/2022/435048e154.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Carved a pumpkin. \n\n<img src=\"uploads/2022/435048e154.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-10-30T16:04:46-03:00",
+				"url": "https://micro.bitdepth.org/2022/10/30/carved-a-pumpkin.html",
+				"tags": ["Photos"]
+			},
+			{
 				"id": "http://bitdepth.micro.blog/2022/10/29/autumn-leaves.html",
 				
 				"content_html": "<p>Autumn leaves</p>\n\n<p><img src=\"uploads/2022/e4a9f96b08.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
