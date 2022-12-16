@@ -7,10 +7,73 @@
 	"items": [
 		
 			{
+				"id": "http://bitdepth.micro.blog/2022/12/16/time-for-some.html",
+				
+				"content_html": "<p>Time for some Friday night screwball comedy with the 1937 film ‎<a href=\"https://letterboxd.com/film/love-is-news/\">LOVE IS NEWS</a> directed by Tay Garnett. 🎥</p>\n",
+				"content_text": "Time for some Friday night screwball comedy with the 1937 film ‎[LOVE IS NEWS](https://letterboxd.com/film/love-is-news/) directed by Tay Garnett. 🎥\n",
+				"date_published": "2022-12-16T18:48:22-04:00",
+				"url": "https://micro.bitdepth.org/2022/12/16/time-for-some.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/12/14/watching-preston-sturges.html",
+				
+				"content_html": "<p>Watching ‎Preston Sturges&rsquo; 1944 screwball comedy <a href=\"https://letterboxd.com/film/the-miracle-of-morgans-creek/\">THE MIRACLE OF MORGAN’S CREEK</a> on The Criterion Channel. 🎥</p>\n",
+				"content_text": "Watching ‎Preston Sturges' 1944 screwball comedy [THE MIRACLE OF MORGAN’S CREEK](https://letterboxd.com/film/the-miracle-of-morgans-creek/) on The Criterion Channel. 🎥\n",
+				"date_published": "2022-12-14T20:01:20-04:00",
+				"url": "https://micro.bitdepth.org/2022/12/14/watching-preston-sturges.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/12/13/watching-marguerite-duras.html",
+				
+				"content_html": "<p>Watching ‎Marguerite Duras&rsquo; 1977 film <a href=\"https://letterboxd.com/film/baxter-vera-baxter/\">BAXTER, VERA BAXTER</a> on The Criterion Channel. 🎥</p>\n",
+				"content_text": "Watching ‎Marguerite Duras' 1977 film [BAXTER, VERA BAXTER](https://letterboxd.com/film/baxter-vera-baxter/) on The Criterion Channel. 🎥\n",
+				"date_published": "2022-12-13T17:06:40-04:00",
+				"url": "https://micro.bitdepth.org/2022/12/13/watching-marguerite-duras.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/12/13/my-peripheral-tv.html",
+				
+				"content_html": "<p>My Peripheral TV show inspired t-shirt arrived today.</p>\n\n<p><img src=\"uploads/2022/3d42efcfb3.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "My Peripheral TV show inspired t-shirt arrived today. \n\n<img src=\"uploads/2022/3d42efcfb3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-12-13T16:42:42-04:00",
+				"url": "https://micro.bitdepth.org/2022/12/13/my-peripheral-tv.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/12/12/watching-antonionis-film.html",
+				
+				"content_html": "<p>Watching ‎Antonioni&rsquo;s 1960 film <a href=\"https://letterboxd.com/film/lavventura/\">L&rsquo;AVVENTURA</a> for the first time and thinking that it may be good to watch it now before I finish watching certain season of a TV show set in Italy that I will finish very soon. 🎥</p>\n",
+				"content_text": "Watching ‎Antonioni's 1960 film [L'AVVENTURA](https://letterboxd.com/film/lavventura/) for the first time and thinking that it may be good to watch it now before I finish watching certain season of a TV show set in Italy that I will finish very soon. 🎥\n",
+				"date_published": "2022-12-12T17:06:09-04:00",
+				"url": "https://micro.bitdepth.org/2022/12/12/watching-antonionis-film.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/12/11/watching-park-chanwooks.html",
+				
+				"content_html": "<p>Watching ‎Park Chan-wook&rsquo;s twisty 2022 neo-noir <a href=\"https://letterboxd.com/film/decision-to-leave/\">DECISION TO LEAVE</a> directed by Park Chan-wook again on MUBI. 🎥</p>\n",
+				"content_text": "Watching ‎Park Chan-wook's twisty 2022 neo-noir [DECISION TO LEAVE](https://letterboxd.com/film/decision-to-leave/) directed by Park Chan-wook again on MUBI. 🎥\n",
+				"date_published": "2022-12-11T20:52:44-04:00",
+				"url": "https://micro.bitdepth.org/2022/12/11/watching-park-chanwooks.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/12/10/watching-mai-zetterlings.html",
+				
+				"content_html": "<p>Watching ‎Mai Zetterling&rsquo;s 1982 film <a href=\"https://letterboxd.com/film/scrubbers/\">SCRUBBERS</a>  on The Criterion Channel. 🎥</p>\n",
+				"content_text": "Watching ‎Mai Zetterling's 1982 film [SCRUBBERS](https://letterboxd.com/film/scrubbers/)  on The Criterion Channel. 🎥\n",
+				"date_published": "2022-12-10T19:05:40-04:00",
+				"url": "https://micro.bitdepth.org/2022/12/10/watching-mai-zetterlings.html",
+				"tags": ["Film"]
+			},
+			{
 				"id": "http://bitdepth.micro.blog/2022/12/10/cat-resting-on.html",
 				
-				"content_html": "<p>Cat resting on a chair.</p>\n\n<p><img src=\"uploads/2022/be22f0dab5.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "Cat resting on a chair.\n\n<img src=\"uploads/2022/be22f0dab5.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Cat resting on a chair.</p>\n\n<p><img src=\"https://micro.bitdepth.org/uploads/2022/be22f0dab5.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Cat resting on a chair.\n\n<img src=\"https://micro.bitdepth.org/uploads/2022/be22f0dab5.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-10T14:10:52-04:00",
 				"url": "https://micro.bitdepth.org/2022/12/10/cat-resting-on.html",
 				"tags": ["Photos"]
