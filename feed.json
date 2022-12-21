@@ -7,6 +7,56 @@
 	"items": [
 		
 			{
+				"id": "http://bitdepth.micro.blog/2022/12/21/listening-to-tindersticks.html",
+				
+				"content_html": "<p>Listening to Tindersticks and cooking some pan pizza for supper.</p>\n",
+				"content_text": "Listening to Tindersticks and cooking some pan pizza for supper. \n",
+				"date_published": "2022-12-21T19:03:15-04:00",
+				"url": "https://micro.bitdepth.org/2022/12/21/listening-to-tindersticks.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/12/20/watching-claire-denis.html",
+				
+				"content_html": "<p>Watching ‎Claire Denis&rsquo; wonderful and odd 2017 romantic comedy <a href=\"https://letterboxd.com/film/let-the-sunshine-in/\">LET THE SUNSHINE IN</a> again. 🎥</p>\n",
+				"content_text": "Watching ‎Claire Denis' wonderful and odd 2017 romantic comedy [LET THE SUNSHINE IN](https://letterboxd.com/film/let-the-sunshine-in/) again. 🎥\n",
+				"date_published": "2022-12-20T17:12:14-04:00",
+				"url": "https://micro.bitdepth.org/2022/12/20/watching-claire-denis.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/12/20/thinking-that-i.html",
+				
+				"content_html": "<p>Thinking that I finally have to get my blog post of my favourite films of 2021 up before I get started on my favourite films of 2022 blog post started.</p>\n\n<p>I’d finished writing it, but then in the process of revising and adding links and photos it just didn’t get posted.</p>\n",
+				"content_text": "Thinking that I finally have to get my blog post of my favourite films of 2021 up before I get started on my favourite films of 2022 blog post started.\n\nI’d finished writing it, but then in the process of revising and adding links and photos it just didn’t get posted.\n",
+				"date_published": "2022-12-20T08:00:18-04:00",
+				"url": "https://micro.bitdepth.org/2022/12/20/thinking-that-i.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/12/19/watching-the-restored.html",
+				
+				"content_html": "<p>Watching ‎the restored version of Mai Zetterling&rsquo;s bold 1964 film <a href=\"https://letterboxd.com/film/loving-couples/\">LOVING COUPLES</a> on The Criterion Channel. 🎥</p>\n",
+				"content_text": "Watching ‎the restored version of Mai Zetterling's bold 1964 film [LOVING COUPLES](https://letterboxd.com/film/loving-couples/) on The Criterion Channel. 🎥\n",
+				"date_published": "2022-12-19T17:24:09-04:00",
+				"url": "https://micro.bitdepth.org/2022/12/19/watching-the-restored.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/12/18/have-some-bread.html",
+				
+				"content_html": "<p>Have some bread kneading in the bread machine and thinking about what to make for supper.</p>\n",
+				"content_text": "Have some bread kneading in the bread machine and thinking about what to make for supper. \n",
+				"date_published": "2022-12-18T14:33:39-04:00",
+				"url": "https://micro.bitdepth.org/2022/12/18/have-some-bread.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/12/17/in-the-city.html",
+				
+				"content_html": "<p>In the city for lunch and then excited to see THE FABELMANS in a theatre.</p>\n",
+				"content_text": "In the city for lunch and then excited to see THE FABELMANS in a theatre. \n",
+				"date_published": "2022-12-17T12:02:10-04:00",
+				"url": "https://micro.bitdepth.org/2022/12/17/in-the-city.html"
+			},
+			{
 				"id": "http://bitdepth.micro.blog/2022/12/16/time-for-some.html",
 				
 				"content_html": "<p>Time for some Friday night screwball comedy with the 1937 film ‎<a href=\"https://letterboxd.com/film/love-is-news/\">LOVE IS NEWS</a> directed by Tay Garnett. 🎥</p>\n",
@@ -36,8 +86,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2022/12/13/my-peripheral-tv.html",
 				
-				"content_html": "<p>My Peripheral TV show inspired t-shirt arrived today.</p>\n\n<p><img src=\"uploads/2022/3d42efcfb3.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "My Peripheral TV show inspired t-shirt arrived today. \n\n<img src=\"uploads/2022/3d42efcfb3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>My Peripheral TV show inspired t-shirt arrived today.</p>\n\n<p><img src=\"https://micro.bitdepth.org/uploads/2022/3d42efcfb3.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "My Peripheral TV show inspired t-shirt arrived today. \n\n<img src=\"https://micro.bitdepth.org/uploads/2022/3d42efcfb3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-13T16:42:42-04:00",
 				"url": "https://micro.bitdepth.org/2022/12/13/my-peripheral-tv.html",
 				"tags": ["Photos"]
