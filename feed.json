@@ -7,10 +7,121 @@
 	"items": [
 		
 			{
+				"id": "http://bitdepth.micro.blog/2023/01/04/watching-joanna-hoggs.html",
+				
+				"content_html": "<p>Watching ‎Joanna Hogg&rsquo;s 2022 film <a href=\"https://letterboxd.com/film/the-eternal-daughter/\">THE ETERNAL DAUGHTER</a>. 🎥</p>\n",
+				"content_text": "Watching ‎Joanna Hogg's 2022 film [THE ETERNAL DAUGHTER](https://letterboxd.com/film/the-eternal-daughter/). 🎥\n",
+				"date_published": "2023-01-04T18:43:58-04:00",
+				"url": "https://micro.bitdepth.org/2023/01/04/watching-joanna-hoggs.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/01/03/watching-the-film.html",
+				
+				"content_html": "<p>Watching ‎the 1995 film <a href=\"https://letterboxd.com/film/party-girl-1995/\">PARTY GIRL</a> directed by Daisy von Scherler Mayer on The Criterion Channel. 🎥</p>\n",
+				"content_text": "Watching ‎the 1995 film [PARTY GIRL](https://letterboxd.com/film/party-girl-1995/) directed by Daisy von Scherler Mayer on The Criterion Channel. 🎥\n",
+				"date_published": "2023-01-03T19:43:48-04:00",
+				"url": "https://micro.bitdepth.org/2023/01/03/watching-the-film.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/01/02/watching-mike-mills.html",
+				
+				"content_html": "<p>Watching ‎Mike Mills&rsquo; 2005 film <a href=\"https://letterboxd.com/film/thumbsucker/\">THUMBSUCKER</a> on The Criterion Channel. 🎥</p>\n",
+				"content_text": "Watching ‎Mike Mills' 2005 film [THUMBSUCKER](https://letterboxd.com/film/thumbsucker/) on The Criterion Channel. 🎥\n",
+				"date_published": "2023-01-02T19:33:21-04:00",
+				"url": "https://micro.bitdepth.org/2023/01/02/watching-mike-mills.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/01/01/new-year-big.html",
+				
+				"content_html": "<p>New year, big ear.</p>\n\n<p><img src=\"uploads/2023/58e3861d27.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "New year, big ear. \n\n<img src=\"uploads/2023/58e3861d27.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-01-01T16:37:41-04:00",
+				"url": "https://micro.bitdepth.org/2023/01/01/new-year-big.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/01/01/this-feels-like.html",
+				
+				"content_html": "<p>This feels like a good day to make some sourdough bread.🍞</p>\n",
+				"content_text": "This feels like a good day to make some sourdough bread.🍞\n",
+				"date_published": "2023-01-01T10:08:36-04:00",
+				"url": "https://micro.bitdepth.org/2023/01/01/this-feels-like.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/01/01/happy-new-year.html",
+				
+				"content_html": "<p>Happy New Year from Nova Scotia! 🎉</p>\n",
+				"content_text": "Happy New Year from Nova Scotia! 🎉\n",
+				"date_published": "2023-01-01T00:00:46-04:00",
+				"url": "https://micro.bitdepth.org/2023/01/01/happy-new-year.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/12/31/sharing-my-favourite.html",
+				
+				"content_html": "<p>Sharing my <a href=\"https://boxd.it/f0WbC\">FAVOURITE FILMS OF 2022</a> which had some great films. I&rsquo;ll narrow it down a bit but why not share 21 films I loved. 🎥</p>\n",
+				"content_text": "Sharing my [FAVOURITE FILMS OF 2022](https://boxd.it/f0WbC) which had some great films. I'll narrow it down a bit but why not share 21 films I loved. 🎥\n",
+				"date_published": "2022-12-31T22:11:36-04:00",
+				"url": "https://micro.bitdepth.org/2022/12/31/sharing-my-favourite.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/12/31/final-film-of.html",
+				
+				"content_html": "<p>Final film of the year will be Charlotte Wells&rsquo; beautiful and impressionistic and precise film ‎<a href=\"https://letterboxd.com/film/aftersun/\">AFTERSUN</a>. 🎥</p>\n",
+				"content_text": "Final film of the year will be Charlotte Wells' beautiful and impressionistic and precise film ‎[AFTERSUN](https://letterboxd.com/film/aftersun/). 🎥\n",
+				"date_published": "2022-12-31T20:45:31-04:00",
+				"url": "https://micro.bitdepth.org/2022/12/31/final-film-of.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/12/31/watching-guillermo-del.html",
+				
+				"content_html": "<p>Watching ‎<a href=\"https://letterboxd.com/film/guillermo-del-toros-pinocchio/\">GUILLERMO DEL TORO&rsquo;S PINOCCHIO</a> directed by Guillermo del Toro and Mark Gustafson. 🎥</p>\n",
+				"content_text": "Watching ‎[GUILLERMO DEL TORO'S PINOCCHIO](https://letterboxd.com/film/guillermo-del-toros-pinocchio/) directed by Guillermo del Toro and Mark Gustafson. 🎥\n",
+				"date_published": "2022-12-31T18:22:10-04:00",
+				"url": "https://micro.bitdepth.org/2022/12/31/watching-guillermo-del.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/12/31/spending-new-years.html",
+				
+				"content_html": "<p>Spending New Years Eve at home with Nick, Nora, and Asta and enjoying a cocktail and watching the 1934 classic <a href=\"https://letterboxd.com/film/the-thin-man/\">THE THIN MAN</a>. 🎥</p>\n",
+				"content_text": "Spending New Years Eve at home with Nick, Nora, and Asta and enjoying a cocktail and watching the 1934 classic [THE THIN MAN](https://letterboxd.com/film/the-thin-man/). 🎥\n",
+				"date_published": "2022-12-31T16:50:21-04:00",
+				"url": "https://micro.bitdepth.org/2022/12/31/spending-new-years.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/12/30/really-loved-baumbachs.html",
+				
+				"content_html": "<p>Really loved Baumbach’s WHITE NOISE which was strange and funny and a bit of a blend of Lanthimos and Spielberg in a great way.</p>\n",
+				"content_text": "Really loved Baumbach’s WHITE NOISE which was strange and funny and a bit of a blend of Lanthimos and Spielberg in a great way. \n",
+				"date_published": "2022-12-30T22:24:45-04:00",
+				"url": "https://micro.bitdepth.org/2022/12/30/really-loved-baumbachs.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/12/30/watching-noah-baumbachs.html",
+				
+				"content_html": "<p>Watching Noah Baumbach&rsquo;s 2022 film <a href=\"https://letterboxd.com/film/white-noise-2022/\">WHITE NOISE</a>. 🎥</p>\n",
+				"content_text": "Watching Noah Baumbach's 2022 film [WHITE NOISE](https://letterboxd.com/film/white-noise-2022/). 🎥\n",
+				"date_published": "2022-12-30T19:40:00-04:00",
+				"url": "https://micro.bitdepth.org/2022/12/30/watching-noah-baumbachs.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2022/12/30/listening-to-phoenix.html",
+				
+				"content_html": "<p>Listening to Phoenix and cooking up a big pot of veggie chili.</p>\n",
+				"content_text": "Listening to Phoenix and cooking up a big pot of veggie chili.\n",
+				"date_published": "2022-12-30T16:03:41-04:00",
+				"url": "https://micro.bitdepth.org/2022/12/30/listening-to-phoenix.html"
+			},
+			{
 				"id": "http://bitdepth.micro.blog/2022/12/30/morning-light.html",
 				
-				"content_html": "<p>Morning light.</p>\n\n<p><img src=\"uploads/2022/3a8ae9969d.jpg\" width=\"600\" height=\"400\" alt=\"\"></p>\n",
-				"content_text": "Morning light.\n\n<img src=\"uploads/2022/3a8ae9969d.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_html": "<p>Morning light.</p>\n\n<p><img src=\"https://micro.bitdepth.org/uploads/2022/3a8ae9969d.jpg\" width=\"600\" height=\"400\" alt=\"\"></p>\n",
+				"content_text": "Morning light.\n\n<img src=\"https://micro.bitdepth.org/uploads/2022/3a8ae9969d.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2022-12-30T10:42:00-04:00",
 				"url": "https://micro.bitdepth.org/2022/12/30/morning-light.html",
 				"tags": ["Photos"]
@@ -18,8 +129,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2022/12/24/christmas-eve.html",
 				
-				"content_html": "<p>Christmas Eve.</p>\n\n<p><img src=\"uploads/2022/6fd49534d6.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "Christmas Eve. \n\n<img src=\"uploads/2022/6fd49534d6.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Christmas Eve.</p>\n\n<p><img src=\"https://micro.bitdepth.org/uploads/2022/6fd49534d6.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Christmas Eve. \n\n<img src=\"https://micro.bitdepth.org/uploads/2022/6fd49534d6.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-24T18:04:43-04:00",
 				"url": "https://micro.bitdepth.org/2022/12/24/christmas-eve.html",
 				"tags": ["Photos"]
@@ -36,8 +147,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2022/12/22/veggie-shepherds-pie.html",
 				
-				"content_html": "<p>Veggie shepherds pie.</p>\n\n<p><img src=\"uploads/2022/7dacd79cb3.jpg\" width=\"600\" height=\"400\" alt=\"\"></p>\n",
-				"content_text": "Veggie shepherds pie.\n\n<img src=\"uploads/2022/7dacd79cb3.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_html": "<p>Veggie shepherds pie.</p>\n\n<p><img src=\"https://micro.bitdepth.org/uploads/2022/7dacd79cb3.jpg\" width=\"600\" height=\"400\" alt=\"\"></p>\n",
+				"content_text": "Veggie shepherds pie.\n\n<img src=\"https://micro.bitdepth.org/uploads/2022/7dacd79cb3.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2022-12-22T18:27:53-04:00",
 				"url": "https://micro.bitdepth.org/2022/12/22/veggie-shepherds-pie.html",
 				"tags": ["Photos"]
