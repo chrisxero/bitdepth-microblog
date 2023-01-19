@@ -7,6 +7,65 @@
 	"items": [
 		
 			{
+				"id": "http://bitdepth.micro.blog/2023/01/19/working-my-way.html",
+				
+				"content_html": "<p>Working my way through <em>Star Trek: Discovery</em> for the first time and really enjoying it. I weirdly started with <em>Strange New Worlds</em> which I loved so much that I thought I’d catch up with the series it spun off from.</p>\n",
+				"content_text": "Working my way through _Star Trek: Discovery_ for the first time and really enjoying it. I weirdly started with _Strange New Worlds_ which I loved so much that I thought I’d catch up with the series it spun off from. \n",
+				"date_published": "2023-01-19T17:39:36-04:00",
+				"url": "https://micro.bitdepth.org/2023/01/19/working-my-way.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/01/16/watching-the-romanian.html",
+				
+				"content_html": "<p>Watching ‎the 2021 Romanian film <a href=\"https://letterboxd.com/film/intregalde/\">ÎNTREGALDE</a> directed by Radu Muntean on MUBI. 🎥</p>\n",
+				"content_text": "Watching ‎the 2021 Romanian film [ÎNTREGALDE](https://letterboxd.com/film/intregalde/) directed by Radu Muntean on MUBI. 🎥\n",
+				"date_published": "2023-01-16T18:19:10-04:00",
+				"url": "https://micro.bitdepth.org/2023/01/16/watching-the-romanian.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/01/15/fresh-bread.html",
+				
+				"content_html": "<p>Fresh bread.</p>\n\n<p><img src=\"uploads/2023/e91dbd0053.jpg\" width=\"600\" height=\"400\" alt=\"\"></p>\n",
+				"content_text": "Fresh bread. \n\n<img src=\"uploads/2023/e91dbd0053.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2023-01-15T15:44:57-04:00",
+				"url": "https://micro.bitdepth.org/2023/01/15/fresh-bread.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/01/15/taking-it-easy.html",
+				
+				"content_html": "<p>Taking it easy on an icy Sunday morning as I sip a cappuccino and listen to the bread machine knead some sourdough.</p>\n",
+				"content_text": "Taking it easy on an icy Sunday morning as I sip a cappuccino and listen to the bread machine knead some sourdough.\n",
+				"date_published": "2023-01-15T08:52:07-04:00",
+				"url": "https://micro.bitdepth.org/2023/01/15/taking-it-easy.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/01/14/making-a-big.html",
+				
+				"content_html": "<p>Making a big batch of veggie burgers and hamburger buns on a damp afternoon.</p>\n",
+				"content_text": "Making a big batch of veggie burgers and hamburger buns on a damp afternoon. \n",
+				"date_published": "2023-01-14T14:28:19-04:00",
+				"url": "https://micro.bitdepth.org/2023/01/14/making-a-big.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/01/13/watching-the-screwball.html",
+				
+				"content_html": "<p>Watching ‎the 1951 screwball comedy <a href=\"https://letterboxd.com/film/rhubarb/\">RHUBARB</a> directed by Arthur Lubin on The Criterion Channel. 🎥</p>\n",
+				"content_text": "Watching ‎the 1951 screwball comedy [RHUBARB](https://letterboxd.com/film/rhubarb/) directed by Arthur Lubin on The Criterion Channel. 🎥\n",
+				"date_published": "2023-01-13T19:30:18-04:00",
+				"url": "https://micro.bitdepth.org/2023/01/13/watching-the-screwball.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/01/13/ten-years-ago.html",
+				
+				"content_html": "<p>Ten years ago I wrote on my blog about how wonderful <a href=\"http://bitdepth.org/2012/12/08/2012-12-8-twitterrific-5\">Twitterrific 5 </a>was.</p>\n",
+				"content_text": "Ten years ago I wrote on my blog about how wonderful [Twitterrific 5 ](http://bitdepth.org/2012/12/08/2012-12-8-twitterrific-5)was.\n",
+				"date_published": "2023-01-13T14:13:14-04:00",
+				"url": "https://micro.bitdepth.org/2023/01/13/ten-years-ago.html"
+			},
+			{
 				"id": "http://bitdepth.micro.blog/2023/01/13/sitting-down-on.html",
 				
 				"content_html": "<p>Sitting down on a snowy morning as I eat my oatmeal and sip an espresso and thinking about the wonderful Twitterrific app which made Twitter a pleasure to use over the past 15 years.</p>\n",
