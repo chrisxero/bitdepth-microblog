@@ -7,6 +7,39 @@
 	"items": [
 		
 			{
+				"id": "http://bitdepth.micro.blog/2023/02/05/watching-the-film.html",
+				
+				"content_html": "<p>Watching ‎the 1949 film noir <a href=\"https://letterboxd.com/film/tension/\">TENSION</a> directed by John Berry on TCM&rsquo;s <em>Noir Alley</em>.</p>\n",
+				"content_text": "Watching ‎the 1949 film noir [TENSION](https://letterboxd.com/film/tension/) directed by John Berry on TCM's *Noir Alley*.\n",
+				"date_published": "2023-02-05T19:34:11-04:00",
+				"url": "https://micro.bitdepth.org/2023/02/05/watching-the-film.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/02/03/listening-to-japanese.html",
+				
+				"content_html": "<p>Listening to Japanese Breakfast and making some pizza on a cold winter night.</p>\n",
+				"content_text": "Listening to Japanese Breakfast and making some pizza on a cold winter night. \n",
+				"date_published": "2023-02-03T17:32:32-04:00",
+				"url": "https://micro.bitdepth.org/2023/02/03/listening-to-japanese.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/02/02/as-a-fan.html",
+				
+				"content_html": "<p>As a fan of <em>Columbo</em> starting from the opening credits I know that I’m going to love watching Rian Johnson’s <em>Poker Face</em> with Natasha Lyonne.</p>\n",
+				"content_text": "As a fan of _Columbo_ starting from the opening credits I know that I’m going to love watching Rian Johnson’s _Poker Face_ with Natasha Lyonne.\n",
+				"date_published": "2023-02-02T20:31:12-04:00",
+				"url": "https://micro.bitdepth.org/2023/02/02/as-a-fan.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/01/31/starting-the-day.html",
+				
+				"content_html": "<p>Starting the day right with a nice bowl of oatmeal and an espresso to wake me up.</p>\n",
+				"content_text": "Starting the day right with a nice bowl of oatmeal and an espresso to wake me up. \n",
+				"date_published": "2023-01-31T06:06:49-04:00",
+				"url": "https://micro.bitdepth.org/2023/01/31/starting-the-day.html"
+			},
+			{
 				"id": "http://bitdepth.micro.blog/2023/01/30/watching-the-documentary.html",
 				
 				"content_html": "<p>Watching ‎the 2022 documentary <a href=\"https://letterboxd.com/film/free-chol-soo-lee/\">FREE CHOL SOO LEE</a> directed by Eugene Yi and Julie Ha on MUBI. 🎥</p>\n",
@@ -18,8 +51,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2023/01/29/fresh-bread.html",
 				
-				"content_html": "<p>Fresh bread.</p>\n\n<p><img src=\"uploads/2023/262c96cd8b.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "Fresh bread. \n\n<img src=\"uploads/2023/262c96cd8b.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Fresh bread.</p>\n\n<p><img src=\"https://micro.bitdepth.org/uploads/2023/262c96cd8b.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Fresh bread. \n\n<img src=\"https://micro.bitdepth.org/uploads/2023/262c96cd8b.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-29T16:00:42-04:00",
 				"url": "https://micro.bitdepth.org/2023/01/29/fresh-bread.html",
 				"tags": ["Photos"]
@@ -36,8 +69,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2023/01/28/japanese-milk-bread.html",
 				
-				"content_html": "<p>Japanese Milk Bread Rolls fresh from the oven.</p>\n\n<p><img src=\"uploads/2023/c8b79225c7.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "Japanese Milk Bread Rolls fresh from the oven. \n\n<img src=\"uploads/2023/c8b79225c7.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Japanese Milk Bread Rolls fresh from the oven.</p>\n\n<p><img src=\"https://micro.bitdepth.org/uploads/2023/c8b79225c7.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Japanese Milk Bread Rolls fresh from the oven. \n\n<img src=\"https://micro.bitdepth.org/uploads/2023/c8b79225c7.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-28T17:54:09-04:00",
 				"url": "https://micro.bitdepth.org/2023/01/28/japanese-milk-bread.html",
 				"tags": ["Photos"]
