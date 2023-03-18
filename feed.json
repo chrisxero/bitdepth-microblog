@@ -7,10 +7,73 @@
 	"items": [
 		
 			{
+				"id": "http://bitdepth.micro.blog/2023/03/18/one-from-the.html",
+				
+				"content_html": "<p>One from the archives for <strong>portico</strong> day 18 of the March Photoblogging Challenge.</p>\n\n<p><img src=\"uploads/2023/3fb5d4210d.jpg\" width=\"600\" height=\"600\" alt=\"Archway with evening sun shining through with botanical garden in the distance. \"></p>\n",
+				"content_text": "One from the archives for **portico** day 18 of the March Photoblogging Challenge. \n\n<img src=\"uploads/2023/3fb5d4210d.jpg\" width=\"600\" height=\"600\" alt=\"Archway with evening sun shining through with botanical garden in the distance. \">\n",
+				"date_published": "2023-03-18T16:32:56-04:00",
+				"url": "https://micro.bitdepth.org/2023/03/18/one-from-the.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/03/17/watching-steven-soderberghs.html",
+				
+				"content_html": "<p>Watching ‎Steven Soderbergh&rsquo;s fun 2020 film <a href=\"https://letterboxd.com/film/let-them-all-talk/\">LET THEM ALL TALK</a> again. 🎥</p>\n",
+				"content_text": "Watching ‎Steven Soderbergh's fun 2020 film [LET THEM ALL TALK](https://letterboxd.com/film/let-them-all-talk/) again. 🎥\n",
+				"date_published": "2023-03-17T19:18:36-04:00",
+				"url": "https://micro.bitdepth.org/2023/03/17/watching-steven-soderberghs.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/03/17/coffe-beans-are.html",
+				
+				"content_html": "<p>Coffe beans are the key to a successful <strong>early</strong> start to the day. Day 17 of the March Photoblogging Challenge.</p>\n\n<p><img src=\"uploads/2023/85c9215ff8.jpg\" width=\"600\" height=\"599\" alt=\"Overhead view of coffee beans in transparent square plastic container. \"></p>\n",
+				"content_text": "Coffe beans are the key to a successful **early** start to the day. Day 17 of the March Photoblogging Challenge. \n\n<img src=\"uploads/2023/85c9215ff8.jpg\" width=\"600\" height=\"599\" alt=\"Overhead view of coffee beans in transparent square plastic container. \">\n",
+				"date_published": "2023-03-17T11:23:56-04:00",
+				"url": "https://micro.bitdepth.org/2023/03/17/coffe-beans-are.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/03/16/pan-pizza-with.html",
+				
+				"content_html": "<p>Pan pizza with pesto.</p>\n\n<p><img src=\"uploads/2023/dfc3553d9e.jpg\" width=\"600\" height=\"400\" alt=\"Cheese pizza on metal rack.\"></p>\n",
+				"content_text": "Pan pizza with pesto.\n\n<img src=\"uploads/2023/dfc3553d9e.jpg\" width=\"600\" height=\"400\" alt=\"Cheese pizza on metal rack.\">\n",
+				"date_published": "2023-03-16T20:06:23-04:00",
+				"url": "https://micro.bitdepth.org/2023/03/16/pan-pizza-with.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/03/16/snow-on-the.html",
+				
+				"content_html": "<p>Snow on the side of the <strong>road</strong> for day 16 of the March Photoblogging Challenge.</p>\n\n<p><img src=\"uploads/2023/87c5cbaa34.jpg\" width=\"600\" height=\"400\" alt=\"Snow on a lawn and a damp and clear street with houses along the side. \"></p>\n",
+				"content_text": "Snow on the side of the **road** for day 16 of the March Photoblogging Challenge. \n\n<img src=\"uploads/2023/87c5cbaa34.jpg\" width=\"600\" height=\"400\" alt=\"Snow on a lawn and a damp and clear street with houses along the side. \">\n",
+				"date_published": "2023-03-16T16:38:01-04:00",
+				"url": "https://micro.bitdepth.org/2023/03/16/snow-on-the.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/03/15/working-with-sourdough.html",
+				
+				"content_html": "<p>Working with sourdough starter teaches you <strong>patience</strong>. Day 15 of the March Photoblogging Challenge.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/1352/2023/c0edbc3c98.jpg\" width=\"600\" height=\"600\" alt=\"Sourdough starter in jar.\"></p>\n",
+				"content_text": "Working with sourdough starter teaches you **patience**. Day 15 of the March Photoblogging Challenge. \n\n<img src=\"https://cdn.uploads.micro.blog/1352/2023/c0edbc3c98.jpg\" width=\"600\" height=\"600\" alt=\"Sourdough starter in jar.\">\n",
+				"date_published": "2023-03-15T08:58:41-04:00",
+				"url": "https://micro.bitdepth.org/2023/03/15/working-with-sourdough.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/03/14/looking-at-the.html",
+				
+				"content_html": "<p>Looking at the <strong>horizon</strong> on a cold morning. Day 14 of the March Photoblogging Challenge.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/1352/2023/339b1dd4c6.jpg\" width=\"600\" height=\"400\" alt=\"Blue sky with trees and snow in foreground with the moon in the sky. \"></p>\n",
+				"content_text": "Looking at the **horizon** on a cold morning. Day 14 of the March Photoblogging Challenge.\n\n<img src=\"https://cdn.uploads.micro.blog/1352/2023/339b1dd4c6.jpg\" width=\"600\" height=\"400\" alt=\"Blue sky with trees and snow in foreground with the moon in the sky. \">\n",
+				"date_published": "2023-03-14T07:17:41-04:00",
+				"url": "https://micro.bitdepth.org/2023/03/14/looking-at-the.html",
+				"tags": ["Photos"]
+			},
+			{
 				"id": "http://bitdepth.micro.blog/2023/03/13/looking-at-the.html",
 				
-				"content_html": "<p>Looking at the <strong>connection</strong> between some ornaments in a window. Day 13 of the March Photoblogging Challenge.</p>\n\n<p><img src=\"uploads/2023/566cddc6e5.jpg\" width=\"450\" height=\"600\" alt=\"Ornament of crystals and heart in window in front of morning sunrise. \"></p>\n",
-				"content_text": "Looking at the **connection** between some ornaments in a window. Day 13 of the March Photoblogging Challenge. \n\n<img src=\"uploads/2023/566cddc6e5.jpg\" width=\"450\" height=\"600\" alt=\"Ornament of crystals and heart in window in front of morning sunrise. \">\n",
+				"content_html": "<p>Looking at the <strong>connection</strong> between some ornaments in a window. Day 13 of the March Photoblogging Challenge.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/1352/2023/566cddc6e5.jpg\" width=\"450\" height=\"600\" alt=\"Ornament of crystals and heart in window in front of morning sunrise. \"></p>\n",
+				"content_text": "Looking at the **connection** between some ornaments in a window. Day 13 of the March Photoblogging Challenge. \n\n<img src=\"https://cdn.uploads.micro.blog/1352/2023/566cddc6e5.jpg\" width=\"450\" height=\"600\" alt=\"Ornament of crystals and heart in window in front of morning sunrise. \">\n",
 				"date_published": "2023-03-13T16:04:14-04:00",
 				"url": "https://micro.bitdepth.org/2023/03/13/looking-at-the.html",
 				"tags": ["Photos"]
@@ -18,8 +81,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2023/03/12/a-shiny-new.html",
 				
-				"content_html": "<p>A <strong>shiny</strong> new iPhone that my Mom just upgraded to. Day 12 of the March Photoblogging Challenge.</p>\n\n<p><img src=\"uploads/2023/81d797b66a.jpg\" width=\"600\" height=\"599\" alt=\"iPhone 14 with lavender silicone case on a multicolour mat. \"></p>\n",
-				"content_text": "A **shiny** new iPhone that my Mom just upgraded to. Day 12 of the March Photoblogging Challenge.\n\n<img src=\"uploads/2023/81d797b66a.jpg\" width=\"600\" height=\"599\" alt=\"iPhone 14 with lavender silicone case on a multicolour mat. \">\n",
+				"content_html": "<p>A <strong>shiny</strong> new iPhone that my Mom just upgraded to. Day 12 of the March Photoblogging Challenge.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/1352/2023/81d797b66a.jpg\" width=\"600\" height=\"599\" alt=\"iPhone 14 with lavender silicone case on a multicolour mat. \"></p>\n",
+				"content_text": "A **shiny** new iPhone that my Mom just upgraded to. Day 12 of the March Photoblogging Challenge.\n\n<img src=\"https://cdn.uploads.micro.blog/1352/2023/81d797b66a.jpg\" width=\"600\" height=\"599\" alt=\"iPhone 14 with lavender silicone case on a multicolour mat. \">\n",
 				"date_published": "2023-03-12T11:56:18-04:00",
 				"url": "https://micro.bitdepth.org/2023/03/12/a-shiny-new.html",
 				"tags": ["Photos"]
@@ -27,8 +90,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2023/03/11/decoration-on-a.html",
 				
-				"content_html": "<p>Decoration on a wall. Day 11 of the March Photoblogging Challenge - <strong>gimcrack</strong>.</p>\n\n<p><img src=\"uploads/2023/8982fde986.jpg\" width=\"600\" height=\"600\" alt=\"Ornamental branches with small berries formed into a circle on a wall. \"></p>\n",
-				"content_text": "Decoration on a wall. Day 11 of the March Photoblogging Challenge - **gimcrack**.\n\n<img src=\"uploads/2023/8982fde986.jpg\" width=\"600\" height=\"600\" alt=\"Ornamental branches with small berries formed into a circle on a wall. \">\n",
+				"content_html": "<p>Decoration on a wall. Day 11 of the March Photoblogging Challenge - <strong>gimcrack</strong>.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/1352/2023/8982fde986.jpg\" width=\"600\" height=\"600\" alt=\"Ornamental branches with small berries formed into a circle on a wall. \"></p>\n",
+				"content_text": "Decoration on a wall. Day 11 of the March Photoblogging Challenge - **gimcrack**.\n\n<img src=\"https://cdn.uploads.micro.blog/1352/2023/8982fde986.jpg\" width=\"600\" height=\"600\" alt=\"Ornamental branches with small berries formed into a circle on a wall. \">\n",
 				"date_published": "2023-03-11T17:04:16-04:00",
 				"url": "https://micro.bitdepth.org/2023/03/11/decoration-on-a.html",
 				"tags": ["Photos"]
@@ -36,8 +99,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2023/03/10/the-grinder-that.html",
 				
-				"content_html": "<p>The grinder that is a key part of my morning <strong>ritual</strong>. Day10 of the March Photoblogging Challenge.</p>\n\n<p><img src=\"uploads/2023/6aa5490c4c.jpg\" width=\"600\" height=\"599\" alt=\"Sunlight on a white coffee bean grinder. \"></p>\n",
-				"content_text": "The grinder that is a key part of my morning **ritual**. Day10 of the March Photoblogging Challenge. \n\n<img src=\"uploads/2023/6aa5490c4c.jpg\" width=\"600\" height=\"599\" alt=\"Sunlight on a white coffee bean grinder. \">\n",
+				"content_html": "<p>The grinder that is a key part of my morning <strong>ritual</strong>. Day10 of the March Photoblogging Challenge.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/1352/2023/6aa5490c4c.jpg\" width=\"600\" height=\"599\" alt=\"Sunlight on a white coffee bean grinder. \"></p>\n",
+				"content_text": "The grinder that is a key part of my morning **ritual**. Day10 of the March Photoblogging Challenge. \n\n<img src=\"https://cdn.uploads.micro.blog/1352/2023/6aa5490c4c.jpg\" width=\"600\" height=\"599\" alt=\"Sunlight on a white coffee bean grinder. \">\n",
 				"date_published": "2023-03-10T07:32:01-04:00",
 				"url": "https://micro.bitdepth.org/2023/03/10/the-grinder-that.html",
 				"tags": ["Photos"]
@@ -45,8 +108,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2023/03/09/everything-starting-to.html",
 				
-				"content_html": "<p>Everything starting to come <strong>together</strong> for some pizza on Day 9 of the March Photoblogging Challenge.</p>\n\n<p><img src=\"uploads/2023/0f298401aa.jpg\" width=\"600\" height=\"400\" alt=\"Grated Parmesan cheese on top of pizza sauce and dough before being cooked. \"></p>\n",
-				"content_text": "Everything starting to come **together** for some pizza on Day 9 of the March Photoblogging Challenge. \n\n<img src=\"uploads/2023/0f298401aa.jpg\" width=\"600\" height=\"400\" alt=\"Grated Parmesan cheese on top of pizza sauce and dough before being cooked. \">\n",
+				"content_html": "<p>Everything starting to come <strong>together</strong> for some pizza on Day 9 of the March Photoblogging Challenge.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/1352/2023/0f298401aa.jpg\" width=\"600\" height=\"400\" alt=\"Grated Parmesan cheese on top of pizza sauce and dough before being cooked. \"></p>\n",
+				"content_text": "Everything starting to come **together** for some pizza on Day 9 of the March Photoblogging Challenge. \n\n<img src=\"https://cdn.uploads.micro.blog/1352/2023/0f298401aa.jpg\" width=\"600\" height=\"400\" alt=\"Grated Parmesan cheese on top of pizza sauce and dough before being cooked. \">\n",
 				"date_published": "2023-03-09T18:21:27-04:00",
 				"url": "https://micro.bitdepth.org/2023/03/09/everything-starting-to.html",
 				"tags": ["Photos"]
