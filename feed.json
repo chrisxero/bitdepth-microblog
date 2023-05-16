@@ -7,6 +7,41 @@
 	"items": [
 		
 			{
+				"id": "http://bitdepth.micro.blog/2023/05/13/roxy-music-lounging.html",
+				
+				"content_html": "<p>Roxy Music lounging in the sun.</p>\n\n<p><img src=\"uploads/2023/21d013fdfd.jpg\" width=\"600\" height=\"600\" alt=\"White cat on her back looking at the camera while in the sun on top of a multicoloured comforter on a bed. \"></p>\n",
+				"content_text": "Roxy Music lounging in the sun. \n\n<img src=\"uploads/2023/21d013fdfd.jpg\" width=\"600\" height=\"600\" alt=\"White cat on her back looking at the camera while in the sun on top of a multicoloured comforter on a bed. \">\n",
+				"date_published": "2023-05-13T17:41:06-03:00",
+				"url": "https://micro.bitdepth.org/2023/05/13/roxy-music-lounging.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/05/12/watching-the-documentary.html",
+				
+				"content_html": "<p>Watching ‎the 2023 documentary <a href=\"https://letterboxd.com/film/still-a-michael-j-fox-movie/\">STILL: A MICHAEL J. FOX MOVIE</a> directed by Davis Guggenheim. 🎥</p>\n",
+				"content_text": "Watching ‎the 2023 documentary [STILL: A MICHAEL J. FOX MOVIE](https://letterboxd.com/film/still-a-michael-j-fox-movie/) directed by Davis Guggenheim. 🎥\n",
+				"date_published": "2023-05-12T19:54:43-03:00",
+				"url": "https://micro.bitdepth.org/2023/05/12/watching-the-documentary.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/05/12/listening-to-kid.html",
+				
+				"content_html": "<p>Listening to <a href=\"https://songwhip.com/kid-koala/12-bit-blues\">Kid Koala’s 12-bit Blues</a> while I get supper ready.</p>\n",
+				"content_text": "Listening to [Kid Koala’s 12-bit Blues](https://songwhip.com/kid-koala/12-bit-blues) while I get supper ready. \n",
+				"date_published": "2023-05-12T18:05:01-03:00",
+				"url": "https://micro.bitdepth.org/2023/05/12/listening-to-kid.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/05/11/watching-the-film.html",
+				
+				"content_html": "<p>Watching ‎the 2001 film <a href=\"https://letterboxd.com/film/the-anniversary-party/\">THE ANNIVERSARY PARTY</a> directed by Jennifer Jason Leigh and Alan Cumming. 🎥</p>\n",
+				"content_text": "Watching ‎the 2001 film [THE ANNIVERSARY PARTY](https://letterboxd.com/film/the-anniversary-party/) directed by Jennifer Jason Leigh and Alan Cumming. 🎥\n",
+				"date_published": "2023-05-11T20:22:58-03:00",
+				"url": "https://micro.bitdepth.org/2023/05/11/watching-the-film.html",
+				"tags": ["Film"]
+			},
+			{
 				"id": "http://bitdepth.micro.blog/2023/05/10/watching-renuka-jeyapalans.html",
 				
 				"content_html": "<p>Watching ‎Renuka Jeyapalan&rsquo;s 2022 film <a href=\"https://letterboxd.com/film/stay-the-night-2022/\">STAY THE NIGHT</a> again. 🎥</p>\n",
