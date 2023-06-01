@@ -7,6 +7,102 @@
 	"items": [
 		
 			{
+				"id": "http://bitdepth.micro.blog/2023/06/01/making-some-chocolate.html",
+				
+				"content_html": "<p>Making some chocolate ice cream.</p>\n\n<p><img src=\"uploads/2023/eaac332120.jpg\" width=\"600\" height=\"600\" alt=\"Close view through top of clear plastic ice cream maker with chocolate ice cream mixing inside. \"></p>\n",
+				"content_text": "Making some chocolate ice cream. \n\n<img src=\"uploads/2023/eaac332120.jpg\" width=\"600\" height=\"600\" alt=\"Close view through top of clear plastic ice cream maker with chocolate ice cream mixing inside. \">\n",
+				"date_published": "2023-06-01T15:53:34-03:00",
+				"url": "https://micro.bitdepth.org/2023/06/01/making-some-chocolate.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/05/31/watching-the-docudrama.html",
+				
+				"content_html": "<p>Watching ‎the 2023 docudrama <a href=\"https://letterboxd.com/film/reality-2023/\">REALITY</a> directed by Tina Satter. 🎥</p>\n",
+				"content_text": "Watching ‎the 2023 docudrama [REALITY](https://letterboxd.com/film/reality-2023/) directed by Tina Satter. 🎥\n",
+				"date_published": "2023-05-31T19:43:23-03:00",
+				"url": "https://micro.bitdepth.org/2023/05/31/watching-the-docudrama.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/05/31/this-is-one.html",
+				
+				"content_html": "<p>This is one of my favourite times of the year as classes have just ended and I am deep in planning the upcoming year. I&rsquo;m trying to think of better ways of doing things and am considering using Craft to organize assignments for some of my courses.</p>\n",
+				"content_text": "This is one of my favourite times of the year as classes have just ended and I am deep in planning the upcoming year. I'm trying to think of better ways of doing things and am considering using Craft to organize assignments for some of my courses.\n",
+				"date_published": "2023-05-31T09:13:30-03:00",
+				"url": "https://micro.bitdepth.org/2023/05/31/this-is-one.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/05/30/watching-the-documentary.html",
+				
+				"content_html": "<p>Watching the 2020 documentary ‎<a href=\"https://letterboxd.com/film/feels-good-man/\">FEELS GOOD MAN</a> directed by Arthur Jones on MUBI. 🎥</p>\n",
+				"content_text": "Watching the 2020 documentary ‎[FEELS GOOD MAN](https://letterboxd.com/film/feels-good-man/) directed by Arthur Jones on MUBI. 🎥\n",
+				"date_published": "2023-05-30T18:20:33-03:00",
+				"url": "https://micro.bitdepth.org/2023/05/30/watching-the-documentary.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/05/29/revisiting-one-of.html",
+				
+				"content_html": "<p>Revisiting one of the strange and beautiful films of the Greek Weird Wave and watching <a href=\"https://letterboxd.com/film/attenberg/\">ATTENBERG</a> directed by Athina Rachel Tsangari from 2010. 🎥</p>\n",
+				"content_text": "Revisiting one of the strange and beautiful films of the Greek Weird Wave and watching [ATTENBERG](https://letterboxd.com/film/attenberg/) directed by Athina Rachel Tsangari from 2010. 🎥\n",
+				"date_published": "2023-05-29T18:28:06-03:00",
+				"url": "https://micro.bitdepth.org/2023/05/29/revisiting-one-of.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/05/28/now-going-to.html",
+				
+				"content_html": "<p>Now going to the theatre to watch Nicole Holofcener&rsquo;s new film <a href=\"https://letterboxd.com/film/you-hurt-my-feelings-2023/\">YOU HURT MY FEELINGS</a>. 🎥</p>\n",
+				"content_text": "Now going to the theatre to watch Nicole Holofcener's new film [YOU HURT MY FEELINGS](https://letterboxd.com/film/you-hurt-my-feelings-2023/). 🎥\n",
+				"date_published": "2023-05-28T15:49:32-03:00",
+				"url": "https://micro.bitdepth.org/2023/05/28/now-going-to.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/05/28/in-the-theatre.html",
+				
+				"content_html": "<p>In the theatre to see the 2023 film <a href=\"https://letterboxd.com/film/blackberry-2023/\">BLACKBERRY</a>. 🎥</p>\n",
+				"content_text": "In the theatre to see the 2023 film [BLACKBERRY](https://letterboxd.com/film/blackberry-2023/). 🎥\n",
+				"date_published": "2023-05-28T12:48:46-03:00",
+				"url": "https://micro.bitdepth.org/2023/05/28/in-the-theatre.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/05/28/getting-my-morning.html",
+				
+				"content_html": "<p>Getting my morning writing done by reviewing the films I watched yesterday as I sip some coffee on a beautiful and breezy morning.</p>\n",
+				"content_text": "Getting my morning writing done by reviewing the films I watched yesterday as I sip some coffee on a beautiful and breezy morning.\n",
+				"date_published": "2023-05-28T09:48:32-03:00",
+				"url": "https://micro.bitdepth.org/2023/05/28/getting-my-morning.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/05/27/watching-henrigeorges-clouzots.html",
+				
+				"content_html": "<p>Watching ‎Henri-Georges Clouzot&rsquo;s 1953 film <a href=\"https://letterboxd.com/film/the-wages-of-fear/\">THE WAGES OF FEAR</a> on The Criterion Channel. I&rsquo;ve seen William Friedkin&rsquo;s 1977 remake, but not the original until now. 🎥</p>\n",
+				"content_text": "Watching ‎Henri-Georges Clouzot's 1953 film [THE WAGES OF FEAR](https://letterboxd.com/film/the-wages-of-fear/) on The Criterion Channel. I've seen William Friedkin's 1977 remake, but not the original until now. 🎥\n",
+				"date_published": "2023-05-27T19:01:10-03:00",
+				"url": "https://micro.bitdepth.org/2023/05/27/watching-henrigeorges-clouzots.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/05/27/bread-cooling.html",
+				
+				"content_html": "<p>Bread cooling.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/1352/2023/f2b11b67d8.jpg\" width=\"600\" height=\"600\" alt=\"Sourdough bread loaf with slash in it cooling on metal rack. \"></p>\n",
+				"content_text": "Bread cooling. \n\n<img src=\"https://cdn.uploads.micro.blog/1352/2023/f2b11b67d8.jpg\" width=\"600\" height=\"600\" alt=\"Sourdough bread loaf with slash in it cooling on metal rack. \">\n",
+				"date_published": "2023-05-27T17:12:10-03:00",
+				"url": "https://micro.bitdepth.org/2023/05/27/bread-cooling.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/05/27/listening-to-soft.html",
+				
+				"content_html": "<p>Listening to <a href=\"https://album.link/ca/i/1227860261\">Soft Sounds From Another Planet</a> by Japanese Breakfast as I get my morning writing done before getting some loaves of sourdough ready to rise.</p>\n",
+				"content_text": "Listening to [Soft Sounds From Another Planet](https://album.link/ca/i/1227860261) by Japanese Breakfast as I get my morning writing done before getting some loaves of sourdough ready to rise.\n",
+				"date_published": "2023-05-27T09:22:50-03:00",
+				"url": "https://micro.bitdepth.org/2023/05/27/listening-to-soft.html"
+			},
+			{
 				"id": "http://bitdepth.micro.blog/2023/05/26/watching-the-brazilian.html",
 				
 				"content_html": "<p>Watching the 2022 Brazilian experimental documentary <a href=\"https://letterboxd.com/film/it-is-night-in-america/crew/\">‎IT IS NIGHT IN AMERICA</a> directed by Ana Vaz on MUBI. 🎥</p>\n",
