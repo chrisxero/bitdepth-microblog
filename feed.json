@@ -7,6 +7,59 @@
 	"items": [
 		
 			{
+				"id": "http://bitdepth.micro.blog/2023/07/22/watching-the-film.html",
+				
+				"content_html": "<p>Watching ‎the 1953 film noir <a href=\"https://letterboxd.com/film/crime-wave/\"><em>Crime Wave</em></a> directed by André de Toth on TCM. 🎥</p>\n",
+				"content_text": "Watching ‎the 1953 film noir [_Crime Wave_](https://letterboxd.com/film/crime-wave/) directed by André de Toth on TCM. 🎥\n",
+				"date_published": "2023-07-22T19:34:11-03:00",
+				"url": "https://micro.bitdepth.org/2023/07/22/watching-the-film.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/07/19/202912.html",
+				
+				"content_html": "<p>Watching ‎Jacques Tati’s 1967 film <a href=\"https://letterboxd.com/film/playtime/\"><em>PlayTime</em></a> on The Criterion Channel. 🎥</p>\n",
+				"content_text": "Watching ‎Jacques Tati’s 1967 film [_PlayTime_](https://letterboxd.com/film/playtime/) on The Criterion Channel. 🎥\n",
+				"date_published": "2023-07-19T20:29:12-03:00",
+				"url": "https://micro.bitdepth.org/2023/07/19/202912.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/07/19/watching-jacques-tatis.html",
+				
+				"content_html": "<p>Watching ‎Jacques Tati’s 1967 film <a href=\"https://letterboxd.com/film/playtime/\"><em>PlayTime</em></a> on The Criterion Channel. 🎥</p>\n",
+				"content_text": "Watching ‎Jacques Tati’s 1967 film [_PlayTime_](https://letterboxd.com/film/playtime/) on The Criterion Channel. 🎥\n",
+				"date_published": "2023-07-19T20:28:58-03:00",
+				"url": "https://micro.bitdepth.org/2023/07/19/watching-jacques-tatis.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/07/19/pineapple-growing-in.html",
+				
+				"content_html": "<p>Pineapple growing in the Public Gardens in Halifax</p>\n\n<p><img src=\"uploads/2023/8ad289dd042e4ce4974a4893e1d7300c.jpg\" width=\"471\" height=\"600\" alt=\"Reddish pineapple growing on a plant surrounded by leaves. \"></p>\n",
+				"content_text": "Pineapple growing in the Public Gardens in Halifax\n\n<img src=\"uploads/2023/8ad289dd042e4ce4974a4893e1d7300c.jpg\" width=\"471\" height=\"600\" alt=\"Reddish pineapple growing on a plant surrounded by leaves. \">\n",
+				"date_published": "2023-07-19T17:29:52-03:00",
+				"url": "https://micro.bitdepth.org/2023/07/19/pineapple-growing-in.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/07/17/watching-steven-soderberghs.html",
+				
+				"content_html": "<p>Watching ‎Steven Soderbergh’s new online project <a href=\"https://letterboxd.com/film/command-z-2023/\"><em>Command Z</em></a> directed by Steven Soderbergh. 🎥</p>\n",
+				"content_text": "Watching ‎Steven Soderbergh’s new online project [_Command Z_](https://letterboxd.com/film/command-z-2023/) directed by Steven Soderbergh. 🎥\n",
+				"date_published": "2023-07-17T18:28:20-03:00",
+				"url": "https://micro.bitdepth.org/2023/07/17/watching-steven-soderberghs.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/07/16/listening-to-sparks.html",
+				
+				"content_html": "<p>Listening to Sparks’ latest album, <a href=\"https://album.link/ca/i/1664083303\">The Girl is Crying in Her Latte</a> as I make some veggie burritos for supper.</p>\n",
+				"content_text": "Listening to Sparks’ latest album, [The Girl is Crying in Her Latte](https://album.link/ca/i/1664083303) as I make some veggie burritos for supper. \n",
+				"date_published": "2023-07-16T17:24:55-03:00",
+				"url": "https://micro.bitdepth.org/2023/07/16/listening-to-sparks.html"
+			},
+			{
 				"id": "http://bitdepth.micro.blog/2023/07/16/starting-to-dive.html",
 				
 				"content_html": "<p>Starting to dive in to the iOS, iPadOS, and WatchOS public betas and curious to see the new stuff.</p>\n",
