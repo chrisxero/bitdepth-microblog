@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://bitdepth.micro.blog/2023/07/27/watching-the-french.html",
+				
+				"content_html": "<p>Watching ‎the 2022 French film <a href=\"https://letterboxd.com/film/everybody-loves-jeanne/\"><em>Everybody Loves Jeanne</em></a> directed by Céline Devaux on MUBI. 🎥</p>\n",
+				"content_text": "Watching ‎the 2022 French film [_Everybody Loves Jeanne_](https://letterboxd.com/film/everybody-loves-jeanne/) directed by Céline Devaux on MUBI. 🎥\n",
+				"date_published": "2023-07-27T19:43:14-03:00",
+				"url": "https://micro.bitdepth.org/2023/07/27/watching-the-french.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/07/22/211557.html",
+				
+				"content_html": "<p>Watching ‎the 1940 film <a href=\"https://letterboxd.com/film/the-philadelphia-story/crew/\"><em>The Philadelphia Story</em></a> directed by George Cukor on TCM with an introduction by Ben Mankiewicz and Greta Gerwig. 🎥</p>\n",
+				"content_text": "Watching ‎the 1940 film [_The Philadelphia Story_](https://letterboxd.com/film/the-philadelphia-story/crew/) directed by George Cukor on TCM with an introduction by Ben Mankiewicz and Greta Gerwig. 🎥\n",
+				"date_published": "2023-07-22T21:15:57-03:00",
+				"url": "https://micro.bitdepth.org/2023/07/22/211557.html",
+				"tags": ["Film"]
+			},
+			{
 				"id": "http://bitdepth.micro.blog/2023/07/22/watching-the-film.html",
 				
 				"content_html": "<p>Watching ‎the 1953 film noir <a href=\"https://letterboxd.com/film/crime-wave/\"><em>Crime Wave</em></a> directed by André de Toth on TCM. 🎥</p>\n",
