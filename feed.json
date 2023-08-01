@@ -7,6 +7,58 @@
 	"items": [
 		
 			{
+				"id": "http://bitdepth.micro.blog/2023/08/01/watching-the-film.html",
+				
+				"content_html": "<p>Watching ‎the 1932 film <a href=\"https://letterboxd.com/film/jewel-robbery/\"><em>Jewel Robbery</em></a> directed by William Dieterle in The Criterion Channel&rsquo;s Kay Francis collection. 🎥</p>\n",
+				"content_text": "Watching ‎the 1932 film [_Jewel Robbery_](https://letterboxd.com/film/jewel-robbery/) directed by William Dieterle in The Criterion Channel's Kay Francis collection. 🎥\n",
+				"date_published": "2023-08-01T20:02:21-03:00",
+				"url": "https://micro.bitdepth.org/2023/08/01/watching-the-film.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/08/01/watching-prano-baileybonds.html",
+				
+				"content_html": "<p>Watching ‎Prano Bailey-Bond&rsquo;s 2021 film <a href=\"https://letterboxd.com/film/censor-2021/\"><em>Censor</em></a> on MUBI. 🎥</p>\n",
+				"content_text": "Watching ‎Prano Bailey-Bond's 2021 film [_Censor_](https://letterboxd.com/film/censor-2021/) on MUBI. 🎥\n",
+				"date_published": "2023-08-01T18:10:57-03:00",
+				"url": "https://micro.bitdepth.org/2023/08/01/watching-prano-baileybonds.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/08/01/best-newtome-films.html",
+				
+				"content_html": "<p>Best new-to-me films for July 2023:</p>\n\n<p><em>Paris Frills,</em></p>\n\n<p><em>Showing Up,</em></p>\n\n<p><em>The Potemkinists,</em></p>\n\n<p><em>Ninjababy,</em></p>\n\n<p><em>El Planeta,</em></p>\n\n<p><em>PlayTime,</em></p>\n\n<p><em>Crime Wave,</em></p>\n\n<p><em>Everybody Loves Jeanne,</em></p>\n\n<p><em>The Beanie Bubble,</em></p>\n\n<p>and,</p>\n\n<p><em>The Pee-wee Herman Show.</em></p>\n",
+				"content_text": "Best new-to-me films for July 2023:\n\n_Paris Frills,_ \n\n_Showing Up,_ \n\n_The Potemkinists,_\n\n_Ninjababy,_ \n\n_El Planeta,_ \n\n_PlayTime,_ \n\n_Crime Wave,_ \n\n_Everybody Loves Jeanne,_ \n\n_The Beanie Bubble,_ \n\nand,\n\n_The Pee-wee Herman Show._\n",
+				"date_published": "2023-08-01T09:34:21-03:00",
+				"url": "https://micro.bitdepth.org/2023/08/01/best-newtome-films.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/07/30/watching-the-mgm.html",
+				
+				"content_html": "<p>Watching ‎the 1935 MGM musical <a href=\"https://letterboxd.com/film/naughty-marietta/\"><em>Naughty Marietta</em></a> directed by W.S. Van Dyke and Robert Z. Leonard on TCM. 🎥</p>\n",
+				"content_text": "Watching ‎the 1935 MGM musical [_Naughty Marietta_](https://letterboxd.com/film/naughty-marietta/) directed by W.S. Van Dyke and Robert Z. Leonard on TCM. 🎥\n",
+				"date_published": "2023-07-30T19:35:31-03:00",
+				"url": "https://micro.bitdepth.org/2023/07/30/watching-the-mgm.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/07/28/watching-the-film.html",
+				
+				"content_html": "<p>Watching ‎the 2023 film <a href=\"https://letterboxd.com/film/the-beanie-bubble/\"><em>The Beanie Bubble</em></a> directed by Kristin Gore and Damian Kulash on Apple TV+. 🎥</p>\n",
+				"content_text": "Watching ‎the 2023 film [_The Beanie Bubble_](https://letterboxd.com/film/the-beanie-bubble/) directed by Kristin Gore and Damian Kulash on Apple TV+. 🎥\n",
+				"date_published": "2023-07-28T18:58:31-03:00",
+				"url": "https://micro.bitdepth.org/2023/07/28/watching-the-film.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/07/28/making-some-pretzels.html",
+				
+				"content_html": "<p>Making some pretzels and listening to First Aid Kit on a sunny summer afternoon.</p>\n",
+				"content_text": "Making some pretzels and listening to First Aid Kit on a sunny summer afternoon.\n",
+				"date_published": "2023-07-28T13:15:44-03:00",
+				"url": "https://micro.bitdepth.org/2023/07/28/making-some-pretzels.html"
+			},
+			{
 				"id": "http://bitdepth.micro.blog/2023/07/27/watching-the-french.html",
 				
 				"content_html": "<p>Watching ‎the 2022 French film <a href=\"https://letterboxd.com/film/everybody-loves-jeanne/\"><em>Everybody Loves Jeanne</em></a> directed by Céline Devaux on MUBI. 🎥</p>\n",
