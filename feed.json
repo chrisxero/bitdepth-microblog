@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://bitdepth.micro.blog/2023/08/12/watching-kay-francis.html",
+				
+				"content_html": "<p>Watching ‎Kay Francis starring in the 1934 film <a href=\"https://letterboxd.com/film/mandalay/\"><em>Mandalay</em></a> directed by Michael Curtiz. 🎥</p>\n",
+				"content_text": "Watching ‎Kay Francis starring in the 1934 film [_Mandalay_](https://letterboxd.com/film/mandalay/) directed by Michael Curtiz. 🎥\n",
+				"date_published": "2023-08-12T19:32:48-03:00",
+				"url": "https://micro.bitdepth.org/2023/08/12/watching-kay-francis.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/08/11/watching-quentin-dupieuxs.html",
+				
+				"content_html": "<p>Watching ‎Quentin Dupieux&rsquo;s 2022 film <a href=\"https://letterboxd.com/film/incredible-but-true/\"><em>Incredible But True</em></a> on MUBI. 🎥</p>\n",
+				"content_text": "Watching ‎Quentin Dupieux's 2022 film [_Incredible But True_](https://letterboxd.com/film/incredible-but-true/) on MUBI. 🎥\n",
+				"date_published": "2023-08-11T19:26:08-03:00",
+				"url": "https://micro.bitdepth.org/2023/08/11/watching-quentin-dupieuxs.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/08/09/watching-hal-ashbys.html",
+				
+				"content_html": "<p>Watching Hal Ashby&rsquo;s 1979 film ‎<a href=\"https://letterboxd.com/film/being-there/\"><em>Being There</em></a> again after many years. 🎥</p>\n",
+				"content_text": "Watching Hal Ashby's 1979 film ‎[_Being There_](https://letterboxd.com/film/being-there/) again after many years. 🎥\n",
+				"date_published": "2023-08-09T19:16:33-03:00",
+				"url": "https://micro.bitdepth.org/2023/08/09/watching-hal-ashbys.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/08/08/remembering-director-william.html",
+				
+				"content_html": "<p>Remembering director William Friedkin by watching his great 1977 film <a href=\"https://letterboxd.com/film/sorcerer/\"><em>Sorcerer</em></a>. 🎥</p>\n",
+				"content_text": "Remembering director William Friedkin by watching his great 1977 film [_Sorcerer_](https://letterboxd.com/film/sorcerer/). 🎥\n",
+				"date_published": "2023-08-08T17:15:39-03:00",
+				"url": "https://micro.bitdepth.org/2023/08/08/remembering-director-william.html",
+				"tags": ["Film"]
+			},
+			{
 				"id": "http://bitdepth.micro.blog/2023/08/07/saw-greta-getwigs.html",
 				
 				"content_html": "<p>Saw Greta Getwig&rsquo;s 2023 film ‎<a href=\"https://letterboxd.com/film/barbie/\"><em>Barbie</em></a> in the theatre today and really enjoyed it. There is a lot going on in it and Gerwig threads the needle perfectly. 🎥</p>\n",
@@ -26,8 +62,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2023/08/03/pan-pizza-with.html",
 				
-				"content_html": "<p>Pan pizza with cheese, mushrooms, and red basil.</p>\n\n<p><img src=\"uploads/2023/f21163b8d5564629bb564efca1aa16d8.jpg\" width=\"600\" height=\"450\" alt=\"Pizza with cheese and red basil leaves on top.\"></p>\n",
-				"content_text": "Pan pizza with cheese, mushrooms, and red basil. \n\n<img src=\"uploads/2023/f21163b8d5564629bb564efca1aa16d8.jpg\" width=\"600\" height=\"450\" alt=\"Pizza with cheese and red basil leaves on top.\">\n",
+				"content_html": "<p>Pan pizza with cheese, mushrooms, and red basil.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/1352/2023/f21163b8d5564629bb564efca1aa16d8.jpg\" width=\"600\" height=\"450\" alt=\"Pizza with cheese and red basil leaves on top.\"></p>\n",
+				"content_text": "Pan pizza with cheese, mushrooms, and red basil. \n\n<img src=\"https://cdn.uploads.micro.blog/1352/2023/f21163b8d5564629bb564efca1aa16d8.jpg\" width=\"600\" height=\"450\" alt=\"Pizza with cheese and red basil leaves on top.\">\n",
 				"date_published": "2023-08-03T16:58:07-03:00",
 				"url": "https://micro.bitdepth.org/2023/08/03/pan-pizza-with.html",
 				"tags": ["Photos"]
