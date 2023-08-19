@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://bitdepth.micro.blog/2023/08/19/watching-the-film.html",
+				
+				"content_html": "<p>Watching ‎the 1962 film <a href=\"https://letterboxd.com/film/all-night-long/\"><a href=\"https://letterboxd.com/film/all-night-long/\">All Night Long</a></a> directed by Basil Dearden on The Criterion Channel. 🎥</p>\n",
+				"content_text": "Watching ‎the 1962 film [[All Night Long](https://letterboxd.com/film/all-night-long/)](https://letterboxd.com/film/all-night-long/) directed by Basil Dearden on The Criterion Channel. 🎥\n",
+				"date_published": "2023-08-19T19:56:56-03:00",
+				"url": "https://micro.bitdepth.org/2023/08/19/watching-the-film.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/08/14/watching-the-documentary.html",
+				
+				"content_html": "<p>Watching ‎the 2018 documentary <a href=\"https://letterboxd.com/film/hal-2018/\"><em>Hal</em></a> directed by Amy Scott. 🎥</p>\n",
+				"content_text": "Watching ‎the 2018 documentary [_Hal_](https://letterboxd.com/film/hal-2018/) directed by Amy Scott. 🎥\n",
+				"date_published": "2023-08-14T20:29:23-03:00",
+				"url": "https://micro.bitdepth.org/2023/08/14/watching-the-documentary.html",
+				"tags": ["Film"]
+			},
+			{
 				"id": "http://bitdepth.micro.blog/2023/08/12/watching-kay-francis.html",
 				
 				"content_html": "<p>Watching ‎Kay Francis starring in the 1934 film <a href=\"https://letterboxd.com/film/mandalay/\"><em>Mandalay</em></a> directed by Michael Curtiz. 🎥</p>\n",
