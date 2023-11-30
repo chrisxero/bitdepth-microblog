@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://bitdepth.micro.blog/2023/11/30/on-the-final.html",
+				
+				"content_html": "<p>On the final day of Noirvember I screened the Romanian New Wave noir <a href=\"https://boxd.it/iefE\"><em>The Whistlers</em></a> and now I’ll wrap things up with the 1948 noir <a href=\"https://boxd.it/L36\"><em>The Hunted</em></a>. 🎥</p>\n",
+				"content_text": "On the final day of Noirvember I screened the Romanian New Wave noir [_The Whistlers_](https://boxd.it/iefE) and now I’ll wrap things up with the 1948 noir [_The Hunted_](https://boxd.it/L36). 🎥\n",
+				"date_published": "2023-11-30T18:42:27-04:00",
+				"url": "https://micro.bitdepth.org/2023/11/30/on-the-final.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2023/11/20/watching-the-film.html",
+				
+				"content_html": "<p>Watching ‎the 1957 film noir <a href=\"https://letterboxd.com/film/the-rivers-edge/\"><em>The River&rsquo;s Edge</em></a> directed by Allan Dwan on The Criterion Channel as my Noirvember film for tonight. 🎥</p>\n",
+				"content_text": "Watching ‎the 1957 film noir [_The River's Edge_](https://letterboxd.com/film/the-rivers-edge/) directed by Allan Dwan on The Criterion Channel as my Noirvember film for tonight. 🎥\n",
+				"date_published": "2023-11-20T20:00:27-04:00",
+				"url": "https://micro.bitdepth.org/2023/11/20/watching-the-film.html",
+				"tags": ["Film"]
+			},
+			{
 				"id": "http://bitdepth.micro.blog/2023/11/17/watching-the-film.html",
 				
 				"content_html": "<p>Watching ‎the 1950 film noir <a href=\"https://letterboxd.com/film/the-secret-fury/\"><em>The Secret Fury</em></a> directed by Mel Ferrer as my Noirvember film for tonight. 🎥</p>\n",
