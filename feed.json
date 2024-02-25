@@ -7,6 +7,49 @@
 	"items": [
 		
 			{
+				"id": "http://bitdepth.micro.blog/2024/02/25/watching-gus-van.html",
+				
+				"content_html": "<p>Watching ‎Gus Van Sant&rsquo;s 1989 film <a href=\"https://letterboxd.com/film/drugstore-cowboy/\"><em>Drugstore Cowboy</em></a> again on The Criterion Channel. 🎥</p>\n",
+				"content_text": "Watching ‎Gus Van Sant's 1989 film [_Drugstore Cowboy_](https://letterboxd.com/film/drugstore-cowboy/) again on The Criterion Channel. 🎥\n",
+				"date_published": "2024-02-25T18:36:00-04:00",
+				"url": "https://micro.bitdepth.org/2024/02/25/watching-gus-van.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2024/02/25/listening-to-europe.html",
+				
+				"content_html": "<p>Listening to <a href=\"https://album.link/i/1321249077\">Europe</a> by Allo Darlin’ as I cook some enchilada beans from a recipe by <a href=\"https://www.mdavisfoods.com\">Michelle Albanes-Davis</a> on a sunny Sunday afternoon.</p>\n",
+				"content_text": "Listening to [Europe](https://album.link/i/1321249077) by Allo Darlin’ as I cook some enchilada beans from a recipe by [Michelle Albanes-Davis](https://www.mdavisfoods.com) on a sunny Sunday afternoon.\n",
+				"date_published": "2024-02-25T17:12:05-04:00",
+				"url": "https://micro.bitdepth.org/2024/02/25/listening-to-europe.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2024/02/24/watching-the-lowbudget.html",
+				
+				"content_html": "<p>Watching ‎the 1944 low-budget noir <a href=\"https://letterboxd.com/film/when-strangers-marry/\"><em>When Strangers Marry</em></a> directed by William Castle and starring a young Kim Hunter and Robert Mitchum. 🎥</p>\n",
+				"content_text": "Watching ‎the 1944 low-budget noir [_When Strangers Marry_](https://letterboxd.com/film/when-strangers-marry/) directed by William Castle and starring a young Kim Hunter and Robert Mitchum. 🎥\n",
+				"date_published": "2024-02-24T20:54:00-04:00",
+				"url": "https://micro.bitdepth.org/2024/02/24/watching-the-lowbudget.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2024/02/24/watching-the-musical.html",
+				
+				"content_html": "<p>Watching ‎the 1955 musical biography <a href=\"https://letterboxd.com/film/love-me-or-leave-me/\"><em>Love Me or Leave Me</em></a> directed by Charles Vidor and starring Doris Day and James Cagney. 🎥</p>\n",
+				"content_text": "Watching ‎the 1955 musical biography [_Love Me or Leave Me_](https://letterboxd.com/film/love-me-or-leave-me/) directed by Charles Vidor and starring Doris Day and James Cagney. 🎥\n",
+				"date_published": "2024-02-24T18:30:05-04:00",
+				"url": "https://micro.bitdepth.org/2024/02/24/watching-the-musical.html",
+				"tags": ["Film"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2024/02/24/trying-stuff-out.html",
+				
+				"content_html": "<p>Trying stuff out with the updated and improved micro.blog and I love how well everything works with it and thinking of ways to do more things.</p>\n",
+				"content_text": "Trying stuff out with the updated and improved micro.blog and I love how well everything works with it and thinking of ways to do more things.\n",
+				"date_published": "2024-02-24T14:57:22-04:00",
+				"url": "https://micro.bitdepth.org/2024/02/24/trying-stuff-out.html"
+			},
+			{
 				"id": "http://bitdepth.micro.blog/2024/02/20/watching-juleen-comptons.html",
 				
 				"content_html": "<p>Watching ‎Juleen Compton&rsquo;s 1965 film <a href=\"https://letterboxd.com/film/stranded-1965/\"><em>Stranded</em></a> on The Criterion Channel. 🎥</p>\n",
@@ -27,8 +70,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2024/02/18/big-ear-on.html",
 				
-				"content_html": "<p>Big ear on a loaf of sourdough bread fresh from the oven.</p>\n\n<p><img src=\"uploads/2024/78d297e107b9448a910b2e173b48e649.jpg\" width=\"600\" height=\"479\" alt=\"Rustic loaf of sourdough bread on a metal rack with a large diagonal opening in the bread. \"></p>\n",
-				"content_text": "Big ear on a loaf of sourdough bread fresh from the oven. \n\n<img src=\"uploads/2024/78d297e107b9448a910b2e173b48e649.jpg\" width=\"600\" height=\"479\" alt=\"Rustic loaf of sourdough bread on a metal rack with a large diagonal opening in the bread. \">\n",
+				"content_html": "<p>Big ear on a loaf of sourdough bread fresh from the oven.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/1352/2024/78d297e107b9448a910b2e173b48e649.jpg\" width=\"600\" height=\"479\" alt=\"Rustic loaf of sourdough bread on a metal rack with a large diagonal opening in the bread. \"></p>\n",
+				"content_text": "Big ear on a loaf of sourdough bread fresh from the oven. \n\n<img src=\"https://cdn.uploads.micro.blog/1352/2024/78d297e107b9448a910b2e173b48e649.jpg\" width=\"600\" height=\"479\" alt=\"Rustic loaf of sourdough bread on a metal rack with a large diagonal opening in the bread. \">\n",
 				"date_published": "2024-02-18T15:56:42-04:00",
 				"url": "https://micro.bitdepth.org/2024/02/18/big-ear-on.html",
 				"tags": ["Photos"]
