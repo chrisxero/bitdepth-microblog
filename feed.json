@@ -7,10 +7,55 @@
 	"items": [
 		
 			{
+				"id": "http://bitdepth.micro.blog/2024/04/13/i-think-that.html",
+				
+				"content_html": "<p>I think that pizza is <strong>magic</strong> day 12 of the April Photoblogging Challenge</p>\n\n<p><img src=\"uploads/2024/f914118eb55247fb9825da16f26ac1bc.jpg\" width=\"600\" height=\"600\" alt=\"Cheese pizza topped with mushrooms and chopped pea shoots on a metal cooling rack. \"></p>\n",
+				"content_text": "I think that pizza is **magic** day 12 of the April Photoblogging Challenge \n\n<img src=\"uploads/2024/f914118eb55247fb9825da16f26ac1bc.jpg\" width=\"600\" height=\"600\" alt=\"Cheese pizza topped with mushrooms and chopped pea shoots on a metal cooling rack. \">\n",
+				"date_published": "2024-04-13T09:01:05-03:00",
+				"url": "https://micro.bitdepth.org/2024/04/13/i-think-that.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2024/04/11/a-beautiful-sky.html",
+				
+				"content_html": "<p>A beautiful <strong>sky</strong> from December. Day 11 of the April Photoblogging Challenge.</p>\n\n<p><img src=\"uploads/2024/acab28b1a5d841b0bc3d8c952a27e4e9.jpg\" width=\"600\" height=\"400\" alt=\"Blue sky with a few clouds and the sun with grass and trees without leaves in the foreground.\"></p>\n",
+				"content_text": "A beautiful **sky** from December. Day 11 of the April Photoblogging Challenge.\n\n<img src=\"uploads/2024/acab28b1a5d841b0bc3d8c952a27e4e9.jpg\" width=\"600\" height=\"400\" alt=\"Blue sky with a few clouds and the sun with grass and trees without leaves in the foreground.\">\n",
+				"date_published": "2024-04-11T17:48:22-03:00",
+				"url": "https://micro.bitdepth.org/2024/04/11/a-beautiful-sky.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2024/04/10/a-picture-a.html",
+				
+				"content_html": "<p>A picture a took on a walk across a <strong>train</strong> bridge a few years ago. Day 10 of the April 2024 Photoblogging Challenge.</p>\n\n<p><img src=\"uploads/2024/0fa66002d37c4a9183334e4a80ffc9d6.jpg\" width=\"600\" height=\"479\" alt=\"Railway tracks with grass beside them and a train bridge and blue sky in the distance.\"></p>\n",
+				"content_text": "A picture a took on a walk across a **train** bridge a few years ago. Day 10 of the April 2024 Photoblogging Challenge.\n\n<img src=\"uploads/2024/0fa66002d37c4a9183334e4a80ffc9d6.jpg\" width=\"600\" height=\"479\" alt=\"Railway tracks with grass beside them and a train bridge and blue sky in the distance.\">\n",
+				"date_published": "2024-04-10T18:19:25-03:00",
+				"url": "https://micro.bitdepth.org/2024/04/10/a-picture-a.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2024/04/09/crispy-tofu-day.html",
+				
+				"content_html": "<p><strong>Crispy</strong> tofu. Day 9 of the April Photoblogging Challenge.</p>\n\n<p><img src=\"uploads/2024/25fbbb0e07a5418aa37ebd8d0039f6df.jpg\" width=\"600\" height=\"400\" alt=\"Triangle of breaded and baked tofu on a square white plate. \"></p>\n",
+				"content_text": "**Crispy** tofu. Day 9 of the April Photoblogging Challenge.\n\n<img src=\"uploads/2024/25fbbb0e07a5418aa37ebd8d0039f6df.jpg\" width=\"600\" height=\"400\" alt=\"Triangle of breaded and baked tofu on a square white plate. \">\n",
+				"date_published": "2024-04-09T17:31:44-03:00",
+				"url": "https://micro.bitdepth.org/2024/04/09/crispy-tofu-day.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2024/04/08/did-not-look.html",
+				
+				"content_html": "<p>Did not look at the sun as a <strong>prevention</strong> of injury during a partial eclipse. Day 8 of the April Photoblogging Challenge.</p>\n\n<p><img src=\"uploads/2024/ee331cec461246c0a21e51d74bcf20ab.jpg\" width=\"600\" height=\"600\" alt=\"Shadow of window frame wooden table with a pot with grass growing in it on the table. \"></p>\n",
+				"content_text": "Did not look at the sun as a **prevention** of injury during a partial eclipse. Day 8 of the April Photoblogging Challenge.\n\n<img src=\"uploads/2024/ee331cec461246c0a21e51d74bcf20ab.jpg\" width=\"600\" height=\"600\" alt=\"Shadow of window frame wooden table with a pot with grass growing in it on the table. \">\n",
+				"date_published": "2024-04-08T16:54:41-03:00",
+				"url": "https://micro.bitdepth.org/2024/04/08/did-not-look.html",
+				"tags": ["Photos"]
+			},
+			{
 				"id": "http://bitdepth.micro.blog/2024/04/07/baking-today-which.html",
 				
-				"content_html": "<p>Baking today which is good for my <strong>well-being</strong> on Day 7 of the April Photoblogging Challenge.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/1352/2024/56de26b3d1e2495d90079f3b521842f4.jpg\" width=\"600\" height=\"600\" alt=\"A loaf of oval sourdough bread with a jagged slash in it resting on a metal cooling rack. \"></p>\n",
-				"content_text": "Baking today which is good for my **well-being** on Day 7 of the April Photoblogging Challenge.\n\n<img src=\"https://cdn.uploads.micro.blog/1352/2024/56de26b3d1e2495d90079f3b521842f4.jpg\" width=\"600\" height=\"600\" alt=\"A loaf of oval sourdough bread with a jagged slash in it resting on a metal cooling rack. \">\n",
+				"content_html": "<p>Baking today which is good for my <strong>well-being</strong> on Day 7 of the April Photoblogging Challenge.</p>\n\n<p><img src=\"uploads/2024/56de26b3d1e2495d90079f3b521842f4.jpg\" width=\"600\" height=\"600\" alt=\"A loaf of oval sourdough bread with a jagged slash in it resting on a metal cooling rack. \"></p>\n",
+				"content_text": "Baking today which is good for my **well-being** on Day 7 of the April Photoblogging Challenge.\n\n<img src=\"uploads/2024/56de26b3d1e2495d90079f3b521842f4.jpg\" width=\"600\" height=\"600\" alt=\"A loaf of oval sourdough bread with a jagged slash in it resting on a metal cooling rack. \">\n",
 				"date_published": "2024-04-07T17:46:47-03:00",
 				"url": "https://micro.bitdepth.org/2024/04/07/baking-today-which.html",
 				"tags": ["Photos"]
@@ -18,8 +63,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2024/04/06/a-sail-from.html",
 				
-				"content_html": "<p>A sail from a decade ago for <strong>windy</strong> on Day 6 of the April Photoblogging Challenge.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/1352/2024/de6038defd.jpg\" width=\"450\" height=\"600\" alt=\"A sail on a sailboat filling the frame with ropes spread across the sail. \"></p>\n",
-				"content_text": "A sail from a decade ago for **windy** on Day 6 of the April Photoblogging Challenge.\n\n<img src=\"https://cdn.uploads.micro.blog/1352/2024/de6038defd.jpg\" width=\"450\" height=\"600\" alt=\"A sail on a sailboat filling the frame with ropes spread across the sail. \">\n",
+				"content_html": "<p>A sail from a decade ago for <strong>windy</strong> on Day 6 of the April Photoblogging Challenge.</p>\n\n<p><img src=\"uploads/2024/de6038defd.jpg\" width=\"450\" height=\"600\" alt=\"A sail on a sailboat filling the frame with ropes spread across the sail. \"></p>\n",
+				"content_text": "A sail from a decade ago for **windy** on Day 6 of the April Photoblogging Challenge.\n\n<img src=\"uploads/2024/de6038defd.jpg\" width=\"450\" height=\"600\" alt=\"A sail on a sailboat filling the frame with ropes spread across the sail. \">\n",
 				"date_published": "2024-04-06T17:24:30-03:00",
 				"url": "https://micro.bitdepth.org/2024/04/06/a-sail-from.html",
 				"tags": ["Photos"]
@@ -27,8 +72,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2024/04/05/feeling-serene-as.html",
 				
-				"content_html": "<p>Feeling <em>serene</em> as I stare into a shot of espresso on a Friday afternoon. Day 5 of the April Photoblogging Challenge.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/1352/2024/be6b23584fc54403a9f4a105d8251019.jpg\" width=\"600\" height=\"599\" alt=\"Looking down at espresso in the bottom of a clear glass on a wooden desk. \"></p>\n",
-				"content_text": "Feeling *serene* as I stare into a shot of espresso on a Friday afternoon. Day 5 of the April Photoblogging Challenge.\n\n<img src=\"https://cdn.uploads.micro.blog/1352/2024/be6b23584fc54403a9f4a105d8251019.jpg\" width=\"600\" height=\"599\" alt=\"Looking down at espresso in the bottom of a clear glass on a wooden desk. \">\n",
+				"content_html": "<p>Feeling <em>serene</em> as I stare into a shot of espresso on a Friday afternoon. Day 5 of the April Photoblogging Challenge.</p>\n\n<p><img src=\"uploads/2024/be6b23584fc54403a9f4a105d8251019.jpg\" width=\"600\" height=\"599\" alt=\"Looking down at espresso in the bottom of a clear glass on a wooden desk. \"></p>\n",
+				"content_text": "Feeling *serene* as I stare into a shot of espresso on a Friday afternoon. Day 5 of the April Photoblogging Challenge.\n\n<img src=\"uploads/2024/be6b23584fc54403a9f4a105d8251019.jpg\" width=\"600\" height=\"599\" alt=\"Looking down at espresso in the bottom of a clear glass on a wooden desk. \">\n",
 				"date_published": "2024-04-05T15:24:55-03:00",
 				"url": "https://micro.bitdepth.org/2024/04/05/feeling-serene-as.html",
 				"tags": ["Photos"]
@@ -36,8 +81,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2024/04/04/day-foliage-of.html",
 				
-				"content_html": "<p>Day 4 Foliage of the April 2024 Photoblogging Challenge</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/1352/2024/70eb168023484f039be2ec4b70dc6dc8.jpg\" width=\"600\" height=\"599\" alt=\"Grass sprouting out of a plastic pot on a wooden table with a window in the background.\"></p>\n",
-				"content_text": "Day 4 Foliage of the April 2024 Photoblogging Challenge\n\n<img src=\"https://cdn.uploads.micro.blog/1352/2024/70eb168023484f039be2ec4b70dc6dc8.jpg\" width=\"600\" height=\"599\" alt=\"Grass sprouting out of a plastic pot on a wooden table with a window in the background.\">\n",
+				"content_html": "<p>Day 4 Foliage of the April 2024 Photoblogging Challenge</p>\n\n<p><img src=\"uploads/2024/70eb168023484f039be2ec4b70dc6dc8.jpg\" width=\"600\" height=\"599\" alt=\"Grass sprouting out of a plastic pot on a wooden table with a window in the background.\"></p>\n",
+				"content_text": "Day 4 Foliage of the April 2024 Photoblogging Challenge\n\n<img src=\"uploads/2024/70eb168023484f039be2ec4b70dc6dc8.jpg\" width=\"600\" height=\"599\" alt=\"Grass sprouting out of a plastic pot on a wooden table with a window in the background.\">\n",
 				"date_published": "2024-04-04T17:48:35-03:00",
 				"url": "https://micro.bitdepth.org/2024/04/04/day-foliage-of.html",
 				"tags": ["Photos"]
