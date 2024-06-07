@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://bitdepth.micro.blog/2024/06/07/i-just-got.html",
+				
+				"content_html": "<p>I just got a Starfleet delta with the <em>Strange New Worlds</em> design.</p>\n\n<p><img src=\"uploads/2024/690ea4a9963642d3856f13463136831c.jpg\" width=\"600\" height=\"599\" alt=\"Star Trek: Strange New Worlds gold delta shaped metal command badge on a wooden table. \"></p>\n",
+				"content_text": "I just got a Starfleet delta with the *Strange New Worlds* design. \n\n<img src=\"uploads/2024/690ea4a9963642d3856f13463136831c.jpg\" width=\"600\" height=\"599\" alt=\"Star Trek: Strange New Worlds gold delta shaped metal command badge on a wooden table. \">\n",
+				"date_published": "2024-06-07T10:59:46-03:00",
+				"url": "https://micro.bitdepth.org/2024/06/07/i-just-got.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2024/06/02/watching-the-film.html",
+				
+				"content_html": "<p>Watching ‎the 2023 film <a href=\"https://letterboxd.com/film/godzilla-minus-one/\"><em>Godzilla Minus One</em></a> directed by Takashi Yamazaki on Netflix. 🎥</p>\n",
+				"content_text": "Watching ‎the 2023 film [_Godzilla Minus One_](https://letterboxd.com/film/godzilla-minus-one/) directed by Takashi Yamazaki on Netflix. 🎥\n",
+				"date_published": "2024-06-02T20:12:22-03:00",
+				"url": "https://micro.bitdepth.org/2024/06/02/watching-the-film.html",
+				"tags": ["Film"]
+			},
+			{
 				"id": "http://bitdepth.micro.blog/2024/05/31/loved-the-series.html",
 				
 				"content_html": "<p>Loved the series finale of <strong>Star Trek: Discovery</strong>. Perfect in tone in how it embraced and changed the universe.</p>\n",
