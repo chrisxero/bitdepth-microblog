@@ -7,6 +7,48 @@
 	"items": [
 		
 			{
+				"id": "http://bitdepth.micro.blog/2024/10/15/bee-on-a.html",
+				
+				"content_html": "<p>Bee on a flower.</p>\n\n<p><img src=\"uploads/2024/f247827febcc414e8b115dffeafc5f15.jpg\" width=\"600\" height=\"600\" alt=\"A bee on a yellow flower. \"></p>\n",
+				"content_text": "Bee on a flower. \n\n<img src=\"uploads/2024/f247827febcc414e8b115dffeafc5f15.jpg\" width=\"600\" height=\"600\" alt=\"A bee on a yellow flower. \">\n",
+				"date_published": "2024-10-15T12:25:14-03:00",
+				"url": "https://micro.bitdepth.org/2024/10/15/bee-on-a.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2024/10/05/pizza-fresh-from.html",
+				
+				"content_html": "<p>Pizza fresh from the oven topped with some local peppers, basil, and pesto that I made.</p>\n\n<p><img src=\"uploads/2024/8262951071434de0bc8dfcbde7123afc.jpg\" width=\"600\" height=\"450\" alt=\"Cheese pizza on a metal rack with basil leaves on top.\"></p>\n",
+				"content_text": "Pizza fresh from the oven topped with some local peppers, basil, and pesto that I made. \n\n<img src=\"uploads/2024/8262951071434de0bc8dfcbde7123afc.jpg\" width=\"600\" height=\"450\" alt=\"Cheese pizza on a metal rack with basil leaves on top.\">\n",
+				"date_published": "2024-10-05T18:14:41-03:00",
+				"url": "https://micro.bitdepth.org/2024/10/05/pizza-fresh-from.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2024/10/05/its-time-for.html",
+				
+				"content_html": "<p>It’s time for the <a href=\"https://www.giornatedelcinemamuto.it/en/\">Giornate del Cinema Muto</a> again and I’m watching some of the great silent films that they are streaming again this year. It always provides a different and wonderful perspective on world cinema and history. 🎥🤫</p>\n",
+				"content_text": "It’s time for the [Giornate del Cinema Muto](https://www.giornatedelcinemamuto.it/en/) again and I’m watching some of the great silent films that they are streaming again this year. It always provides a different and wonderful perspective on world cinema and history. 🎥🤫\n",
+				"date_published": "2024-10-05T18:08:33-03:00",
+				"url": "https://micro.bitdepth.org/2024/10/05/its-time-for.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2024/10/05/currently-reading-cue.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780525509004\">Cue the Sun!</a> by Emily Nussbaum 📚</p>\n",
+				"content_text": "Currently reading: [Cue the Sun!](https://micro.blog/books/9780525509004) by Emily Nussbaum 📚\n",
+				"date_published": "2024-10-05T11:32:16-03:00",
+				"url": "https://micro.bitdepth.org/2024/10/05/currently-reading-cue.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2024/10/05/favourite-newtome-films.html",
+				
+				"content_html": "<p>Favourite new-to-me films for September 2024:</p>\n\n<p><em>Native Tongue</em>,\n<em>Never Look Away</em>,\n<em>Presence</em> ,\n<em>Black Box Diaries</em>,\n<em>When the Light Breaks</em>,\n<em>Bird</em>,\n<em>Julie Keeps Quiet</em>,\n<em>Dahomey</em>,\n<em>Bob Trevino Likes It</em>,\nand\n<em>How to Smell a Rose: A Visit with Ricky Leacock at His Farm in Normandy</em>.</p>\n\n<p>🎥</p>\n",
+				"content_text": "Favourite new-to-me films for September 2024:\n\n_Native Tongue_, \n_Never Look Away_, \n_Presence_ , \n_Black Box Diaries_, \n_When the Light Breaks_, \n_Bird_, \n_Julie Keeps Quiet_, \n_Dahomey_, \n_Bob Trevino Likes It_, \nand\n_How to Smell a Rose: A Visit with Ricky Leacock at His Farm in Normandy_.\n\n🎥\n",
+				"date_published": "2024-10-05T11:31:52-03:00",
+				"url": "https://micro.bitdepth.org/2024/10/05/favourite-newtome-films.html"
+			},
+			{
 				"id": "http://bitdepth.micro.blog/2024/10/03/watching-rob-reiners.html",
 				
 				"content_html": "<p>Watching Rob Reiner’s 1984 film <a href=\"https://boxd.it/1UOs\"><em>This is Spinal Tap</em></a> again. It amazes me how many of the details of the film I remember. 🎥</p>\n",
