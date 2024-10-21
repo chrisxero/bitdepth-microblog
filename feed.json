@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://bitdepth.micro.blog/2024/10/21/sunset-in-canning.html",
+				
+				"content_html": "<p>Sunset in Canning, Nova Scotia.</p>\n\n<p><img src=\"uploads/2024/033ba1a107894f7c86103a65c33339b2.jpg\" width=\"600\" height=\"400\" alt=\"Winding stream with orange and blue sky with clouds reflected in it at sunset. \"></p>\n",
+				"content_text": "Sunset in Canning, Nova Scotia. \n\n<img src=\"uploads/2024/033ba1a107894f7c86103a65c33339b2.jpg\" width=\"600\" height=\"400\" alt=\"Winding stream with orange and blue sky with clouds reflected in it at sunset. \">\n",
+				"date_published": "2024-10-21T09:46:56-03:00",
+				"url": "https://micro.bitdepth.org/2024/10/21/sunset-in-canning.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2024/10/17/watching-jean-grmillons.html",
+				
+				"content_html": "<p>Watching Jean Grémillon&rsquo;s 1937 film ‎<a href=\"https://letterboxd.com/film/lady-killer-1937/\"><em>Lady Killer</em></a> on The Criterion Channel. 🎥</p>\n",
+				"content_text": "Watching Jean Grémillon's 1937 film ‎[_Lady Killer_](https://letterboxd.com/film/lady-killer-1937/) on The Criterion Channel. 🎥\n",
+				"date_published": "2024-10-17T19:40:15-03:00",
+				"url": "https://micro.bitdepth.org/2024/10/17/watching-jean-grmillons.html",
+				"tags": ["Film"]
+			},
+			{
 				"id": "http://bitdepth.micro.blog/2024/10/15/bee-on-a.html",
 				
 				"content_html": "<p>Bee on a flower.</p>\n\n<p><img src=\"uploads/2024/f247827febcc414e8b115dffeafc5f15.jpg\" width=\"600\" height=\"600\" alt=\"A bee on a yellow flower. \"></p>\n",
