@@ -1,11 +1,123 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Chris Campbell ",
-	"icon": "https://micro.blog/bitdepth/avatar.jpg",
+	"icon": "https://cdn.micro.blog/bitdepth/avatar.jpg",
 	"home_page_url": "https://micro.bitdepth.org/",
 	"feed_url": "https://micro.bitdepth.org/feed.json",
 	"items": [
 		
+			{
+				"id": "http://bitdepth.micro.blog/2025/09/28/had-a-wonderful-time-at.html",
+				
+				"content_html": "<p>Had a wonderful time at the <a href=\"https://deeprootsmusic.ca/festival-2025/\">Deep Roots Music Festiva</a>l this weekend in Wolfville seeing a great range of performers that made me love the creativity and welcoming atmosphere of my town even more. 🎶</p>\n",
+				"content_text": "Had a wonderful time at the [Deep Roots Music Festiva](https://deeprootsmusic.ca/festival-2025/)l this weekend in Wolfville seeing a great range of performers that made me love the creativity and welcoming atmosphere of my town even more. 🎶\n",
+				"date_published": "2025-09-28T21:31:21-03:00",
+				"url": "https://micro.bitdepth.org/2025/09/28/had-a-wonderful-time-at.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2025/09/17/thinking-that-the-love-that.html",
+				
+				"content_html": "<p>Thinking that <em>The Love That Remains</em> is my favourite film of the 2025 Atlantic International Film Festival this year. 🎥</p>\n",
+				"content_text": "Thinking that _The Love That Remains_ is my favourite film of the 2025 Atlantic International Film Festival this year. 🎥\n",
+				"date_published": "2025-09-17T20:38:55-03:00",
+				"url": "https://micro.bitdepth.org/2025/09/17/thinking-that-the-love-that.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2025/09/17/getting-ready-to-see-the.html",
+				
+				"content_html": "<p>Getting ready to see the Icelandic film <a href=\"https://boxd.it/LWuG\"><em>The Love That Remains</em></a> at the Atlantic International Film Festival. #aiff2025</p>\n",
+				"content_text": "Getting ready to see the Icelandic film [_The Love That Remains_](https://boxd.it/LWuG) at the Atlantic International Film Festival. #aiff2025\n",
+				"date_published": "2025-09-17T17:37:21-03:00",
+				"url": "https://micro.bitdepth.org/2025/09/17/getting-ready-to-see-the.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2025/09/13/waiting-for-richard-linklaters-cinematic.html",
+				
+				"content_html": "<p>Waiting for Richard Linklater’s 2025 cinematic love letter <a href=\"https://boxd.it/LLLQ\"><em>Nouvelle Vague</em></a> at the Atlantic International Film Festival. #aiff2025</p>\n",
+				"content_text": "Waiting for Richard Linklater’s 2025 cinematic love letter [_Nouvelle Vague_](https://boxd.it/LLLQ) at the Atlantic International Film Festival. #aiff2025 \n",
+				"date_published": "2025-09-13T16:26:45-03:00",
+				"url": "https://micro.bitdepth.org/2025/09/13/waiting-for-richard-linklaters-cinematic.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2025/09/13/really-loved-chandler-levacks-mile.html",
+				
+				"content_html": "<p>Really loved Chandler Levack’s <em>Mile End Kicks</em> at the Atlantic International Film Festival.</p>\n",
+				"content_text": "Really loved Chandler Levack’s _Mile End Kicks_ at the Atlantic International Film Festival.\n",
+				"date_published": "2025-09-13T15:52:12-03:00",
+				"url": "https://micro.bitdepth.org/2025/09/13/really-loved-chandler-levacks-mile.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2025/09/12/seated-for-the-canadian-premiere.html",
+				
+				"content_html": "<p>Seated for the Canadian Premiere of the 2025 film <a href=\"https://boxd.it/Ul9k\"><em>Pinch</em></a> directed by Uttera Singh at the Atlantic International Film Festival. #aiff2025</p>\n",
+				"content_text": "Seated for the Canadian Premiere of the 2025 film [_Pinch_](https://boxd.it/Ul9k) directed by Uttera Singh at the Atlantic International Film Festival. #aiff2025\n",
+				"date_published": "2025-09-12T19:20:03-03:00",
+				"url": "https://micro.bitdepth.org/2025/09/12/seated-for-the-canadian-premiere.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2025/09/12/about-to-watch-the-canadian.html",
+				
+				"content_html": "<p>About to watch the Canadian premiere of Kelly Reichardt’s <a href=\"https://boxd.it/Q7ge\"><em>The Mastermind</em></a> at the Atlantic International Film Festival. #aiff</p>\n",
+				"content_text": "About to watch the Canadian premiere of Kelly Reichardt’s [_The Mastermind_](https://boxd.it/Q7ge) at the Atlantic International Film Festival. #aiff\n",
+				"date_published": "2025-09-12T15:02:58-03:00",
+				"url": "https://micro.bitdepth.org/2025/09/12/about-to-watch-the-canadian.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2025/09/11/seated-for-my-first-film.html",
+				
+				"content_html": "<p>Seated for my first film of the 2025 Atlantic International Film Festival which is Rebecca Zlotowski’s <a href=\"https://boxd.it/NeQs\"><em>A Private Life</em></a>. #aiff2025</p>\n",
+				"content_text": "Seated for my first film of the 2025 Atlantic International Film Festival which is Rebecca Zlotowski’s [_A Private Life_](https://boxd.it/NeQs). #aiff2025\n",
+				"date_published": "2025-09-11T18:07:17-03:00",
+				"url": "https://micro.bitdepth.org/2025/09/11/seated-for-my-first-film.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2025/09/06/watching-alan-j-pakulas-film.html",
+				
+				"content_html": "<p>Watching Alan J. Pakula’s 1971 film <a href=\"https://boxd.it/2ako\"><em>Klute</em></a> for the first time. It’s in the ‘70s Thrillers collection on The Criterion Channel this month. 🎥</p>\n",
+				"content_text": "Watching Alan J. Pakula’s 1971 film [_Klute_](https://boxd.it/2ako) for the first time. It’s in the ‘70s Thrillers collection on The Criterion Channel this month. 🎥\n",
+				"date_published": "2025-09-06T19:38:10-03:00",
+				"url": "https://micro.bitdepth.org/2025/09/06/watching-alan-j-pakulas-film.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2025/09/05/watching-spike-lees-newest-joint.html",
+				
+				"content_html": "<p>Watching Spike Lee’s newest joint – <a href=\"https://boxd.it/LcIC\"><em>Highest 2 Lowest</em></a> on Apple TV+. 🎥</p>\n",
+				"content_text": "Watching Spike Lee’s newest joint – [_Highest 2 Lowest_](https://boxd.it/LcIC) on Apple TV+. 🎥\n",
+				"date_published": "2025-09-05T18:52:06-03:00",
+				"url": "https://micro.bitdepth.org/2025/09/05/watching-spike-lees-newest-joint.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2025/09/05/enjoying-a-delicious-double-orange.html",
+				
+				"content_html": "<p>Enjoying a delicious Double Orange Ale from Unfiltered Brewing at the end of a good start to the school year with new and returning learners starting to make films.</p>\n",
+				"content_text": "Enjoying a delicious Double Orange Ale from Unfiltered Brewing at the end of a good start to the school year with new and returning learners starting to make films. \n",
+				"date_published": "2025-09-05T17:21:52-03:00",
+				"url": "https://micro.bitdepth.org/2025/09/05/enjoying-a-delicious-double-orange.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2025/09/03/watching-the-documentary-union-directed.html",
+				
+				"content_html": "<p>Watching the 2024 documentary <a href=\"https://boxd.it/K5bO\"><em>Union</em></a> directed by Stephen T. Maing and Brett Story on the Criterion Channel. 🎥</p>\n",
+				"content_text": "Watching the 2024 documentary [_Union_](https://boxd.it/K5bO) directed by Stephen T. Maing and Brett Story on the Criterion Channel. 🎥\n",
+				"date_published": "2025-09-03T18:51:42-03:00",
+				"url": "https://micro.bitdepth.org/2025/09/03/watching-the-documentary-union-directed.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2025/09/01/watching-david-lynchs-beautiful-film.html",
+				
+				"content_html": "<p>Watching David Lynch’s beautiful 1999 film <a href=\"https://boxd.it/2ass\"><em>The Straight Story</em></a> on MUBI. 🎥</p>\n",
+				"content_text": "Watching David Lynch’s beautiful 1999 film [_The Straight Story_](https://boxd.it/2ass) on MUBI. 🎥\n",
+				"date_published": "2025-09-01T19:23:33-03:00",
+				"url": "https://micro.bitdepth.org/2025/09/01/watching-david-lynchs-beautiful-film.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2025/08/31/watching-athina-rachel-tsangaris-comic.html",
+				
+				"content_html": "<p>Watching Athina Rachel Tsangari’s 2015 comic exploration of fragile masculinity, <a href=\"https://boxd.it/a7ty\"><em>Chevalier</em></a>, again. 🎥</p>\n",
+				"content_text": "Watching Athina Rachel Tsangari’s 2015 comic exploration of fragile masculinity, [_Chevalier_](https://boxd.it/a7ty), again. 🎥\n",
+				"date_published": "2025-08-31T19:27:34-03:00",
+				"url": "https://micro.bitdepth.org/2025/08/31/watching-athina-rachel-tsangaris-comic.html"
+			},
 			{
 				"id": "http://bitdepth.micro.blog/2025/08/30/watching-george-armitages-film-grosse.html",
 				
@@ -1050,8 +1162,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2024/10/05/currently-reading-cue.html",
 				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780525509004\">Cue the Sun!</a> by Emily Nussbaum 📚</p>\n",
-				"content_text": "Currently reading: [Cue the Sun!](https://micro.blog/books/9780525509004) by Emily Nussbaum 📚\n",
+				"content_html": "<p><img src=\"https://cdn.micro.blog/books/9780525509004/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\"></p>\n\n<p>Currently reading: <a href=\"https://micro.blog/books/9780525509004\">Cue the Sun!</a> by Emily Nussbaum 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780525509004/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Cue the Sun!](https://micro.blog/books/9780525509004) by Emily Nussbaum 📚\n",
 				"date_published": "2024-10-05T11:32:16-03:00",
 				"url": "https://micro.bitdepth.org/2024/10/05/currently-reading-cue.html"
 			},
@@ -1459,8 +1571,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2024/05/25/currently-reading-the.html",
 				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780593653425\">The Creative Act</a> by Rick Rubin 📚</p>\n",
-				"content_text": "Currently reading: [The Creative Act](https://micro.blog/books/9780593653425) by Rick Rubin 📚\n",
+				"content_html": "<p><img src=\"https://cdn.micro.blog/books/9780593653425/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\"></p>\n\n<p>Currently reading: <a href=\"https://micro.blog/books/9780593653425\">The Creative Act</a> by Rick Rubin 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780593653425/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [The Creative Act](https://micro.blog/books/9780593653425) by Rick Rubin 📚\n",
 				"date_published": "2024-05-25T15:29:44-03:00",
 				"url": "https://micro.bitdepth.org/2024/05/25/currently-reading-the.html"
 			},
@@ -2467,8 +2579,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2023/12/29/currently-reading-the.html",
 				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780394480763\">The Power Broker</a> by Robert A. Caro 📚</p>\n",
-				"content_text": "Currently reading: [The Power Broker](https://micro.blog/books/9780394480763) by Robert A. Caro 📚\n",
+				"content_html": "<p><img src=\"https://cdn.micro.blog/books/9780394480763/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\"></p>\n\n<p>Currently reading: <a href=\"https://micro.blog/books/9780394480763\">The Power Broker</a> by Robert A. Caro 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780394480763/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [The Power Broker](https://micro.blog/books/9780394480763) by Robert A. Caro 📚\n",
 				"date_published": "2023-12-29T09:54:57-03:00",
 				"url": "https://micro.bitdepth.org/2023/12/29/currently-reading-the.html"
 			},
@@ -2589,8 +2701,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2023/11/03/currently-reading-hungry.html",
 				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781443459327\">Hungry as Hell</a> by Bad Manners 📚</p>\n",
-				"content_text": "Currently reading: [Hungry as Hell](https://micro.blog/books/9781443459327) by Bad Manners 📚\n",
+				"content_html": "<p><img src=\"https://cdn.micro.blog/books/9781443459327/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\"></p>\n\n<p>Currently reading: <a href=\"https://micro.blog/books/9781443459327\">Hungry as Hell</a> by Bad Manners 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781443459327/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Hungry as Hell](https://micro.blog/books/9781443459327) by Bad Manners 📚\n",
 				"date_published": "2023-11-03T17:32:10-03:00",
 				"url": "https://micro.bitdepth.org/2023/11/03/currently-reading-hungry.html"
 			},
@@ -3688,8 +3800,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2023/06/26/currently-reading-an.html",
 				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781782276647\">An Editor’s Burial</a> by Wes Anderson 📚</p>\n",
-				"content_text": "Currently reading: [An Editor’s Burial](https://micro.blog/books/9781782276647) by Wes Anderson 📚\n",
+				"content_html": "<p><img src=\"https://cdn.micro.blog/books/9781782276647/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\"></p>\n\n<p>Currently reading: <a href=\"https://micro.blog/books/9781782276647\">An Editor’s Burial</a> by Wes Anderson 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781782276647/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [An Editor’s Burial](https://micro.blog/books/9781782276647) by Wes Anderson 📚\n",
 				"date_published": "2023-06-26T08:19:29-03:00",
 				"url": "https://micro.bitdepth.org/2023/06/26/currently-reading-an.html"
 			},
@@ -4723,8 +4835,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2023/03/19/currently-reading-nadiya.html",
 				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780241396629\">Nadiya Bakes</a> by Nadiya Hussain and finding all sorts of delicious recipes. 📚</p>\n",
-				"content_text": "Currently reading: [Nadiya Bakes](https://micro.blog/books/9780241396629) by Nadiya Hussain and finding all sorts of delicious recipes. 📚\n",
+				"content_html": "<p><img src=\"https://cdn.micro.blog/books/9780241396629/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\"></p>\n\n<p>Currently reading: <a href=\"https://micro.blog/books/9780241396629\">Nadiya Bakes</a> by Nadiya Hussain and finding all sorts of delicious recipes. 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780241396629/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Nadiya Bakes](https://micro.blog/books/9780241396629) by Nadiya Hussain and finding all sorts of delicious recipes. 📚\n",
 				"date_published": "2023-03-19T14:22:30-03:00",
 				"url": "https://micro.bitdepth.org/2023/03/19/currently-reading-nadiya.html"
 			},
@@ -6064,8 +6176,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2022/11/06/currently-reading-dark.html",
 				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780762498963\">Dark City</a> by Eddie Muller 📚</p>\n",
-				"content_text": "Currently reading: [Dark City](https://micro.blog/books/9780762498963) by Eddie Muller 📚\n",
+				"content_html": "<p><img src=\"https://cdn.micro.blog/books/9780762498963/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\"></p>\n\n<p>Currently reading: <a href=\"https://micro.blog/books/9780762498963\">Dark City</a> by Eddie Muller 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780762498963/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Dark City](https://micro.blog/books/9780762498963) by Eddie Muller 📚\n",
 				"date_published": "2022-11-06T10:52:34-03:00",
 				"url": "https://micro.bitdepth.org/2022/11/06/currently-reading-dark.html"
 			},
@@ -6837,8 +6949,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2022/06/25/trying-something-different.html",
 				
-				"content_html": "<p>Trying something different and making some yogurt based on  the recipe in: <a href=\"https://micro.blog/books/9781459505803\">Adventures in Bubbles and Brine</a> by Philip Moscovitch 📚</p>\n",
-				"content_text": "Trying something different and making some yogurt based on  the recipe in: [Adventures in Bubbles and Brine](https://micro.blog/books/9781459505803) by Philip Moscovitch 📚\n",
+				"content_html": "<p><img src=\"https://cdn.micro.blog/books/9781459505803/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\"></p>\n\n<p>Trying something different and making some yogurt based on  the recipe in: <a href=\"https://micro.blog/books/9781459505803\">Adventures in Bubbles and Brine</a> by Philip Moscovitch 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781459505803/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nTrying something different and making some yogurt based on  the recipe in: [Adventures in Bubbles and Brine](https://micro.blog/books/9781459505803) by Philip Moscovitch 📚\n",
 				"date_published": "2022-06-25T09:44:49-03:00",
 				"url": "https://micro.bitdepth.org/2022/06/25/trying-something-different.html"
 			},
@@ -8091,8 +8203,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2022/02/10/looking-forward-to.html",
 				
-				"content_html": "<p>Looking forward to reading <a href=\"https://micro.blog/books/9780399180521\">Comedy Comedy Comedy Drama</a> by Bob Odenkirk which I’ve pre-ordered. 📚</p>\n",
-				"content_text": "Looking forward to reading [Comedy Comedy Comedy Drama](https://micro.blog/books/9780399180521) by Bob Odenkirk which I’ve pre-ordered. 📚\n",
+				"content_html": "<p><img src=\"https://cdn.micro.blog/books/9780399180521/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\"></p>\n\n<p>Looking forward to reading <a href=\"https://micro.blog/books/9780399180521\">Comedy Comedy Comedy Drama</a> by Bob Odenkirk which I’ve pre-ordered. 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780399180521/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nLooking forward to reading [Comedy Comedy Comedy Drama](https://micro.blog/books/9780399180521) by Bob Odenkirk which I’ve pre-ordered. 📚\n",
 				"date_published": "2022-02-10T18:04:47-03:00",
 				"url": "https://micro.bitdepth.org/2022/02/10/looking-forward-to.html"
 			},
@@ -8325,8 +8437,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2022/01/09/currently-reading-dark.html",
 				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780762498963\">Dark City</a> by Eddie Muller 📚</p>\n",
-				"content_text": "Currently reading: [Dark City](https://micro.blog/books/9780762498963) by Eddie Muller 📚\n",
+				"content_html": "<p><img src=\"https://cdn.micro.blog/books/9780762498963/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\"></p>\n\n<p>Currently reading: <a href=\"https://micro.blog/books/9780762498963\">Dark City</a> by Eddie Muller 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780762498963/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Dark City](https://micro.blog/books/9780762498963) by Eddie Muller 📚\n",
 				"date_published": "2022-01-09T17:07:51-03:00",
 				"url": "https://micro.bitdepth.org/2022/01/09/currently-reading-dark.html"
 			},
@@ -8923,8 +9035,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2021/11/01/205043.html",
 				
-				"content_html": "<p>Want to read: <a href=\"https://micro.blog/books/9780762498963\">Dark City</a> by Eddie Mueller 📚</p>\n",
-				"content_text": "Want to read: [Dark City](https://micro.blog/books/9780762498963) by Eddie Mueller 📚\n",
+				"content_html": "<p><img src=\"https://cdn.micro.blog/books/9780762498963/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\"></p>\n\n<p>Want to read: <a href=\"https://micro.blog/books/9780762498963\">Dark City</a> by Eddie Mueller 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780762498963/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nWant to read: [Dark City](https://micro.blog/books/9780762498963) by Eddie Mueller 📚\n",
 				"date_published": "2021-11-01T20:50:43-03:00",
 				"url": "https://micro.bitdepth.org/2021/11/01/205043.html"
 			},
@@ -9529,8 +9641,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2021/07/02/currently-reading-the.html",
 				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780525555216\">The Anthropocene Reviewed</a> by John Green 📚</p>\n",
-				"content_text": "Currently reading: [The Anthropocene Reviewed](https://micro.blog/books/9780525555216) by John Green 📚\n",
+				"content_html": "<p><img src=\"https://cdn.micro.blog/books/9780525555216/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\"></p>\n\n<p>Currently reading: <a href=\"https://micro.blog/books/9780525555216\">The Anthropocene Reviewed</a> by John Green 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780525555216/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [The Anthropocene Reviewed](https://micro.blog/books/9780525555216) by John Green 📚\n",
 				"date_published": "2021-07-02T22:25:23-03:00",
 				"url": "https://micro.bitdepth.org/2021/07/02/currently-reading-the.html"
 			},
@@ -9554,8 +9666,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2021/06/28/currently-reading-antkind.html",
 				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780399589683\">Antkind</a> by Charlie Kaufman  📚</p>\n",
-				"content_text": "Currently reading: [Antkind](https://micro.blog/books/9780399589683) by Charlie Kaufman  📚\n",
+				"content_html": "<p><img src=\"https://cdn.micro.blog/books/9780399589683/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\"></p>\n\n<p>Currently reading: <a href=\"https://micro.blog/books/9780399589683\">Antkind</a> by Charlie Kaufman  📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780399589683/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Antkind](https://micro.blog/books/9780399589683) by Charlie Kaufman  📚\n",
 				"date_published": "2021-06-28T21:06:44-03:00",
 				"url": "https://micro.bitdepth.org/2021/06/28/currently-reading-antkind.html",
 				"tags": ["Reading"]
@@ -9563,8 +9675,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2021/06/28/finished-reading-agency.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780451490988\">Agency</a> by William Gibson 📚</p>\n",
-				"content_text": "Finished reading: [Agency](https://micro.blog/books/9780451490988) by William Gibson 📚\n",
+				"content_html": "<p><img src=\"https://cdn.micro.blog/books/9780451490988/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\"></p>\n\n<p>Finished reading: <a href=\"https://micro.blog/books/9780451490988\">Agency</a> by William Gibson 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780451490988/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Agency](https://micro.blog/books/9780451490988) by William Gibson 📚\n",
 				"date_published": "2021-06-28T21:02:30-03:00",
 				"url": "https://micro.bitdepth.org/2021/06/28/finished-reading-agency.html"
 			},
@@ -9597,8 +9709,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2021/06/13/currently-reading-the.html",
 				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780525555216\">The Anthropocene Reviewed</a> by John Green 📚</p>\n",
-				"content_text": "Currently reading: [The Anthropocene Reviewed](https://micro.blog/books/9780525555216) by John Green 📚\n",
+				"content_html": "<p><img src=\"https://cdn.micro.blog/books/9780525555216/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\"></p>\n\n<p>Currently reading: <a href=\"https://micro.blog/books/9780525555216\">The Anthropocene Reviewed</a> by John Green 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780525555216/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [The Anthropocene Reviewed](https://micro.blog/books/9780525555216) by John Green 📚\n",
 				"date_published": "2021-06-13T21:16:13-03:00",
 				"url": "https://micro.bitdepth.org/2021/06/13/currently-reading-the.html"
 			},
@@ -10528,8 +10640,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2021/02/21/finished-reading-the.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780358126607\">The 99% Invisible City: A Field Guide to the Hidden World of Everyday Design</a> by Roman Mars and Kurt Kohlstedt 📚</p>\n",
-				"content_text": "Finished reading: [The 99% Invisible City: A Field Guide to the Hidden World of Everyday Design](https://micro.blog/books/9780358126607) by Roman Mars and Kurt Kohlstedt 📚\n",
+				"content_html": "<p><img src=\"https://cdn.micro.blog/books/9780358126607/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\"></p>\n\n<p>Finished reading: <a href=\"https://micro.blog/books/9780358126607\">The 99% Invisible City: A Field Guide to the Hidden World of Everyday Design</a> by Roman Mars and Kurt Kohlstedt 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780358126607/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The 99% Invisible City: A Field Guide to the Hidden World of Everyday Design](https://micro.blog/books/9780358126607) by Roman Mars and Kurt Kohlstedt 📚\n",
 				"date_published": "2021-02-21T11:35:05-03:00",
 				"url": "https://micro.bitdepth.org/2021/02/21/finished-reading-the.html",
 				"tags": ["Reading","books"]
@@ -10816,8 +10928,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2021/01/30/currently-reading-vegetable.html",
 				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780399581052\">Vegetable Kingdom</a> by Bryant Terry 📚</p>\n",
-				"content_text": "Currently reading: [Vegetable Kingdom](https://micro.blog/books/9780399581052) by Bryant Terry 📚\n",
+				"content_html": "<p><img src=\"https://cdn.micro.blog/books/9780399581052/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\"></p>\n\n<p>Currently reading: <a href=\"https://micro.blog/books/9780399581052\">Vegetable Kingdom</a> by Bryant Terry 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780399581052/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Vegetable Kingdom](https://micro.blog/books/9780399581052) by Bryant Terry 📚\n",
 				"date_published": "2021-01-30T14:05:16-03:00",
 				"url": "https://micro.bitdepth.org/2021/01/30/currently-reading-vegetable.html",
 				"tags": ["Reading","cooking"]
@@ -12112,8 +12224,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2020/10/10/currently-reading-the.html",
 				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780358126607\">The 99% Invisible City: A Field Guide to the Hidden World of Everyday Design</a> by Roman Mars and Kurt Kohlstedt 📚</p>\n",
-				"content_text": "Currently reading: [The 99% Invisible City: A Field Guide to the Hidden World of Everyday Design](https://micro.blog/books/9780358126607) by Roman Mars and Kurt Kohlstedt 📚\n",
+				"content_html": "<p><img src=\"https://cdn.micro.blog/books/9780358126607/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\"></p>\n\n<p>Currently reading: <a href=\"https://micro.blog/books/9780358126607\">The 99% Invisible City: A Field Guide to the Hidden World of Everyday Design</a> by Roman Mars and Kurt Kohlstedt 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780358126607/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [The 99% Invisible City: A Field Guide to the Hidden World of Everyday Design](https://micro.blog/books/9780358126607) by Roman Mars and Kurt Kohlstedt 📚\n",
 				"date_published": "2020-10-10T11:54:56-03:00",
 				"url": "https://micro.bitdepth.org/2020/10/10/currently-reading-the.html",
 				"tags": ["Reading"]
