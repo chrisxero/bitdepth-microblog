@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://bitdepth.micro.blog/2026/04/15/watching-chlo-robichauds-qubcois-film.html",
+				
+				"content_html": "<p>Watching Chloé Robichaud’s 2023 Québécois film: <a href=\"https://www.themoviedb.org/movie/848987\">Days of Happiness</a> again for Canadian Film Day. 🇨🇦 🍿</p>\n",
+				"content_text": "Watching Chloé Robichaud’s 2023 Québécois film: [Days of Happiness](https://www.themoviedb.org/movie/848987) again for Canadian Film Day. 🇨🇦 🍿\n",
+				"date_published": "2026-04-15T18:02:21-04:00",
+				"url": "https://micro.bitdepth.org/2026/04/15/watching-chlo-robichauds-qubcois-film.html"
+			},
+			{
 				"id": "http://bitdepth.micro.blog/2026/04/13/watching-the-gorgeously-restored-version.html",
 				
 				"content_html": "<p>Watching the gorgeously restored version of Claire Denis’ 1990 film: <a href=\"https://www.themoviedb.org/movie/97041\">No Fear, No Die</a> on The Criterion Channel.🍿</p>\n",
@@ -169,8 +177,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2026/03/07/roxy-music-the-cat-resting.html",
 				
-				"content_html": "<p>Roxy Music the cat resting on the bed.</p>\n\n<p><img src=\"uploads/2026/36afc1d99fec44cf86755a9e7050ec92.jpg\" width=\"600\" height=\"399\" alt=\"White Persian cat laying on a bed on top of a brown sheet with gold embroidery.\"></p>\n",
-				"content_text": "Roxy Music the cat resting on the bed.\n\n<img src=\"uploads/2026/36afc1d99fec44cf86755a9e7050ec92.jpg\" width=\"600\" height=\"399\" alt=\"White Persian cat laying on a bed on top of a brown sheet with gold embroidery.\">\n",
+				"content_html": "<p>Roxy Music the cat resting on the bed.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/1352/2026/36afc1d99fec44cf86755a9e7050ec92.jpg\" width=\"600\" height=\"399\" alt=\"White Persian cat laying on a bed on top of a brown sheet with gold embroidery.\"></p>\n",
+				"content_text": "Roxy Music the cat resting on the bed.\n\n<img src=\"https://cdn.uploads.micro.blog/1352/2026/36afc1d99fec44cf86755a9e7050ec92.jpg\" width=\"600\" height=\"399\" alt=\"White Persian cat laying on a bed on top of a brown sheet with gold embroidery.\">\n",
 				"date_published": "2026-03-07T11:15:49-04:00",
 				"url": "https://micro.bitdepth.org/2026/03/07/roxy-music-the-cat-resting.html",
 				"tags": ["Photos"]
