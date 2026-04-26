@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://bitdepth.micro.blog/2026/04/26/squirrel-on-a-tree.html",
+				
+				"content_html": "<p>Squirrel on a tree.</p>\n\n<p><img src=\"uploads/2026/0632301ba5c449aba4ad11976f3d5291.jpg\" width=\"600\" height=\"600\" alt=\"Red squirrel holding on to a tree trunk. \"></p>\n",
+				"content_text": "Squirrel on a tree. \n\n<img src=\"uploads/2026/0632301ba5c449aba4ad11976f3d5291.jpg\" width=\"600\" height=\"600\" alt=\"Red squirrel holding on to a tree trunk. \">\n",
+				"date_published": "2026-04-26T18:27:07-04:00",
+				"url": "https://micro.bitdepth.org/2026/04/26/squirrel-on-a-tree.html",
+				"tags": ["Photos"]
+			},
+			{
 				"id": "http://bitdepth.micro.blog/2026/04/23/watching-peter-weirs-film-the.html",
 				
 				"content_html": "<p>Watching Peter Weir’s 1977 film : <a href=\"https://www.themoviedb.org/movie/72277\">The Last Wave</a> on The Criterion Channel. 🍿</p>\n",
