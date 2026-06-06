@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://bitdepth.micro.blog/2026/06/05/watching-the-documentary-strange-journey.html",
+				
+				"content_html": "<p>Watching the 2025 documentary : <a href=\"https://www.themoviedb.org/movie/1422600\">Strange Journey: The Story of Rocky Horror</a> . 🍿</p>\n",
+				"content_text": "Watching the 2025 documentary : [Strange Journey: The Story of Rocky Horror](https://www.themoviedb.org/movie/1422600) . 🍿\n",
+				"date_published": "2026-06-05T20:06:54-04:00",
+				"url": "https://micro.bitdepth.org/2026/06/05/watching-the-documentary-strange-journey.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2026/06/04/watching-jane-campions-sad-and.html",
+				
+				"content_html": "<p>Watching Jane Campion’s sad and beautiful 1990 film : <a href=\"https://www.themoviedb.org/movie/2891\">An Angel at My Table</a> again.🍿</p>\n",
+				"content_text": "Watching Jane Campion’s sad and beautiful 1990 film : [An Angel at My Table](https://www.themoviedb.org/movie/2891) again.🍿\n",
+				"date_published": "2026-06-04T16:44:18-04:00",
+				"url": "https://micro.bitdepth.org/2026/06/04/watching-jane-campions-sad-and.html"
+			},
+			{
 				"id": "http://bitdepth.micro.blog/2026/06/03/really-enjoying-star-city-so.html",
 				
 				"content_html": "<p>Really enjoying <em>Star City</em> so far. Great production design and cinematography with a grittier and darker story than <em>For All Mankind</em>.</p>\n",
@@ -33,8 +49,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2026/06/01/dandelion-clock.html",
 				
-				"content_html": "<p>Dandelion clock.</p>\n\n<p><img src=\"uploads/2026/69be5a7938ea4624b2566f48eaa46c3b.jpg\" width=\"600\" height=\"600\" alt=\"Dandelion clock with drops of water on it.\"></p>\n",
-				"content_text": "Dandelion clock.\n\n<img src=\"uploads/2026/69be5a7938ea4624b2566f48eaa46c3b.jpg\" width=\"600\" height=\"600\" alt=\"Dandelion clock with drops of water on it.\">\n",
+				"content_html": "<p>Dandelion clock.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/1352/2026/69be5a7938ea4624b2566f48eaa46c3b.jpg\" width=\"600\" height=\"600\" alt=\"Dandelion clock with drops of water on it.\"></p>\n",
+				"content_text": "Dandelion clock.\n\n<img src=\"https://cdn.uploads.micro.blog/1352/2026/69be5a7938ea4624b2566f48eaa46c3b.jpg\" width=\"600\" height=\"600\" alt=\"Dandelion clock with drops of water on it.\">\n",
 				"date_published": "2026-06-01T12:59:26-04:00",
 				"url": "https://micro.bitdepth.org/2026/06/01/dandelion-clock.html",
 				"tags": ["Photos"]
