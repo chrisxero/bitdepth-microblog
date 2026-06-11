@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://bitdepth.micro.blog/2026/06/11/watching-rebecca-zlotowskis-murder-mystery.html",
+				
+				"content_html": "<p>Watching Rebecca Zlotowski’s 2025 murder mystery comedy : <a href=\"https://www.themoviedb.org/movie/1290432\">A Private Life</a> again. 🍿</p>\n",
+				"content_text": "Watching Rebecca Zlotowski’s 2025 murder mystery comedy : [A Private Life](https://www.themoviedb.org/movie/1290432) again. 🍿\n",
+				"date_published": "2026-06-11T18:18:53-04:00",
+				"url": "https://micro.bitdepth.org/2026/06/11/watching-rebecca-zlotowskis-murder-mystery.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2026/06/10/watched-backrooms-this-afternoon-which.html",
+				
+				"content_html": "<p>Watched <a href=\"https://www.themoviedb.org/movie/1083381\">Backrooms</a> this afternoon which I liked and after the film was over I was in the large, confusing hallway of the multiplex which was unnerving after watching a film about a similar space. 🍿</p>\n",
+				"content_text": "Watched [Backrooms](https://www.themoviedb.org/movie/1083381) this afternoon which I liked and after the film was over I was in the large, confusing hallway of the multiplex which was unnerving after watching a film about a similar space. 🍿\n",
+				"date_published": "2026-06-10T16:49:26-04:00",
+				"url": "https://micro.bitdepth.org/2026/06/10/watched-backrooms-this-afternoon-which.html"
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2026/06/09/booked-my-ticket-for-disclosure.html",
+				
+				"content_html": "<p>Booked my ticket for <em>Disclosure Day</em> in IMAX this weekend.</p>\n",
+				"content_text": "Booked my ticket for _Disclosure Day_ in IMAX this weekend. \n",
+				"date_published": "2026-06-09T20:22:02-04:00",
+				"url": "https://micro.bitdepth.org/2026/06/09/booked-my-ticket-for-disclosure.html"
+			},
+			{
 				"id": "http://bitdepth.micro.blog/2026/06/09/watching-peter-weirs-brilliant-film.html",
 				
 				"content_html": "<p>Watching Peter Weir’s brilliant 1998 film : <a href=\"https://www.themoviedb.org/movie/37165\">The Truman Show</a> again for the first time in a while.🍿</p>\n",
@@ -26,7 +50,7 @@
 				"id": "http://bitdepth.micro.blog/2026/06/06/morning-espresso.html",
 				
 				"content_html": "<p>Morning espresso.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Morning espresso.\n\n<img src=\"uploads/2026/53b8432904b8478d9e305253108bb739.jpg\" width=\"600\" height=\"400\" alt=\"Espresso in an orange metal cup with a white interior on an espresso machine. \">\n",
+				"content_text": "Morning espresso.\n\n<img src=\"https://cdn.uploads.micro.blog/1352/2026/53b8432904b8478d9e305253108bb739.jpg\" width=\"600\" height=\"400\" alt=\"Espresso in an orange metal cup with a white interior on an espresso machine. \">\n",
 				"date_published": "2026-06-06T09:03:45-04:00",
 				"url": "https://micro.bitdepth.org/2026/06/06/morning-espresso.html",
 				"tags": ["Photos"]
