@@ -7,20 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://bitdepth.micro.blog/2026/06/25/macchiato.html",
+				
+				"content_html": "<p>Macchiato.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/1352/2026/357dd1f56acb4e079691a519d457bc79.jpg\" width=\"600\" height=\"400\" alt=\"Espresso macchiato with foam and heart shape design in a dark blue cup. \"></p>\n",
+				"content_text": "Macchiato. \n\n<img src=\"https://cdn.uploads.micro.blog/1352/2026/357dd1f56acb4e079691a519d457bc79.jpg\" width=\"600\" height=\"400\" alt=\"Espresso macchiato with foam and heart shape design in a dark blue cup. \">\n",
+				"date_published": "2026-06-25T09:02:32-03:00",
+				"url": "https://micro.bitdepth.org/2026/06/25/macchiato.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://bitdepth.micro.blog/2026/06/17/nice-day-for-a-walk.html",
+				
+				"content_html": "<p>Nice day for a walk.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/1352/2026/0f2ef63fd9644da0b26106fb7f0ffb0a.jpg\" width=\"600\" height=\"400\" alt=\"Paved trail with green bushes beside the trail and blue sky with white clouds above it. \"></p>\n",
+				"content_text": "Nice day for a walk. \n\n<img src=\"https://cdn.uploads.micro.blog/1352/2026/0f2ef63fd9644da0b26106fb7f0ffb0a.jpg\" width=\"600\" height=\"400\" alt=\"Paved trail with green bushes beside the trail and blue sky with white clouds above it. \">\n",
+				"date_published": "2026-06-17T12:08:33-03:00",
+				"url": "https://micro.bitdepth.org/2026/06/17/nice-day-for-a-walk.html",
+				"tags": ["Photos"]
+			},
+			{
 				"id": "http://bitdepth.micro.blog/2026/06/16/allez-les-bleus.html",
 				
 				"content_html": "<p>Allez les Bleus!</p>\n\n<p>🇫🇷⚽️</p>\n",
 				"content_text": "Allez les Bleus!\n\n🇫🇷⚽️\n",
 				"date_published": "2026-06-16T17:48:24-03:00",
 				"url": "https://micro.bitdepth.org/2026/06/16/allez-les-bleus.html"
-			},
-			{
-				"id": "http://bitdepth.micro.blog/2026/06/11/watching-rebecca-zlotowskis-murder-mystery.html",
-				
-				"content_html": "<p><img src=\"https://micro.blog/photos/100x/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw154%2FgrozteYTaspY4xaJRt3nw4zMtTs.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\"></p>\n\n<p>Watching Rebecca Zlotowski’s 2025 murder mystery comedy : <a href=\"https://www.themoviedb.org/movie/1290432\">A Private Life</a> again. 🍿</p>\n",
-				"content_text": "<img src=\"https://micro.blog/photos/100x/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw154%2FgrozteYTaspY4xaJRt3nw4zMtTs.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nWatching Rebecca Zlotowski’s 2025 murder mystery comedy : [A Private Life](https://www.themoviedb.org/movie/1290432) again. 🍿\n",
-				"date_published": "2026-06-11T19:18:53-03:00",
-				"url": "https://micro.bitdepth.org/2026/06/11/watching-rebecca-zlotowskis-murder-mystery.html"
 			},
 			{
 				"id": "http://bitdepth.micro.blog/2026/06/10/watched-backrooms-this-afternoon-which.html",
@@ -3979,14 +3989,6 @@
 				"date_published": "2023-10-01T18:19:01-04:00",
 				"url": "https://micro.bitdepth.org/2023/10/01/watching-the-preston.html",
 				"tags": ["Film"]
-			},
-			{
-				"id": "http://bitdepth.micro.blog/2023/10/01/wrapping-up-the.html",
-				"title": "Wrapping Up The 43rd Atlantic International Film Festival",
-				"content_html": "<p>I had a lot of fun this year at the Atlantic International Film Festival which happened even though a hurricane and power outages forced the cancellation of the busiest day of Saturday. But they were able to reschedule the films and the crowds were good and people were happy.</p>\n\n<p>Highlights for me were seeing Kore-Eda’s complex story <a href=\"https://boxd.it/DJEM\"><em>Monster</em></a>, the harrowing and stylistically-bold <a href=\"https://boxd.it/Boyu\"><em>The Settlers</em></a>, Alice Rohrwacher’s beautiful and poetic<a href=\"https://boxd.it/vzVi\"> <em>La Chimera</em></a>, Kaurismäki’s deadpan<a href=\"https://boxd.it/Bgew\"> <em>Fallen Leaves</em></a>, Wim Wenders’ meditative <a href=\"https://boxd.it/ATh8\"><em>Perfect Days</em></a>, Justine Triet’s spellbinding courtroom drama<a href=\"https://boxd.it/yuDE\"> <em>Anatomy of a Fall</em></a>, Chloe Robichaud’s character study <a href=\"https://boxd.it/w2dk\"><em>Days of Happiness</em></a>, and Ariane Louise-Seize’s quirky <a href=\"https://boxd.it/Blzk\"><em>Humanist Vampire Seeks Consenting Suicidal Person</em></a>.</p>\n",
-				"content_text": "I had a lot of fun this year at the Atlantic International Film Festival which happened even though a hurricane and power outages forced the cancellation of the busiest day of Saturday. But they were able to reschedule the films and the crowds were good and people were happy.\n\nHighlights for me were seeing Kore-Eda’s complex story [_Monster_](https://boxd.it/DJEM), the harrowing and stylistically-bold [_The Settlers_](https://boxd.it/Boyu), Alice Rohrwacher’s beautiful and poetic[ _La Chimera_](https://boxd.it/vzVi), Kaurismäki’s deadpan[ _Fallen Leaves_](https://boxd.it/Bgew), Wim Wenders’ meditative [_Perfect Days_](https://boxd.it/ATh8), Justine Triet’s spellbinding courtroom drama[ _Anatomy of a Fall_](https://boxd.it/yuDE), Chloe Robichaud’s character study [_Days of Happiness_](https://boxd.it/w2dk), and Ariane Louise-Seize’s quirky [_Humanist Vampire Seeks Consenting Suicidal Person_](https://boxd.it/Blzk).\n",
-				"date_published": "2023-10-01T11:44:36-03:00",
-				"url": "https://micro.bitdepth.org/2023/10/01/wrapping-up-the.html"
 			},
 			{
 				"id": "http://bitdepth.micro.blog/2023/10/01/best-newtome-films.html",
