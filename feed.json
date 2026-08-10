@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://bitdepth.micro.blog/2026/08/10/watching-john-sayles-brilliant-film.html",
+				
+				"content_html": "<p>Watching John Sayles’ brilliant 1996 film : <a href=\"https://www.themoviedb.org/movie/26748\">Lone Star</a> again. 🎬</p>\n",
+				"content_text": "Watching John Sayles’ brilliant 1996 film : [Lone Star](https://www.themoviedb.org/movie/26748) again. 🎬\n",
+				"date_published": "2026-08-10T20:03:17-03:00",
+				"url": "https://micro.bitdepth.org/2026/08/10/watching-john-sayles-brilliant-film.html"
+			},
+			{
 				"id": "http://bitdepth.micro.blog/2026/08/07/watching-steven-soderberghs-film-the.html",
 				
 				"content_html": "<p><img src=\"https://micro.blog/photos/100x/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw154%2Fs6oUrGMNl8hVh7fn0O8oF2rHwrM.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\"></p>\n\n<p>Watching Steven Soderbergh’s 2025 film : <a href=\"https://www.themoviedb.org/movie/1400357\">The Christophers</a> . 🎬</p>\n",
@@ -25,8 +33,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2026/07/22/bee-on-a-flower.html",
 				
-				"content_html": "<p>Bee on a flower.</p>\n\n<p><img src=\"uploads/2026/7f8d18b31e8e46948c0e393213e4d3d6.jpg\" width=\"600\" height=\"600\" alt=\"Bee on a flower. \"></p>\n",
-				"content_text": "Bee on a flower. \n\n<img src=\"uploads/2026/7f8d18b31e8e46948c0e393213e4d3d6.jpg\" width=\"600\" height=\"600\" alt=\"Bee on a flower. \">\n",
+				"content_html": "<p>Bee on a flower.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/1352/2026/7f8d18b31e8e46948c0e393213e4d3d6.jpg\" width=\"600\" height=\"600\" alt=\"Bee on a flower. \"></p>\n",
+				"content_text": "Bee on a flower. \n\n<img src=\"https://cdn.uploads.micro.blog/1352/2026/7f8d18b31e8e46948c0e393213e4d3d6.jpg\" width=\"600\" height=\"600\" alt=\"Bee on a flower. \">\n",
 				"date_published": "2026-07-22T21:38:09-03:00",
 				"url": "https://micro.bitdepth.org/2026/07/22/bee-on-a-flower.html",
 				"tags": ["Photos"]
@@ -42,8 +50,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2026/07/05/echinacea-flowers.html",
 				
-				"content_html": "<p>Echinacea flowers.</p>\n\n<p><img src=\"uploads/2026/1b25367e1c954f228b2df376809262d7.jpg\" width=\"600\" height=\"400\" alt=\"Yellow and pink echinacea flowers with green grass in the background. \"></p>\n",
-				"content_text": "Echinacea flowers. \n\n<img src=\"uploads/2026/1b25367e1c954f228b2df376809262d7.jpg\" width=\"600\" height=\"400\" alt=\"Yellow and pink echinacea flowers with green grass in the background. \">\n",
+				"content_html": "<p>Echinacea flowers.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/1352/2026/1b25367e1c954f228b2df376809262d7.jpg\" width=\"600\" height=\"400\" alt=\"Yellow and pink echinacea flowers with green grass in the background. \"></p>\n",
+				"content_text": "Echinacea flowers. \n\n<img src=\"https://cdn.uploads.micro.blog/1352/2026/1b25367e1c954f228b2df376809262d7.jpg\" width=\"600\" height=\"400\" alt=\"Yellow and pink echinacea flowers with green grass in the background. \">\n",
 				"date_published": "2026-07-05T10:33:55-03:00",
 				"url": "https://micro.bitdepth.org/2026/07/05/echinacea-flowers.html",
 				"tags": ["Photos"]
