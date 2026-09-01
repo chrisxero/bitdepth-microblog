@@ -7,10 +7,18 @@
 	"items": [
 		
 			{
+				"id": "http://bitdepth.micro.blog/2026/09/01/was-just-outside-taking-a.html",
+				
+				"content_html": "<p>Was just outside taking a walk and saw a fox cross the street.</p>\n",
+				"content_text": "Was just outside taking a walk and saw a fox cross the street. \n",
+				"date_published": "2026-09-01T19:31:13-03:00",
+				"url": "https://micro.bitdepth.org/2026/09/01/was-just-outside-taking-a.html"
+			},
+			{
 				"id": "http://bitdepth.micro.blog/2026/08/30/watching-claire-denis-understated-thriller.html",
 				
-				"content_html": "<p>Watching Claire Denis’ understated thriller : <a href=\"https://www.themoviedb.org/movie/603204\">Stars at Noon</a> again. 🎬</p>\n",
-				"content_text": "Watching Claire Denis’ understated thriller : [Stars at Noon](https://www.themoviedb.org/movie/603204) again. 🎬\n",
+				"content_html": "<p><img src=\"https://micro.blog/photos/100x/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw154%2FviR50oQCs8ObciADFGWHUyChexZ.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\"></p>\n\n<p>Watching Claire Denis’ understated thriller : <a href=\"https://www.themoviedb.org/movie/603204\">Stars at Noon</a> again. 🎬</p>\n",
+				"content_text": "<img src=\"https://micro.blog/photos/100x/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw154%2FviR50oQCs8ObciADFGWHUyChexZ.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nWatching Claire Denis’ understated thriller : [Stars at Noon](https://www.themoviedb.org/movie/603204) again. 🎬\n",
 				"date_published": "2026-08-30T18:32:17-03:00",
 				"url": "https://micro.bitdepth.org/2026/08/30/watching-claire-denis-understated-thriller.html"
 			},
@@ -41,8 +49,8 @@
 			{
 				"id": "http://bitdepth.micro.blog/2026/08/20/looking-towards-cape-split-from.html",
 				
-				"content_html": "<p>Looking towards Cape Split from Halls Harbour.</p>\n\n<p><img src=\"uploads/2026/005476cbf6654c0c8d3732028402f9f0.jpg\" width=\"600\" height=\"400\" alt=\"Greyish ocean with grey clouds above with a few rocks to the right. \"></p>\n",
-				"content_text": "Looking towards Cape Split from Halls Harbour. \n\n<img src=\"uploads/2026/005476cbf6654c0c8d3732028402f9f0.jpg\" width=\"600\" height=\"400\" alt=\"Greyish ocean with grey clouds above with a few rocks to the right. \">\n",
+				"content_html": "<p>Looking towards Cape Split from Halls Harbour.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/1352/2026/005476cbf6654c0c8d3732028402f9f0.jpg\" width=\"600\" height=\"400\" alt=\"Greyish ocean with grey clouds above with a few rocks to the right. \"></p>\n",
+				"content_text": "Looking towards Cape Split from Halls Harbour. \n\n<img src=\"https://cdn.uploads.micro.blog/1352/2026/005476cbf6654c0c8d3732028402f9f0.jpg\" width=\"600\" height=\"400\" alt=\"Greyish ocean with grey clouds above with a few rocks to the right. \">\n",
 				"date_published": "2026-08-20T08:56:25-03:00",
 				"url": "https://micro.bitdepth.org/2026/08/20/looking-towards-cape-split-from.html",
 				"tags": ["Photos"]
